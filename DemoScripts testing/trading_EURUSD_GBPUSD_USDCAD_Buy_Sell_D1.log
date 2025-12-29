@@ -1,0 +1,835 @@
+2024-10-08 14:41:08,374 - INFO - Processing pair: GBPUSD for Buy and Sell
+2024-10-08 14:41:08,375 - INFO - Processing pair: USDCAD for Buy and Sell
+2024-10-08 14:41:08,375 - INFO - Processing pair: EURUSD for Buy and Sell
+2024-10-08 14:41:08,604 - WARNING - Sell model or scaler missing for EURUSD
+2024-10-08 14:41:21,330 - INFO - Connected to MetaTrader 5
+2024-10-08 14:41:22,229 - INFO - Connected to MetaTrader 5
+2024-10-08 14:41:22,229 - INFO - Connected to MetaTrader 5
+2024-10-09 00:30:22,502 - INFO - Fetching and processing data for USDCAD
+2024-10-09 00:30:22,503 - INFO - Fetching and processing data for GBPUSD
+2024-10-09 00:30:22,503 - INFO - Fetching and processing data for EURUSD
+2024-10-09 00:30:22,520 - INFO - Fetching historical data for USDCAD
+2024-10-09 00:30:22,521 - INFO - Fetching historical data for GBPUSD
+2024-10-09 00:30:22,522 - INFO - Fetching historical data for EURUSD
+2024-10-09 00:30:28,539 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-09 00:30:28,693 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-09 00:30:28,748 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-09 00:30:44,957 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-09 00:30:45,258 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-09 00:30:45,263 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-09 00:30:56,037 - INFO - No Buy signal generated for USDCAD. Doing nothing.
+2024-10-09 00:30:56,038 - INFO - Fetching and processing data for USDCAD
+2024-10-09 00:30:56,038 - INFO - Fetching historical data for USDCAD
+2024-10-09 00:30:56,070 - INFO - No Buy signal generated for GBPUSD. Doing nothing.
+2024-10-09 00:30:56,070 - INFO - Fetching and processing data for GBPUSD
+2024-10-09 00:30:56,071 - INFO - Fetching historical data for GBPUSD
+2024-10-09 00:30:56,090 - INFO - No Buy signal generated for EURUSD. Doing nothing.
+2024-10-09 00:30:56,090 - INFO - Finished trading for EURUSD at 00:20 UTC
+2024-10-09 00:31:00,205 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-09 00:31:00,224 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-09 00:31:12,217 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-09 00:31:12,226 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-09 00:31:20,460 - INFO - Placing Sell order for GBPUSD
+2024-10-09 00:31:20,460 - ERROR - Order placement failed for GBPUSD: 10016 - (1, 'Success')
+2024-10-09 00:31:20,460 - INFO - Finished trading for GBPUSD at 00:20 UTC
+2024-10-09 00:31:20,461 - INFO - No Sell signal generated for USDCAD. Doing nothing.
+2024-10-09 00:31:20,461 - INFO - Finished trading for USDCAD at 00:20 UTC
+2024-10-09 10:19:27,857 - INFO - Processing pair: GBPUSD for Buy and Sell
+2024-10-09 10:19:27,858 - INFO - Processing pair: USDCAD for Buy and Sell
+2024-10-09 10:19:27,858 - INFO - Processing pair: EURUSD for Buy and Sell
+2024-10-09 10:19:28,243 - WARNING - Sell model or scaler missing for EURUSD
+2024-10-09 10:19:41,559 - INFO - Connected to MetaTrader 5
+2024-10-09 10:19:41,559 - INFO - Connected to MetaTrader 5
+2024-10-09 10:19:41,559 - INFO - Connected to MetaTrader 5
+2024-10-09 15:53:06,383 - INFO - Processing pair: GBPUSD for Buy and Sell
+2024-10-09 15:53:06,383 - INFO - Processing pair: USDCAD for Buy and Sell
+2024-10-09 15:53:06,383 - INFO - Processing pair: EURUSD for Buy and Sell
+2024-10-09 15:53:06,628 - WARNING - Sell model or scaler missing for EURUSD
+2024-10-09 15:53:20,162 - INFO - Connected to MetaTrader 5
+2024-10-09 15:53:20,162 - INFO - Connected to MetaTrader 5
+2024-10-09 15:53:20,162 - INFO - Connected to MetaTrader 5
+2024-10-09 15:54:36,528 - INFO - Processing pair: GBPUSD for Buy and Sell
+2024-10-09 15:54:36,528 - INFO - Processing pair: USDCAD for Buy and Sell
+2024-10-09 15:54:36,528 - INFO - Processing pair: EURUSD for Buy and Sell
+2024-10-09 15:54:36,753 - WARNING - Sell model or scaler missing for EURUSD
+2024-10-09 15:54:46,765 - INFO - Connected to MetaTrader 5
+2024-10-09 15:54:49,030 - INFO - Connected to MetaTrader 5
+2024-10-09 15:54:49,031 - INFO - Connected to MetaTrader 5
+2024-10-09 15:56:08,595 - INFO - Processing pair: GBPUSD for Buy and Sell
+2024-10-09 15:56:08,595 - INFO - Processing pair: USDCAD for Buy and Sell
+2024-10-09 15:56:08,595 - INFO - Processing pair: EURUSD for Buy and Sell
+2024-10-09 15:56:08,828 - WARNING - Sell model or scaler missing for EURUSD
+2024-10-09 15:56:22,477 - INFO - Connected to MetaTrader 5
+2024-10-09 15:56:22,479 - INFO - Connected to MetaTrader 5
+2024-10-09 15:56:22,479 - INFO - Connected to MetaTrader 5
+2024-10-09 16:01:00,545 - INFO - Processing pair: GBPUSD for Buy and Sell
+2024-10-09 16:01:00,545 - INFO - Processing pair: USDCAD for Buy and Sell
+2024-10-09 16:01:00,545 - INFO - Processing pair: EURUSD for Buy and Sell
+2024-10-09 16:01:00,779 - WARNING - Sell model or scaler missing for EURUSD
+2024-10-09 16:01:12,677 - INFO - Connected to MetaTrader 5
+2024-10-09 16:01:12,677 - INFO - Connected to MetaTrader 5
+2024-10-09 16:01:13,994 - INFO - Connected to MetaTrader 5
+2024-10-09 16:01:55,166 - INFO - Processing pair: GBPUSD for Buy and Sell
+2024-10-09 16:01:55,166 - INFO - Processing pair: USDCAD for Buy and Sell
+2024-10-09 16:01:55,166 - INFO - Processing pair: EURUSD for Buy and Sell
+2024-10-09 16:01:55,408 - WARNING - Sell model or scaler missing for EURUSD
+2024-10-09 16:02:07,840 - INFO - Connected to MetaTrader 5
+2024-10-09 16:02:08,737 - INFO - Connected to MetaTrader 5
+2024-10-09 16:02:08,737 - INFO - Connected to MetaTrader 5
+2024-10-09 16:03:08,738 - INFO - Fetching and processing data for EURUSD
+2024-10-09 16:03:08,738 - INFO - Fetching and processing data for GBPUSD
+2024-10-09 16:03:08,738 - INFO - Fetching historical data for GBPUSD
+2024-10-09 16:03:08,745 - INFO - Fetching and processing data for USDCAD
+2024-10-09 16:03:08,745 - INFO - Fetching historical data for USDCAD
+2024-10-09 16:03:08,779 - INFO - Fetching historical data for EURUSD
+2024-10-09 16:03:14,897 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-09 16:03:14,914 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-09 16:03:14,923 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-09 16:03:33,757 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-09 16:03:34,012 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-09 16:03:35,026 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-09 16:03:45,962 - INFO - MetaTrader 5 connection closed for EURUSD.
+2024-10-09 16:03:46,145 - INFO - MetaTrader 5 connection closed for USDCAD.
+2024-10-09 16:03:47,028 - INFO - MetaTrader 5 connection closed for GBPUSD.
+2024-10-09 16:06:50,430 - INFO - Processing pair: GBPUSD for Buy and Sell
+2024-10-09 16:06:50,431 - INFO - Processing pair: USDCAD for Buy and Sell
+2024-10-09 16:06:50,432 - INFO - Processing pair: EURUSD for Buy and Sell
+2024-10-09 16:06:50,532 - WARNING - Sell model or scaler missing for EURUSD
+2024-10-09 16:07:02,592 - INFO - Connected to MetaTrader 5
+2024-10-09 16:07:03,177 - INFO - Connected to MetaTrader 5
+2024-10-09 16:07:03,177 - INFO - Connected to MetaTrader 5
+2024-10-09 16:08:03,178 - INFO - Fetching and processing data for EURUSD
+2024-10-09 16:08:03,179 - INFO - Fetching and processing data for GBPUSD
+2024-10-09 16:08:03,179 - INFO - Fetching and processing data for USDCAD
+2024-10-09 16:08:03,179 - INFO - Fetching historical data for EURUSD
+2024-10-09 16:08:03,179 - INFO - Fetching historical data for GBPUSD
+2024-10-09 16:08:03,179 - INFO - Fetching historical data for USDCAD
+2024-10-09 16:08:09,232 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-09 16:08:09,288 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-09 16:08:09,738 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-09 16:08:29,715 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-09 16:08:29,983 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-09 16:08:30,313 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-09 16:08:43,313 - INFO - No Buy signal generated for GBPUSD. Doing nothing.
+2024-10-09 16:08:43,327 - INFO - Fetching and processing data for GBPUSD
+2024-10-09 16:08:43,345 - INFO - Fetching historical data for GBPUSD
+2024-10-09 16:08:43,829 - INFO - No Buy signal generated for EURUSD. Doing nothing.
+2024-10-09 16:08:43,829 - INFO - Finished trading for EURUSD at 00:20 UTC
+2024-10-09 16:08:44,047 - INFO - No Buy signal generated for USDCAD. Doing nothing.
+2024-10-09 16:08:44,048 - INFO - Fetching and processing data for USDCAD
+2024-10-09 16:08:44,048 - INFO - Fetching historical data for USDCAD
+2024-10-09 16:08:48,124 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-09 16:08:49,093 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-09 16:09:02,295 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-09 16:09:03,486 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-09 16:09:11,913 - INFO - Placing Sell order for GBPUSD
+2024-10-09 16:09:11,914 - ERROR - Order placement failed for GBPUSD: 10016 - (1, 'Success')
+2024-10-09 16:09:11,914 - INFO - Finished trading for GBPUSD at 00:20 UTC
+2024-10-09 16:09:12,634 - INFO - No Sell signal generated for USDCAD. Doing nothing.
+2024-10-09 16:09:12,634 - INFO - Finished trading for USDCAD at 00:20 UTC
+2024-10-09 16:19:22,743 - INFO - Processing pair: GBPUSD for Buy and Sell
+2024-10-09 16:19:22,743 - INFO - Processing pair: USDCAD for Buy and Sell
+2024-10-09 16:19:22,744 - INFO - Processing pair: EURUSD for Buy and Sell
+2024-10-09 16:19:22,969 - WARNING - Sell model or scaler missing for EURUSD
+2024-10-09 16:19:36,744 - INFO - Connected to MetaTrader 5
+2024-10-09 16:19:36,745 - INFO - Connected to MetaTrader 5
+2024-10-09 16:19:36,745 - INFO - Connected to MetaTrader 5
+2024-10-09 16:21:36,746 - INFO - Fetching and processing data for EURUSD
+2024-10-09 16:21:36,746 - INFO - Fetching historical data for EURUSD
+2024-10-09 16:21:36,747 - INFO - Fetching and processing data for GBPUSD
+2024-10-09 16:21:36,747 - INFO - Fetching and processing data for USDCAD
+2024-10-09 16:21:36,761 - INFO - Fetching historical data for USDCAD
+2024-10-09 16:21:36,760 - INFO - Fetching historical data for GBPUSD
+2024-10-09 16:21:42,878 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-09 16:21:42,900 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-09 16:21:43,818 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-09 16:22:01,737 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-09 16:22:01,901 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-09 16:22:01,934 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-09 16:22:15,142 - INFO - MetaTrader 5 connection closed for GBPUSD.
+2024-10-09 16:22:15,760 - INFO - MetaTrader 5 connection closed for EURUSD.
+2024-10-09 16:22:15,760 - INFO - MetaTrader 5 connection closed for USDCAD.
+2024-10-09 16:24:58,828 - INFO - Processing pair: GBPUSD for Buy and Sell
+2024-10-09 16:24:58,829 - INFO - Processing pair: USDCAD for Buy and Sell
+2024-10-09 16:24:58,829 - INFO - Processing pair: EURUSD for Buy and Sell
+2024-10-09 16:24:58,953 - WARNING - Sell model or scaler missing for EURUSD
+2024-10-09 16:25:11,877 - INFO - Connected to MetaTrader 5
+2024-10-09 16:25:11,878 - INFO - Connected to MetaTrader 5
+2024-10-09 16:25:11,878 - INFO - Connected to MetaTrader 5
+2024-10-09 16:25:50,416 - INFO - Processing pair: GBPUSD for Buy and Sell
+2024-10-09 16:25:50,416 - INFO - Processing pair: USDCAD for Buy and Sell
+2024-10-09 16:25:50,417 - INFO - Processing pair: EURUSD for Buy and Sell
+2024-10-09 16:25:50,719 - WARNING - Sell model or scaler missing for EURUSD
+2024-10-09 16:26:03,379 - INFO - Connected to MetaTrader 5
+2024-10-09 16:26:04,359 - INFO - Connected to MetaTrader 5
+2024-10-09 16:26:04,359 - INFO - Fetching and processing data for USDCAD
+2024-10-09 16:26:04,359 - INFO - Fetching historical data for USDCAD
+2024-10-09 16:26:04,362 - INFO - Connected to MetaTrader 5
+2024-10-09 16:26:04,362 - INFO - Fetching and processing data for GBPUSD
+2024-10-09 16:26:04,362 - INFO - Fetching historical data for GBPUSD
+2024-10-09 16:26:04,362 - INFO - Fetching and processing data for EURUSD
+2024-10-09 16:26:04,362 - INFO - Fetching historical data for EURUSD
+2024-10-09 16:26:10,885 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-09 16:26:11,134 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-09 16:26:12,178 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-09 16:26:31,287 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-09 16:26:31,294 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-09 16:26:35,352 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-09 16:26:45,241 - INFO - MetaTrader 5 connection closed for GBPUSD.
+2024-10-09 16:26:45,242 - INFO - MetaTrader 5 connection closed for EURUSD.
+2024-10-09 16:26:47,165 - INFO - MetaTrader 5 connection closed for USDCAD.
+2024-10-09 16:27:31,387 - INFO - Processing pair: GBPUSD for Buy and Sell
+2024-10-09 16:27:31,388 - INFO - Processing pair: USDCAD for Buy and Sell
+2024-10-09 16:27:31,388 - INFO - Processing pair: EURUSD for Buy and Sell
+2024-10-09 16:27:31,476 - WARNING - Sell model or scaler missing for EURUSD
+2024-10-09 16:27:44,995 - INFO - Connected to MetaTrader 5
+2024-10-09 16:27:44,995 - INFO - Connected to MetaTrader 5
+2024-10-09 16:27:44,996 - INFO - Connected to MetaTrader 5
+2024-10-09 16:28:44,997 - INFO - Fetching and processing data for USDCAD
+2024-10-09 16:28:44,997 - INFO - Fetching historical data for USDCAD
+2024-10-09 16:28:44,997 - INFO - Fetching and processing data for GBPUSD
+2024-10-09 16:28:44,997 - INFO - Fetching and processing data for EURUSD
+2024-10-09 16:28:45,011 - INFO - Fetching historical data for GBPUSD
+2024-10-09 16:28:45,012 - INFO - Fetching historical data for EURUSD
+2024-10-09 16:28:51,144 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-09 16:28:51,302 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-09 16:28:51,535 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-09 16:29:10,859 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-09 16:29:11,057 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-09 16:29:11,065 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-09 16:29:24,511 - INFO - MetaTrader 5 connection closed for EURUSD.
+2024-10-09 16:29:24,548 - INFO - MetaTrader 5 connection closed for USDCAD.
+2024-10-09 16:29:24,649 - INFO - MetaTrader 5 connection closed for GBPUSD.
+2024-10-09 16:31:39,098 - INFO - Processing pair: GBPUSD for Buy and Sell
+2024-10-09 16:31:39,098 - INFO - Processing pair: USDCAD for Buy and Sell
+2024-10-09 16:31:39,100 - INFO - Processing pair: EURUSD for Buy and Sell
+2024-10-09 16:31:39,207 - WARNING - Sell model or scaler missing for EURUSD
+2024-10-09 16:31:51,844 - INFO - Connected to MetaTrader 5
+2024-10-09 16:31:52,727 - INFO - Connected to MetaTrader 5
+2024-10-09 16:31:52,727 - INFO - Connected to MetaTrader 5
+2024-10-09 16:35:52,729 - INFO - Fetching and processing data for EURUSD
+2024-10-09 16:35:52,729 - INFO - Fetching and processing data for GBPUSD
+2024-10-09 16:35:52,729 - INFO - Fetching historical data for GBPUSD
+2024-10-09 16:35:52,729 - INFO - Fetching historical data for EURUSD
+2024-10-09 16:35:52,744 - INFO - Fetching and processing data for USDCAD
+2024-10-09 16:35:52,745 - INFO - Fetching historical data for USDCAD
+2024-10-09 16:35:58,829 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-09 16:35:58,829 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-09 16:35:58,866 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-09 16:36:17,412 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-09 16:36:17,662 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-09 16:36:17,810 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-09 16:36:30,744 - INFO - No Buy signal generated for USDCAD. Doing nothing.
+2024-10-09 16:36:30,745 - INFO - Fetching and processing data for USDCAD
+2024-10-09 16:36:30,745 - INFO - Fetching historical data for USDCAD
+2024-10-09 16:36:30,745 - INFO - No Buy signal generated for EURUSD. Doing nothing.
+2024-10-09 16:36:30,745 - INFO - Finished trading for EURUSD at 00:20 UTC
+2024-10-09 16:36:30,745 - INFO - No Buy signal generated for GBPUSD. Doing nothing.
+2024-10-09 16:36:30,745 - INFO - Fetching and processing data for GBPUSD
+2024-10-09 16:36:30,745 - INFO - Fetching historical data for GBPUSD
+2024-10-09 16:36:35,429 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-09 16:36:35,445 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-09 16:36:49,116 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-09 16:36:49,211 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-09 16:36:58,312 - INFO - No Sell signal generated for USDCAD. Doing nothing.
+2024-10-09 16:36:58,312 - INFO - Finished trading for USDCAD at 00:20 UTC
+2024-10-09 16:36:58,312 - INFO - Placing Sell order for GBPUSD
+2024-10-09 16:36:58,312 - ERROR - Order placement failed for GBPUSD: 10016 - (1, 'Success')
+2024-10-09 16:36:58,312 - INFO - Finished trading for GBPUSD at 00:20 UTC
+2024-10-09 16:38:01,697 - INFO - Processing pair: GBPUSD for Buy and Sell
+2024-10-09 16:38:01,697 - INFO - Processing pair: USDCAD for Buy and Sell
+2024-10-09 16:38:01,697 - INFO - Processing pair: EURUSD for Buy and Sell
+2024-10-09 16:38:01,949 - WARNING - Sell model or scaler missing for EURUSD
+2024-10-09 16:38:15,762 - INFO - Connected to MetaTrader 5
+2024-10-09 16:38:15,762 - INFO - Connected to MetaTrader 5
+2024-10-09 16:38:15,762 - INFO - Connected to MetaTrader 5
+2024-10-10 00:35:15,964 - INFO - Fetching and processing data for EURUSD
+2024-10-10 00:35:15,965 - INFO - Fetching historical data for EURUSD
+2024-10-10 00:35:15,996 - INFO - Fetching and processing data for GBPUSD
+2024-10-10 00:35:15,999 - INFO - Fetching historical data for GBPUSD
+2024-10-10 00:35:16,016 - INFO - Fetching and processing data for USDCAD
+2024-10-10 00:35:16,016 - INFO - Fetching historical data for USDCAD
+2024-10-10 00:35:22,126 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-10 00:35:22,141 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-10 00:35:23,306 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-10 00:35:38,234 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-10 00:35:38,364 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-10 00:35:42,884 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-10 00:35:50,783 - INFO - No Buy signal generated for USDCAD. Doing nothing.
+2024-10-10 00:35:50,783 - INFO - Fetching and processing data for USDCAD
+2024-10-10 00:35:50,784 - INFO - Fetching historical data for USDCAD
+2024-10-10 00:35:50,823 - INFO - No Buy signal generated for EURUSD. Doing nothing.
+2024-10-10 00:35:50,823 - INFO - Finished trading for EURUSD at 00:20 UTC
+2024-10-10 00:35:54,092 - INFO - No Buy signal generated for GBPUSD. Doing nothing.
+2024-10-10 00:35:54,092 - INFO - Fetching and processing data for GBPUSD
+2024-10-10 00:35:54,092 - INFO - Fetching historical data for GBPUSD
+2024-10-10 00:35:54,760 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-10 00:35:58,503 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-10 00:36:07,615 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-10 00:36:11,861 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-10 00:36:16,911 - INFO - No Sell signal generated for USDCAD. Doing nothing.
+2024-10-10 00:36:16,912 - INFO - Finished trading for USDCAD at 00:20 UTC
+2024-10-10 00:36:19,202 - INFO - Placing Sell order for GBPUSD
+2024-10-10 00:36:19,203 - ERROR - Order placement failed for GBPUSD: 10016 - (1, 'Success')
+2024-10-10 00:36:19,203 - INFO - Finished trading for GBPUSD at 00:20 UTC
+2024-10-11 00:35:17,625 - INFO - Fetching and processing data for USDCAD
+2024-10-11 00:35:17,625 - INFO - Fetching historical data for USDCAD
+2024-10-11 00:35:19,914 - INFO - Fetching and processing data for GBPUSD
+2024-10-11 00:35:19,914 - INFO - Fetching historical data for GBPUSD
+2024-10-11 00:35:20,469 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-11 00:35:23,807 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-11 00:35:32,172 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-11 00:35:35,826 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-11 00:35:40,540 - INFO - No Buy signal generated for USDCAD. Doing nothing.
+2024-10-11 00:35:40,540 - INFO - Fetching and processing data for USDCAD
+2024-10-11 00:35:40,541 - INFO - Fetching historical data for USDCAD
+2024-10-11 00:35:43,916 - INFO - No Buy signal generated for GBPUSD. Doing nothing.
+2024-10-11 00:35:43,916 - INFO - Fetching and processing data for GBPUSD
+2024-10-11 00:35:43,917 - INFO - Fetching historical data for GBPUSD
+2024-10-11 00:35:44,519 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-11 00:35:48,198 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-11 00:35:51,555 - INFO - Fetching and processing data for EURUSD
+2024-10-11 00:35:51,556 - INFO - Fetching historical data for EURUSD
+2024-10-11 00:35:57,831 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-11 00:36:00,967 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-11 00:36:05,280 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-11 00:36:14,299 - INFO - No Sell signal generated for USDCAD. Doing nothing.
+2024-10-11 00:36:14,299 - INFO - Finished trading for USDCAD at 00:20 UTC
+2024-10-11 00:36:15,085 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-11 00:36:16,595 - INFO - Placing Sell order for GBPUSD
+2024-10-11 00:36:16,595 - ERROR - Order placement failed for GBPUSD: 10016 - (1, 'Success')
+2024-10-11 00:36:16,596 - INFO - Finished trading for GBPUSD at 00:20 UTC
+2024-10-11 00:36:21,048 - INFO - No Buy signal generated for EURUSD. Doing nothing.
+2024-10-11 00:36:21,048 - INFO - Finished trading for EURUSD at 00:20 UTC
+2024-10-11 14:45:45,945 - INFO - Processing pair: GBPUSD for Buy and Sell
+2024-10-11 14:45:45,945 - INFO - Processing pair: USDCAD for Buy and Sell
+2024-10-11 14:45:45,946 - INFO - Processing pair: EURUSD for Buy and Sell
+2024-10-11 14:45:46,207 - WARNING - Sell model or scaler missing for EURUSD
+2024-10-11 14:46:01,619 - INFO - Connected to MetaTrader 5
+2024-10-11 14:46:01,619 - INFO - Connected to MetaTrader 5
+2024-10-11 14:46:01,619 - INFO - Fetching and processing data for USDCAD
+2024-10-11 14:46:01,619 - INFO - Fetching historical data for USDCAD
+2024-10-11 14:46:01,620 - INFO - Fetching and processing data for EURUSD
+2024-10-11 14:46:01,620 - INFO - Connected to MetaTrader 5
+2024-10-11 14:46:01,736 - INFO - Fetching and processing data for GBPUSD
+2024-10-11 14:46:01,736 - INFO - Fetching historical data for GBPUSD
+2024-10-11 14:46:01,734 - INFO - Fetching historical data for EURUSD
+2024-10-11 14:46:07,654 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-11 14:46:08,018 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-11 14:46:08,030 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-11 14:46:26,270 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-11 14:46:26,484 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-11 14:46:26,848 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-11 14:46:39,705 - INFO - Placing Buy order for USDCAD
+2024-10-11 14:46:40,201 - INFO - Buy order placed successfully for USDCAD.
+2024-10-11 14:46:40,202 - INFO - Fetching and processing data for USDCAD
+2024-10-11 14:46:40,202 - INFO - Fetching historical data for USDCAD
+2024-10-11 14:46:40,222 - INFO - Placing Buy order for GBPUSD
+2024-10-11 14:46:40,687 - INFO - Buy order placed successfully for GBPUSD.
+2024-10-11 14:46:40,688 - INFO - Fetching and processing data for GBPUSD
+2024-10-11 14:46:40,688 - INFO - Fetching historical data for GBPUSD
+2024-10-11 14:46:40,753 - INFO - Placing Buy order for EURUSD
+2024-10-11 14:46:41,458 - INFO - Buy order placed successfully for EURUSD.
+2024-10-11 14:46:41,458 - INFO - Finished trading for EURUSD at 00:20 UTC
+2024-10-11 14:46:45,372 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-11 14:46:45,479 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-11 14:46:58,992 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-11 14:46:59,017 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-11 14:47:08,104 - INFO - Both Buy and Sell predictions are 1 for USDCAD. No trade will be taken.
+2024-10-11 14:47:08,104 - INFO - Skipping trade for USDCAD due to both Buy and Sell signals being active.
+2024-10-11 14:47:08,104 - INFO - Finished trading for USDCAD at 00:20 UTC
+2024-10-11 14:47:08,105 - INFO - Both Buy and Sell predictions are 1 for GBPUSD. No trade will be taken.
+2024-10-11 14:47:08,105 - INFO - Skipping trade for GBPUSD due to both Buy and Sell signals being active.
+2024-10-11 14:47:08,105 - INFO - Finished trading for GBPUSD at 00:20 UTC
+2024-10-11 14:55:53,055 - INFO - Processing pair: GBPUSD for Buy and Sell
+2024-10-11 14:55:53,055 - INFO - Processing pair: USDCAD for Buy and Sell
+2024-10-11 14:55:53,055 - INFO - Processing pair: EURUSD for Buy and Sell
+2024-10-11 14:55:53,303 - WARNING - Sell model or scaler missing for EURUSD
+2024-10-11 14:56:03,319 - INFO - Connected to MetaTrader 5
+2024-10-11 14:56:05,112 - INFO - Connected to MetaTrader 5
+2024-10-11 14:56:05,112 - INFO - Connected to MetaTrader 5
+2024-10-11 14:57:03,322 - INFO - Fetching and processing data for EURUSD
+2024-10-11 14:57:03,323 - INFO - Fetching historical data for EURUSD
+2024-10-11 14:57:05,113 - INFO - Fetching and processing data for GBPUSD
+2024-10-11 14:57:05,113 - INFO - Fetching historical data for GBPUSD
+2024-10-11 14:57:05,129 - INFO - Fetching and processing data for USDCAD
+2024-10-11 14:57:05,129 - INFO - Fetching historical data for USDCAD
+2024-10-11 14:57:08,105 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-11 14:57:10,978 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-11 14:57:11,005 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-11 14:57:25,314 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-11 14:57:30,536 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-11 14:57:30,551 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-11 14:57:37,829 - INFO - Placing Buy order for EURUSD
+2024-10-11 14:57:38,433 - INFO - Buy order placed successfully for EURUSD.
+2024-10-11 14:57:38,437 - INFO - Finished trading for EURUSD at 00:20 UTC
+2024-10-11 14:57:42,354 - INFO - Placing Buy order for USDCAD
+2024-10-11 14:57:42,931 - INFO - Buy order placed successfully for USDCAD.
+2024-10-11 14:57:42,931 - INFO - Placing Buy order for GBPUSD
+2024-10-11 14:57:42,931 - INFO - Fetching and processing data for USDCAD
+2024-10-11 14:57:43,728 - INFO - Buy order placed successfully for GBPUSD.
+2024-10-11 14:57:43,729 - INFO - Fetching and processing data for GBPUSD
+2024-10-11 14:57:43,729 - INFO - Fetching historical data for GBPUSD
+2024-10-11 14:57:43,729 - INFO - Fetching historical data for USDCAD
+2024-10-11 14:57:48,585 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-11 14:57:48,661 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-11 14:58:02,442 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-11 14:58:03,068 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-11 14:58:11,924 - INFO - Both Buy and Sell predictions are 1 for USDCAD. No trade will be taken.
+2024-10-11 14:58:11,933 - INFO - Skipping trade for USDCAD due to both Buy and Sell signals being active.
+2024-10-11 14:58:11,933 - INFO - Finished trading for USDCAD at 00:20 UTC
+2024-10-11 14:58:12,307 - INFO - Both Buy and Sell predictions are 1 for GBPUSD. No trade will be taken.
+2024-10-11 14:58:12,307 - INFO - Skipping trade for GBPUSD due to both Buy and Sell signals being active.
+2024-10-11 14:58:12,307 - INFO - Finished trading for GBPUSD at 00:20 UTC
+2024-10-11 15:06:42,505 - INFO - Processing pair: GBPUSD for Buy and Sell
+2024-10-11 15:06:42,505 - INFO - Processing pair: USDCAD for Buy and Sell
+2024-10-11 15:06:42,506 - INFO - Processing pair: EURUSD for Buy and Sell
+2024-10-11 15:06:42,754 - WARNING - Sell model or scaler missing for EURUSD
+2024-10-11 15:06:42,755 - INFO - MetaTrader 5 connection closed for EURUSD.
+2024-10-11 15:06:42,789 - INFO - MetaTrader 5 connection closed for USDCAD.
+2024-10-11 15:06:42,811 - INFO - MetaTrader 5 connection closed for GBPUSD.
+2024-10-11 15:07:38,568 - INFO - Processing pair: GBPUSD for Buy and Sell
+2024-10-11 15:07:38,569 - INFO - Processing pair: USDCAD for Buy and Sell
+2024-10-11 15:07:38,570 - INFO - Processing pair: EURUSD for Buy and Sell
+2024-10-11 15:07:38,671 - WARNING - Sell model or scaler missing for EURUSD
+2024-10-11 15:14:25,479 - INFO - Processing pair: GBPUSD for Buy and Sell
+2024-10-11 15:14:25,479 - INFO - Processing pair: USDCAD for Buy and Sell
+2024-10-11 15:14:25,480 - INFO - Processing pair: EURUSD for Buy and Sell
+2024-10-11 15:14:25,700 - WARNING - Sell model or scaler missing for EURUSD
+2024-10-11 15:14:45,550 - INFO - Connected to MetaTrader 5 with login: 51988092
+2024-10-11 15:14:45,550 - INFO - Connected to MetaTrader 5 with login: 51988094
+2024-10-11 15:14:45,550 - INFO - Connected to MetaTrader 5 with login: 51988090
+2024-10-11 15:15:45,552 - INFO - Fetching and processing data for USDCAD
+2024-10-11 15:15:45,552 - INFO - Fetching and processing data for GBPUSD
+2024-10-11 15:15:45,552 - INFO - Fetching and processing data for EURUSD
+2024-10-11 15:15:45,553 - INFO - Fetching historical data for GBPUSD
+2024-10-11 15:15:45,553 - INFO - Fetching historical data for USDCAD
+2024-10-11 15:15:45,553 - INFO - Fetching historical data for EURUSD
+2024-10-11 15:15:51,577 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-11 15:15:51,888 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-11 15:15:52,220 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-11 15:16:09,641 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-11 15:16:11,167 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-11 15:16:11,180 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-11 15:16:22,172 - INFO - MetaTrader 5 connection closed for USDCAD.
+2024-10-11 15:16:23,913 - INFO - MetaTrader 5 connection closed for EURUSD.
+2024-10-11 15:16:23,913 - INFO - MetaTrader 5 connection closed for GBPUSD.
+2024-10-11 15:22:42,357 - INFO - Processing pair: GBPUSD for Buy and Sell
+2024-10-11 15:22:42,358 - INFO - Processing pair: USDCAD for Buy and Sell
+2024-10-11 15:22:42,359 - INFO - Processing pair: EURUSD for Buy and Sell
+2024-10-11 15:22:42,468 - WARNING - Sell model or scaler missing for EURUSD
+2024-10-11 15:23:01,157 - INFO - Connected to MetaTrader 5 with login: 51988094
+2024-10-11 15:23:01,158 - INFO - Fetching and processing data for USDCAD
+2024-10-11 15:23:01,158 - INFO - Fetching historical data for USDCAD
+2024-10-11 15:23:01,158 - INFO - Connected to MetaTrader 5 with login: 51988092
+2024-10-11 15:23:01,158 - INFO - Connected to MetaTrader 5 with login: 51988090
+2024-10-11 15:23:01,173 - INFO - Fetching and processing data for GBPUSD
+2024-10-11 15:23:01,174 - INFO - Fetching and processing data for EURUSD
+2024-10-11 15:23:01,174 - INFO - Fetching historical data for GBPUSD
+2024-10-11 15:23:01,177 - INFO - Fetching historical data for EURUSD
+2024-10-11 15:23:07,344 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-11 15:23:07,448 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-11 15:23:08,743 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-11 15:23:26,216 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-11 15:23:26,505 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-11 15:23:30,367 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-11 15:23:40,118 - INFO - No Buy signal generated for GBPUSD. Doing nothing.
+2024-10-11 15:23:40,118 - INFO - Fetching and processing data for GBPUSD
+2024-10-11 15:23:40,118 - INFO - Fetching historical data for GBPUSD
+2024-10-11 15:23:40,372 - INFO - No Buy signal generated for EURUSD. Doing nothing.
+2024-10-11 15:23:40,373 - INFO - Finished trading for EURUSD at 00:20 UTC
+2024-10-11 15:23:42,937 - INFO - No Buy signal generated for USDCAD. Doing nothing.
+2024-10-11 15:23:42,938 - INFO - Fetching and processing data for USDCAD
+2024-10-11 15:23:42,938 - INFO - Fetching historical data for USDCAD
+2024-10-11 15:23:45,061 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-11 15:23:47,849 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-11 15:23:59,159 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-11 15:24:02,246 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-11 15:24:08,949 - INFO - MetaTrader 5 connection closed for GBPUSD.
+2024-10-11 15:24:10,749 - INFO - No Sell signal generated for USDCAD. Doing nothing.
+2024-10-11 15:24:10,749 - INFO - Finished trading for USDCAD at 00:20 UTC
+2024-10-11 15:28:55,016 - INFO - Processing pair: EURUSD for Buy and Sell
+2024-10-11 15:28:55,016 - INFO - Processing pair: GBPUSD for Buy and Sell
+2024-10-11 15:28:55,017 - INFO - Processing pair: USDCAD for Buy and Sell
+2024-10-11 15:28:55,258 - WARNING - Error loading sell model for EURUSD: [Errno 2] No such file or directory: 'EURUSD_D1_3112sell/scaler.joblib'
+2024-10-11 15:29:13,062 - INFO - Connected to MetaTrader 5 with login: 51988090
+2024-10-11 15:29:14,505 - INFO - Connected to MetaTrader 5 with login: 51988092
+2024-10-11 15:29:14,506 - INFO - Connected to MetaTrader 5 with login: 51988094
+2024-10-11 15:30:14,506 - INFO - Fetching and processing data for EURUSD
+2024-10-11 15:30:14,506 - INFO - Fetching and processing data for GBPUSD
+2024-10-11 15:30:14,506 - INFO - Fetching historical data for GBPUSD
+2024-10-11 15:30:14,509 - INFO - Fetching historical data for EURUSD
+2024-10-11 15:30:14,523 - INFO - Fetching and processing data for USDCAD
+2024-10-11 15:30:14,523 - INFO - Fetching historical data for USDCAD
+2024-10-11 15:30:20,773 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-11 15:30:21,097 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-11 15:30:21,154 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-11 15:30:40,684 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-11 15:30:40,876 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-11 15:30:40,882 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-11 15:30:53,527 - INFO - Placing Buy order for USDCAD
+2024-10-11 15:30:54,044 - INFO - Buy order placed successfully for USDCAD.
+2024-10-11 15:30:54,045 - INFO - Fetching and processing data for USDCAD
+2024-10-11 15:30:54,045 - INFO - Fetching historical data for USDCAD
+2024-10-11 15:30:54,711 - INFO - Placing Buy order for EURUSD
+2024-10-11 15:30:55,808 - INFO - Buy order placed successfully for EURUSD.
+2024-10-11 15:30:55,808 - INFO - Finished trading for EURUSD at 00:20 UTC
+2024-10-11 15:30:55,812 - INFO - Placing Buy order for GBPUSD
+2024-10-11 15:30:56,342 - INFO - Buy order placed successfully for GBPUSD.
+2024-10-11 15:30:56,342 - INFO - Fetching and processing data for GBPUSD
+2024-10-11 15:30:56,342 - INFO - Fetching historical data for GBPUSD
+2024-10-11 15:30:58,229 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-11 15:31:01,115 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-11 15:31:12,576 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-11 15:31:15,496 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-11 15:31:22,421 - INFO - Both Buy and Sell predictions are 1 for USDCAD. No trade will be taken.
+2024-10-11 15:31:22,421 - INFO - Skipping trade for USDCAD due to both Buy and Sell signals being active.
+2024-10-11 15:31:22,422 - INFO - Finished trading for USDCAD at 00:20 UTC
+2024-10-11 15:31:23,824 - INFO - Both Buy and Sell predictions are 1 for GBPUSD. No trade will be taken.
+2024-10-11 15:31:23,824 - INFO - Skipping trade for GBPUSD due to both Buy and Sell signals being active.
+2024-10-11 15:31:23,825 - INFO - Finished trading for GBPUSD at 00:20 UTC
+2024-10-11 15:38:40,399 - INFO - Processing pair: GBPUSD for Buy and Sell
+2024-10-11 15:38:40,399 - INFO - Processing pair: USDCAD for Buy and Sell
+2024-10-11 15:38:40,400 - INFO - Processing pair: EURUSD for Buy and Sell
+2024-10-11 15:38:40,622 - WARNING - Sell model or scaler missing for EURUSD
+2024-10-11 15:38:56,290 - INFO - Connected to MetaTrader 5
+2024-10-11 15:38:56,291 - INFO - Connected to MetaTrader 5
+2024-10-11 15:38:56,291 - INFO - Connected to MetaTrader 5
+2024-10-11 15:42:01,579 - INFO - Processing pair: EURUSD for Buy and Sell
+2024-10-11 15:42:01,580 - INFO - Processing pair: GBPUSD for Buy and Sell
+2024-10-11 15:42:01,580 - INFO - Processing pair: USDCAD for Buy and Sell
+2024-10-11 15:42:01,806 - WARNING - Error loading sell model for EURUSD: [Errno 2] No such file or directory: 'EURUSD_D1_3112sell/scaler.joblib'
+2024-10-11 15:42:18,821 - INFO - Connected to MetaTrader 5 with login: 51988090
+2024-10-11 15:42:20,054 - INFO - Connected to MetaTrader 5 with login: 51988092
+2024-10-11 15:42:20,054 - INFO - Connected to MetaTrader 5 with login: 51988094
+2024-10-11 15:42:34,947 - INFO - Processing pair: EURUSD for Buy and Sell
+2024-10-11 15:42:34,947 - INFO - Processing pair: GBPUSD for Buy and Sell
+2024-10-11 15:42:34,948 - INFO - Processing pair: USDCAD for Buy and Sell
+2024-10-11 15:42:35,168 - WARNING - Error loading sell model for EURUSD: [Errno 2] No such file or directory: 'EURUSD_D1_3112sell/scaler.joblib'
+2024-10-11 15:42:52,653 - INFO - Connected to MetaTrader 5 with login: 51988090
+2024-10-11 15:42:52,653 - INFO - Connected to MetaTrader 5 with login: 51988094
+2024-10-11 15:42:54,866 - INFO - Connected to MetaTrader 5 with login: 51988092
+2024-10-11 15:43:54,867 - INFO - Fetching and processing data for USDCAD
+2024-10-11 15:43:54,870 - INFO - Fetching historical data for USDCAD
+2024-10-11 15:43:54,888 - INFO - Fetching and processing data for GBPUSD
+2024-10-11 15:43:54,888 - INFO - Fetching historical data for GBPUSD
+2024-10-11 15:43:54,891 - INFO - Fetching and processing data for EURUSD
+2024-10-11 15:43:54,899 - INFO - Fetching historical data for EURUSD
+2024-10-11 15:44:00,845 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-11 15:44:01,095 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-11 15:44:02,002 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-11 15:44:19,419 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-11 15:44:19,456 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-11 15:44:21,478 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-11 15:44:32,186 - INFO - Placing Buy order for EURUSD
+2024-10-11 15:44:33,018 - INFO - Buy order placed successfully for EURUSD.
+2024-10-11 15:44:33,023 - INFO - Finished trading for EURUSD at 00:20 UTC
+2024-10-11 15:44:33,155 - INFO - Placing Buy order for GBPUSD
+2024-10-11 15:44:33,760 - INFO - Buy order placed successfully for GBPUSD.
+2024-10-11 15:44:33,761 - INFO - Fetching and processing data for GBPUSD
+2024-10-11 15:44:33,761 - INFO - Fetching historical data for GBPUSD
+2024-10-11 15:44:34,478 - INFO - Placing Buy order for USDCAD
+2024-10-11 15:44:34,974 - INFO - Buy order placed successfully for USDCAD.
+2024-10-11 15:44:34,974 - INFO - Fetching and processing data for USDCAD
+2024-10-11 15:44:34,975 - INFO - Fetching historical data for USDCAD
+2024-10-11 15:44:38,076 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-11 15:44:39,704 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-11 15:44:51,912 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-11 15:44:53,398 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-11 15:45:01,237 - INFO - Both Buy and Sell predictions are 1 for GBPUSD. No trade will be taken.
+2024-10-11 15:45:01,238 - INFO - Skipping trade for GBPUSD due to both Buy and Sell signals being active.
+2024-10-11 15:45:01,238 - INFO - Finished trading for GBPUSD at 00:20 UTC
+2024-10-11 15:45:01,882 - INFO - Both Buy and Sell predictions are 1 for USDCAD. No trade will be taken.
+2024-10-11 15:45:01,882 - INFO - Skipping trade for USDCAD due to both Buy and Sell signals being active.
+2024-10-11 15:45:01,882 - INFO - Finished trading for USDCAD at 00:20 UTC
+2024-10-11 15:51:24,693 - INFO - Processing pair: EURUSD for Buy and Sell
+2024-10-11 15:51:24,693 - INFO - Processing pair: GBPUSD for Buy and Sell
+2024-10-11 15:51:24,694 - INFO - Processing pair: USDCAD for Buy and Sell
+2024-10-11 15:51:24,946 - WARNING - Error loading sell model for EURUSD: [Errno 2] No such file or directory: 'EURUSD_D1_3112sell/scaler.joblib'
+2024-10-11 15:51:43,261 - INFO - Connected to MetaTrader 5 with login: 51988090
+2024-10-11 15:51:43,261 - INFO - Connected to MetaTrader 5 with login: 51988094
+2024-10-11 15:51:44,780 - INFO - Connected to MetaTrader 5 with login: 51988092
+2024-10-11 15:52:44,781 - INFO - Fetching and processing data for EURUSD
+2024-10-11 15:52:44,781 - INFO - Fetching historical data for EURUSD
+2024-10-11 15:52:44,787 - INFO - Fetching and processing data for GBPUSD
+2024-10-11 15:52:44,787 - INFO - Fetching historical data for GBPUSD
+2024-10-11 15:52:44,793 - INFO - Fetching and processing data for USDCAD
+2024-10-11 15:52:44,793 - INFO - Fetching historical data for USDCAD
+2024-10-11 15:52:50,929 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-11 15:52:51,081 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-11 15:52:52,148 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-11 15:53:09,176 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-11 15:53:09,182 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-11 15:53:12,941 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-11 15:53:22,066 - INFO - Fetching and processing data for GBPUSD
+2024-10-11 15:53:22,067 - INFO - Fetching historical data for GBPUSD
+2024-10-11 15:53:22,067 - INFO - Fetching and processing data for USDCAD
+2024-10-11 15:53:22,072 - INFO - Fetching historical data for USDCAD
+2024-10-11 15:53:26,885 - INFO - Finished trading for EURUSD at 00:20 UTC
+2024-10-11 15:53:27,729 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-11 15:53:27,746 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-11 15:53:42,045 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-11 15:53:42,242 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-11 15:53:51,348 - INFO - Both Buy and Sell predictions are 1 for USDCAD. No trade will be taken.
+2024-10-11 15:53:51,348 - INFO - Both Buy and Sell predictions are 1 for GBPUSD. No trade will be taken.
+2024-10-11 15:53:51,348 - INFO - Finished trading for USDCAD at 00:20 UTC
+2024-10-11 15:53:51,348 - INFO - Finished trading for GBPUSD at 00:20 UTC
+2024-10-11 16:01:57,027 - INFO - Processing pair: EURUSD for Buy and Sell
+2024-10-11 16:01:57,027 - INFO - Processing pair: GBPUSD for Buy and Sell
+2024-10-11 16:01:57,027 - INFO - Processing pair: USDCAD for Buy and Sell
+2024-10-11 16:01:57,243 - WARNING - Error loading sell model for EURUSD: [Errno 2] No such file or directory: 'EURUSD_D1_3112sell/scaler.joblib'
+2024-10-11 16:02:14,155 - INFO - Connected to MetaTrader 5 with login: 51988090
+2024-10-11 16:02:14,155 - INFO - Connected to MetaTrader 5 with login: 51988094
+2024-10-11 16:02:15,265 - INFO - Fetching and processing data for USDCAD
+2024-10-11 16:02:15,265 - INFO - Fetching historical data for USDCAD
+2024-10-11 16:02:15,280 - INFO - Connected to MetaTrader 5 with login: 51988092
+2024-10-11 16:02:15,281 - INFO - Fetching and processing data for EURUSD
+2024-10-11 16:02:15,281 - INFO - Fetching and processing data for GBPUSD
+2024-10-11 16:02:15,283 - INFO - Fetching historical data for EURUSD
+2024-10-11 16:02:15,285 - INFO - Fetching historical data for GBPUSD
+2024-10-11 16:02:21,676 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-11 16:02:21,707 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-11 16:02:21,719 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-11 16:02:41,400 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-11 16:02:41,652 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-11 16:02:41,661 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-11 16:02:54,455 - INFO - Finished trading for EURUSD at 00:20 UTC
+2024-10-11 16:02:54,569 - INFO - Fetching and processing data for GBPUSD
+2024-10-11 16:02:54,569 - INFO - Fetching historical data for GBPUSD
+2024-10-11 16:02:54,597 - INFO - Fetching and processing data for USDCAD
+2024-10-11 16:02:54,597 - INFO - Fetching historical data for USDCAD
+2024-10-11 16:02:59,454 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-11 16:02:59,470 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-11 16:03:13,387 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-11 16:03:13,472 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-11 16:03:22,553 - INFO - Both Buy and Sell predictions are 1 for USDCAD. No trade will be taken.
+2024-10-11 16:03:22,553 - INFO - Both Buy and Sell predictions are 1 for GBPUSD. No trade will be taken.
+2024-10-11 16:03:22,554 - INFO - Finished trading for GBPUSD at 00:20 UTC
+2024-10-11 16:03:22,554 - INFO - Finished trading for USDCAD at 00:20 UTC
+2024-10-11 16:04:03,073 - INFO - Processing pair: EURUSD for Buy and Sell
+2024-10-11 16:04:03,073 - INFO - Processing pair: GBPUSD for Buy and Sell
+2024-10-11 16:04:03,074 - INFO - Processing pair: USDCAD for Buy and Sell
+2024-10-11 16:04:03,302 - WARNING - Error loading sell model for EURUSD: [Errno 2] No such file or directory: 'EURUSD_D1_3112sell/scaler.joblib'
+2024-10-11 16:04:20,758 - INFO - Processing pair: EURUSD for Buy and Sell
+2024-10-11 16:04:20,758 - INFO - Processing pair: GBPUSD for Buy and Sell
+2024-10-11 16:04:20,758 - INFO - Processing pair: USDCAD for Buy and Sell
+2024-10-11 16:04:20,998 - WARNING - Error loading sell model for EURUSD: [Errno 2] No such file or directory: 'EURUSD_D1_3112sell/scaler.joblib'
+2024-10-11 16:04:38,240 - INFO - Connected to MetaTrader 5 with login: 51988090
+2024-10-11 16:04:38,240 - INFO - Connected to MetaTrader 5 with login: 51988092
+2024-10-11 16:04:39,575 - INFO - Connected to MetaTrader 5 with login: 51988094
+2024-10-11 16:05:39,575 - INFO - Fetching and processing data for EURUSD
+2024-10-11 16:05:39,575 - INFO - Fetching historical data for EURUSD
+2024-10-11 16:05:39,591 - INFO - Fetching and processing data for GBPUSD
+2024-10-11 16:05:39,597 - INFO - Fetching historical data for GBPUSD
+2024-10-11 16:05:39,593 - INFO - Fetching and processing data for USDCAD
+2024-10-11 16:05:39,602 - INFO - Fetching historical data for USDCAD
+2024-10-11 16:05:45,968 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-11 16:05:46,180 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-11 16:05:46,868 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-11 16:06:05,349 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-11 16:06:05,827 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-11 16:06:07,364 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-11 16:06:19,251 - INFO - Finished trading for EURUSD at 00:20 UTC
+2024-10-11 16:06:19,287 - INFO - Fetching and processing data for GBPUSD
+2024-10-11 16:06:19,287 - INFO - Fetching historical data for GBPUSD
+2024-10-11 16:06:21,011 - INFO - Fetching and processing data for USDCAD
+2024-10-11 16:06:21,012 - INFO - Fetching historical data for USDCAD
+2024-10-11 16:06:24,076 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-11 16:06:26,282 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-11 16:06:39,003 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-11 16:06:41,399 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-11 16:06:49,602 - INFO - Placing Sell order for GBPUSD
+2024-10-11 16:06:49,603 - ERROR - Order placement failed for GBPUSD: 10016 - (1, 'Success')
+2024-10-11 16:06:49,603 - INFO - Finished trading for GBPUSD at 00:20 UTC
+2024-10-11 16:06:50,933 - INFO - Finished trading for USDCAD at 00:20 UTC
+2024-10-11 16:10:38,913 - INFO - Processing pair: EURUSD for Buy and Sell
+2024-10-11 16:10:38,913 - INFO - Processing pair: GBPUSD for Buy and Sell
+2024-10-11 16:10:38,914 - INFO - Processing pair: USDCAD for Buy and Sell
+2024-10-11 16:10:39,164 - WARNING - Error loading sell model for EURUSD: [Errno 2] No such file or directory: 'EURUSD_D1_3112sell/scaler.joblib'
+2024-10-11 16:10:57,272 - INFO - Connected to MetaTrader 5 with login: 51988094
+2024-10-11 16:10:57,272 - INFO - Connected to MetaTrader 5 with login: 51988090
+2024-10-11 16:10:57,272 - INFO - Connected to MetaTrader 5 with login: 51988092
+2024-10-11 16:11:42,887 - INFO - Processing pair: EURUSD for Buy and Sell
+2024-10-11 16:11:42,887 - INFO - Processing pair: GBPUSD for Buy and Sell
+2024-10-11 16:11:42,888 - INFO - Processing pair: USDCAD for Buy and Sell
+2024-10-11 16:11:43,098 - WARNING - Error loading sell model for EURUSD: [Errno 2] No such file or directory: 'EURUSD_D1_3112sell/scaler.joblib'
+2024-10-11 16:12:01,738 - INFO - Connected to MetaTrader 5 with login: 51988090
+2024-10-11 16:12:01,738 - INFO - Fetching and processing data for EURUSD
+2024-10-11 16:12:01,739 - INFO - Fetching historical data for EURUSD
+2024-10-11 16:12:01,753 - INFO - Connected to MetaTrader 5 with login: 51988092
+2024-10-11 16:12:01,756 - INFO - Fetching and processing data for GBPUSD
+2024-10-11 16:12:01,756 - INFO - Fetching historical data for GBPUSD
+2024-10-11 16:12:01,757 - INFO - Connected to MetaTrader 5 with login: 51988094
+2024-10-11 16:12:01,758 - INFO - Fetching and processing data for USDCAD
+2024-10-11 16:12:01,758 - INFO - Fetching historical data for USDCAD
+2024-10-11 16:12:08,079 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-11 16:12:08,231 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-11 16:12:08,249 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-11 16:12:26,745 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-11 16:12:27,608 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-11 16:12:28,212 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-11 16:12:39,427 - INFO - Fetching and processing data for GBPUSD
+2024-10-11 16:12:39,427 - INFO - Fetching historical data for GBPUSD
+2024-10-11 16:12:40,833 - INFO - Finished trading for EURUSD at 00:20 UTC
+2024-10-11 16:12:41,397 - INFO - Fetching and processing data for USDCAD
+2024-10-11 16:12:41,397 - INFO - Fetching historical data for USDCAD
+2024-10-11 16:12:43,832 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-11 16:12:46,135 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-11 16:12:57,513 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-11 16:12:59,856 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-11 16:13:06,924 - INFO - Both Buy and Sell predictions are 1 for GBPUSD. No trade will be taken.
+2024-10-11 16:13:06,924 - INFO - Finished trading for GBPUSD at 00:20 UTC
+2024-10-11 16:13:08,138 - INFO - Both Buy and Sell predictions are 1 for USDCAD. No trade will be taken.
+2024-10-11 16:13:08,138 - INFO - Finished trading for USDCAD at 00:20 UTC
+2024-10-11 16:16:12,233 - INFO - Processing pair: EURUSD for Buy and Sell
+2024-10-11 16:16:12,233 - INFO - Processing pair: GBPUSD for Buy and Sell
+2024-10-11 16:16:12,233 - INFO - Processing pair: USDCAD for Buy and Sell
+2024-10-11 16:16:12,459 - WARNING - Error loading sell model for EURUSD: [Errno 2] No such file or directory: 'EURUSD_D1_3112sell/scaler.joblib'
+2024-10-11 16:16:31,953 - INFO - Connected to MetaTrader 5 with login: 51988090
+2024-10-11 16:16:32,950 - INFO - Connected to MetaTrader 5 with login: 51988094
+2024-10-11 16:16:32,950 - INFO - Connected to MetaTrader 5 with login: 51988092
+2024-10-11 16:17:31,953 - INFO - Fetching and processing data for EURUSD
+2024-10-11 16:17:31,953 - INFO - Fetching historical data for EURUSD
+2024-10-11 16:17:32,950 - INFO - Fetching and processing data for USDCAD
+2024-10-11 16:17:32,953 - INFO - Fetching and processing data for GBPUSD
+2024-10-11 16:17:32,953 - INFO - Fetching historical data for USDCAD
+2024-10-11 16:17:32,953 - INFO - Fetching historical data for GBPUSD
+2024-10-11 16:17:38,088 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-11 16:17:39,196 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-11 16:17:39,200 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-11 16:17:56,190 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-11 16:17:58,207 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-11 16:17:58,214 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-11 16:18:08,551 - INFO - Finished trading for EURUSD at 00:20 UTC
+2024-10-11 16:18:10,539 - INFO - Fetching and processing data for USDCAD
+2024-10-11 16:18:10,539 - INFO - Fetching and processing data for GBPUSD
+2024-10-11 16:18:10,539 - INFO - Fetching historical data for USDCAD
+2024-10-11 16:18:10,539 - INFO - Fetching historical data for GBPUSD
+2024-10-11 16:18:15,166 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-11 16:18:15,294 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-11 16:18:28,894 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-11 16:18:29,047 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-11 16:18:37,944 - INFO - Finished trading for USDCAD at 00:20 UTC
+2024-10-11 16:18:37,945 - INFO - MetaTrader 5 connection closed for GBPUSD.
+2024-10-11 16:24:03,432 - INFO - Processing pair: EURUSD for Buy and Sell
+2024-10-11 16:24:03,433 - INFO - Processing pair: GBPUSD for Buy and Sell
+2024-10-11 16:24:03,433 - INFO - Processing pair: USDCAD for Buy and Sell
+2024-10-11 16:24:03,677 - WARNING - Error loading sell model for EURUSD: [Errno 2] No such file or directory: 'EURUSD_D1_3112sell/scaler.joblib'
+2024-10-11 16:24:18,693 - INFO - Connected to MetaTrader 5 with login: 51988090
+2024-10-11 16:24:18,693 - INFO - Fetching and processing data for EURUSD
+2024-10-11 16:24:18,694 - INFO - Fetching historical data for EURUSD
+2024-10-11 16:24:18,694 - INFO - MetaTrader 5 connection closed for EURUSD.
+2024-10-11 16:24:34,503 - INFO - Connected to MetaTrader 5 with login: 51988094
+2024-10-11 16:24:34,504 - INFO - Fetching and processing data for USDCAD
+2024-10-11 16:24:34,504 - INFO - Fetching historical data for USDCAD
+2024-10-11 16:24:34,505 - INFO - MetaTrader 5 connection closed for USDCAD.
+2024-10-11 16:24:49,522 - INFO - Connected to MetaTrader 5 with login: 51988092
+2024-10-11 16:24:49,523 - INFO - Fetching and processing data for GBPUSD
+2024-10-11 16:24:49,523 - INFO - Fetching historical data for GBPUSD
+2024-10-11 16:24:52,445 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-11 16:25:00,915 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-11 16:25:06,660 - INFO - Fetching and processing data for GBPUSD
+2024-10-11 16:25:06,660 - INFO - Fetching historical data for GBPUSD
+2024-10-11 16:25:09,737 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-11 16:25:18,316 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-11 16:25:23,994 - ERROR - Order placement failed for GBPUSD: 10016. Retrying...
+2024-10-11 16:25:25,995 - ERROR - Order placement failed for GBPUSD: 10016. Retrying...
+2024-10-11 16:25:27,996 - ERROR - Order placement failed for GBPUSD: 10016. Retrying...
+2024-10-11 16:25:29,997 - ERROR - Order failed after 3 attempts for GBPUSD
+2024-10-11 16:25:29,997 - INFO - Finished trading for GBPUSD at 00:20 UTC
+2024-10-11 16:29:34,626 - INFO - Processing pair: EURUSD for Buy and Sell
+2024-10-11 16:29:34,626 - INFO - Processing pair: GBPUSD for Buy and Sell
+2024-10-11 16:29:34,626 - INFO - Processing pair: USDCAD for Buy and Sell
+2024-10-11 16:29:34,843 - WARNING - Error loading sell model for EURUSD: [Errno 2] No such file or directory: 'EURUSD_D1_3112sell/scaler.joblib'
+2024-10-11 16:29:49,857 - INFO - Connected to MetaTrader 5 with login: 51988090
+2024-10-11 16:30:04,870 - INFO - Connected to MetaTrader 5 with login: 51988094
+2024-10-11 16:30:19,879 - INFO - Connected to MetaTrader 5 with login: 51988092
+2024-10-11 16:30:33,901 - INFO - Processing pair: EURUSD for Buy and Sell
+2024-10-11 16:30:33,902 - INFO - Processing pair: GBPUSD for Buy and Sell
+2024-10-11 16:30:33,902 - INFO - Processing pair: USDCAD for Buy and Sell
+2024-10-11 16:30:34,143 - WARNING - Error loading sell model for EURUSD: [Errno 2] No such file or directory: 'EURUSD_D1_3112sell/scaler.joblib'
+2024-10-11 16:30:49,160 - INFO - Connected to MetaTrader 5 with login: 51988090
+2024-10-11 16:31:04,175 - INFO - Connected to MetaTrader 5 with login: 51988094
+2024-10-11 16:31:04,176 - INFO - Fetching and processing data for USDCAD
+2024-10-11 16:31:04,176 - INFO - Fetching historical data for USDCAD
+2024-10-11 16:31:04,176 - ERROR - No historical data found for USDCAD in the given date range.
+2024-10-11 16:31:04,176 - ERROR - No valid data for USDCAD. Skipping predictions.
+2024-10-11 16:31:04,176 - INFO - Fetching and processing data for USDCAD
+2024-10-11 16:31:04,176 - INFO - Fetching historical data for USDCAD
+2024-10-11 16:31:04,176 - ERROR - No historical data found for USDCAD in the given date range.
+2024-10-11 16:31:04,176 - ERROR - No valid data for USDCAD. Skipping predictions.
+2024-10-11 16:31:04,176 - INFO - Finished trading for USDCAD at 00:20 UTC
+2024-10-11 16:31:19,192 - INFO - Connected to MetaTrader 5 with login: 51988092
+2024-10-11 16:31:19,193 - INFO - Fetching and processing data for GBPUSD
+2024-10-11 16:31:19,193 - INFO - Fetching historical data for GBPUSD
+2024-10-11 16:31:21,982 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-11 16:31:30,101 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-11 16:31:35,481 - INFO - Fetching and processing data for GBPUSD
+2024-10-11 16:31:35,481 - INFO - Fetching historical data for GBPUSD
+2024-10-11 16:31:38,407 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-11 16:31:46,921 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-11 16:31:49,161 - INFO - Fetching and processing data for EURUSD
+2024-10-11 16:31:49,161 - INFO - Fetching historical data for EURUSD
+2024-10-11 16:31:53,891 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-11 16:31:55,019 - ERROR - Order placement failed for GBPUSD: 10016. Retrying...
+2024-10-11 16:31:57,019 - ERROR - Order placement failed for GBPUSD: 10016. Retrying...
+2024-10-11 16:31:59,020 - ERROR - Order placement failed for GBPUSD: 10016. Retrying...
+2024-10-11 16:32:01,021 - ERROR - Order failed after 3 attempts for GBPUSD
+2024-10-11 16:32:01,021 - INFO - Finished trading for GBPUSD at 00:20 UTC
+2024-10-11 16:32:02,980 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-11 16:32:08,957 - INFO - Finished trading for EURUSD at 00:20 UTC
+2024-10-11 16:40:27,301 - INFO - Processing pair: EURUSD for Buy and Sell
+2024-10-11 16:40:27,305 - INFO - Processing pair: GBPUSD for Buy and Sell
+2024-10-11 16:40:27,305 - INFO - Processing pair: USDCAD for Buy and Sell
+2024-10-11 16:40:27,545 - WARNING - Error loading sell model for EURUSD: [Errno 2] No such file or directory: 'EURUSD_D1_3112sell/scaler.joblib'
+2024-10-11 16:40:42,561 - INFO - Connected to MetaTrader 5 with login: 51988090
+2024-10-11 16:40:57,575 - INFO - Connected to MetaTrader 5 with login: 51988094
+2024-10-11 16:41:12,593 - INFO - Connected to MetaTrader 5 with login: 51988092
+2024-10-11 22:27:27,625 - INFO - Processing pair: EURUSD for Buy and Sell
+2024-10-11 22:27:27,625 - INFO - Processing pair: GBPUSD for Buy and Sell
+2024-10-11 22:27:27,625 - INFO - Processing pair: USDCAD for Buy and Sell
+2024-10-11 22:27:27,865 - WARNING - Error loading sell model for EURUSD: [Errno 2] No such file or directory: 'EURUSD_D1_3112sell/scaler.joblib'
+2024-10-11 22:27:42,884 - INFO - Connected to MetaTrader 5 with login: 51988090
+2024-10-11 22:27:57,899 - INFO - Connected to MetaTrader 5 with login: 51988094
+2024-10-11 22:28:13,617 - INFO - Connected to MetaTrader 5 with login: 51988092
+2024-10-12 00:27:44,327 - INFO - Processing pair: EURUSD for Buy and Sell
+2024-10-12 00:27:44,327 - INFO - Processing pair: GBPUSD for Buy and Sell
+2024-10-12 00:27:44,328 - INFO - Processing pair: USDCAD for Buy and Sell
+2024-10-12 00:27:44,554 - WARNING - Error loading sell model for EURUSD: [Errno 2] No such file or directory: 'EURUSD_D1_3112sell/scaler.joblib'
+2024-10-12 00:27:59,568 - INFO - Connected to MetaTrader 5 with login: 51988090
+2024-10-12 00:28:14,582 - INFO - Connected to MetaTrader 5 with login: 51988094
+2024-10-12 00:28:30,703 - INFO - Connected to MetaTrader 5 with login: 51988092
+2024-10-12 00:30:14,586 - INFO - Fetching and processing data for USDCAD
+2024-10-12 00:30:14,587 - INFO - Fetching historical data for USDCAD
+2024-10-12 00:30:17,519 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-12 00:30:27,251 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-12 00:30:30,705 - INFO - Fetching and processing data for GBPUSD
+2024-10-12 00:30:30,705 - INFO - Fetching historical data for GBPUSD
+2024-10-12 00:30:35,826 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-12 00:30:36,843 - INFO - Fetching and processing data for USDCAD
+2024-10-12 00:30:36,843 - INFO - Fetching historical data for USDCAD
+2024-10-12 00:30:41,798 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-12 00:30:52,140 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-12 00:30:58,260 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-12 00:30:59,570 - INFO - Fetching and processing data for EURUSD
+2024-10-12 00:30:59,570 - INFO - Fetching historical data for EURUSD
+2024-10-12 00:31:05,085 - INFO - Fetching and processing data for GBPUSD
+2024-10-12 00:31:05,085 - INFO - Fetching historical data for GBPUSD
+2024-10-12 00:31:07,794 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-12 00:31:13,721 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-12 00:31:14,101 - INFO - Finished trading for USDCAD at 00:20 UTC
+2024-10-12 00:31:25,938 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-12 00:31:30,668 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-12 00:31:37,996 - INFO - Finished trading for EURUSD at 00:20 UTC
+2024-10-12 00:31:40,730 - ERROR - Order placement failed for GBPUSD: 10016. Retrying...
+2024-10-12 00:31:42,730 - ERROR - Order placement failed for GBPUSD: 10016. Retrying...
+2024-10-12 00:31:44,731 - ERROR - Order placement failed for GBPUSD: 10016. Retrying...
+2024-10-12 00:31:46,732 - ERROR - Order failed after 3 attempts for GBPUSD
+2024-10-12 00:31:46,732 - INFO - Finished trading for GBPUSD at 00:20 UTC
+2024-10-13 10:22:00,775 - INFO - Processing pair: EURUSD for Buy and Sell
+2024-10-13 10:22:00,775 - INFO - Processing pair: GBPUSD for Buy and Sell
+2024-10-13 10:22:00,776 - INFO - Processing pair: USDCAD for Buy and Sell
+2024-10-13 10:22:01,239 - WARNING - Error loading sell model for EURUSD: [Errno 2] No such file or directory: 'EURUSD_D1_3112sell/scaler.joblib'
+2024-10-13 10:22:16,367 - INFO - Connected to MetaTrader 5 with login: 51988090
+2024-10-13 10:22:31,448 - INFO - Connected to MetaTrader 5 with login: 51988094
+2024-10-13 10:22:47,443 - INFO - Connected to MetaTrader 5 with login: 51988092

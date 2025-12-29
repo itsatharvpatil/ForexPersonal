@@ -1,0 +1,192 @@
+2024-08-31 01:28:01,858 - INFO - Connected to MetaTrader 5
+2024-08-31 01:28:46,953 - INFO - Connected to MetaTrader 5
+2024-08-31 01:28:47,145 - INFO - NaNs before drop: 313
+2024-08-31 01:28:47,146 - INFO - NaNs after drop: 0
+2024-08-31 01:28:50,018 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-08-31 01:28:57,753 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-08-31 01:29:02,853 - INFO - NaNs after merging: 625
+2024-08-31 01:29:02,853 - INFO - Final NaNs: 0
+2024-08-31 01:29:02,868 - ERROR - Order placement failed: 10027 - (1, 'Success')
+2024-08-31 01:30:02,889 - INFO - NaNs before drop: 313
+2024-08-31 01:30:02,891 - INFO - NaNs after drop: 0
+2024-08-31 01:30:05,751 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-08-31 01:30:13,677 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-08-31 01:30:18,835 - INFO - NaNs after merging: 625
+2024-08-31 01:30:18,836 - INFO - Final NaNs: 0
+2024-08-31 01:30:18,843 - ERROR - Order placement failed: 10027 - (1, 'Success')
+2024-08-31 01:31:18,852 - INFO - NaNs before drop: 313
+2024-08-31 01:31:18,855 - INFO - NaNs after drop: 0
+2024-08-31 01:31:21,795 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-08-31 01:31:29,817 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-08-31 01:31:35,020 - INFO - NaNs after merging: 625
+2024-08-31 01:31:35,020 - INFO - Final NaNs: 0
+2024-08-31 01:31:35,027 - ERROR - Order placement failed: 10027 - (1, 'Success')
+2024-08-31 01:32:35,043 - INFO - NaNs before drop: 313
+2024-08-31 01:32:35,044 - INFO - NaNs after drop: 0
+2024-08-31 01:32:37,838 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-08-31 01:32:45,419 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-08-31 01:32:50,243 - INFO - NaNs after merging: 625
+2024-08-31 01:32:50,245 - INFO - Final NaNs: 0
+2024-08-31 01:32:50,251 - ERROR - Order placement failed: 10027 - (1, 'Success')
+2024-08-31 01:33:50,270 - INFO - NaNs before drop: 313
+2024-08-31 01:33:50,272 - INFO - NaNs after drop: 0
+2024-08-31 01:33:53,102 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-08-31 01:34:00,500 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-08-31 01:34:05,279 - INFO - NaNs after merging: 625
+2024-08-31 01:34:05,279 - INFO - Final NaNs: 0
+2024-08-31 01:34:05,288 - ERROR - Order placement failed: 10027 - (1, 'Success')
+2024-08-31 01:35:05,315 - INFO - NaNs before drop: 313
+2024-08-31 01:35:05,318 - INFO - NaNs after drop: 0
+2024-08-31 01:35:08,167 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-08-31 01:35:15,753 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-08-31 01:35:20,722 - INFO - NaNs after merging: 625
+2024-08-31 01:35:20,722 - INFO - Final NaNs: 0
+2024-08-31 01:35:20,730 - ERROR - Order placement failed: 10027 - (1, 'Success')
+2024-08-31 01:36:20,746 - INFO - NaNs before drop: 313
+2024-08-31 01:36:20,748 - INFO - NaNs after drop: 0
+2024-08-31 01:36:23,525 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-08-31 01:36:30,913 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-08-31 01:36:35,934 - INFO - NaNs after merging: 625
+2024-08-31 01:36:35,934 - INFO - Final NaNs: 0
+2024-08-31 01:36:35,941 - ERROR - Order placement failed: 10027 - (1, 'Success')
+2024-08-31 01:37:39,971 - INFO - Connected to MetaTrader 5
+2024-08-31 01:37:39,971 - INFO - Processing pair: GBPUSD
+2024-08-31 01:41:12,110 - INFO - Connected to MetaTrader 5
+2024-08-31 01:41:12,110 - INFO - Processing pair: GBPUSD
+2024-08-31 01:41:12,295 - INFO - Starting prediction and trading process for GBPUSD
+2024-08-31 01:41:12,295 - INFO - Fetching and processing data for GBPUSD
+2024-08-31 01:41:12,295 - INFO - Fetching historical data for GBPUSD
+2024-08-31 01:41:12,297 - INFO - Calculating indicators
+2024-08-31 01:41:12,298 - INFO - Adding rolling features
+2024-08-31 01:41:12,300 - INFO - Adding lag features
+2024-08-31 01:41:12,303 - INFO - NaNs before drop for GBPUSD: 313
+2024-08-31 01:41:12,305 - INFO - NaNs after drop for GBPUSD: 0
+2024-08-31 01:41:12,305 - INFO - Processing data for feature extraction for GBPUSD
+2024-08-31 01:41:15,250 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-08-31 01:41:23,176 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-08-31 01:41:28,127 - INFO - NaNs after merging for GBPUSD: 625
+2024-08-31 01:41:28,128 - INFO - Final NaNs for GBPUSD: 0
+2024-08-31 01:41:28,146 - INFO - Saving predictions to CSV for GBPUSD
+2024-08-31 01:41:28,150 - INFO - Calculating SL and TP prices
+2024-08-31 01:41:28,150 - INFO - Placing order for GBPUSD
+2024-08-31 01:41:28,150 - ERROR - Order placement failed for GBPUSD: 10027 - (1, 'Success')
+2024-08-31 01:42:28,166 - INFO - Starting prediction and trading process for GBPUSD
+2024-08-31 01:42:28,167 - INFO - Fetching and processing data for GBPUSD
+2024-08-31 01:42:28,167 - INFO - Fetching historical data for GBPUSD
+2024-08-31 01:42:28,168 - INFO - Calculating indicators
+2024-08-31 01:42:28,169 - INFO - Adding rolling features
+2024-08-31 01:42:28,171 - INFO - Adding lag features
+2024-08-31 01:42:28,175 - INFO - NaNs before drop for GBPUSD: 313
+2024-08-31 01:42:28,177 - INFO - NaNs after drop for GBPUSD: 0
+2024-08-31 01:42:28,177 - INFO - Processing data for feature extraction for GBPUSD
+2024-08-31 01:42:31,083 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-08-31 01:42:39,183 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-08-31 01:42:44,495 - INFO - NaNs after merging for GBPUSD: 625
+2024-08-31 01:42:44,496 - INFO - Final NaNs for GBPUSD: 0
+2024-08-31 01:42:44,504 - INFO - Saving predictions to CSV for GBPUSD
+2024-08-31 01:42:44,505 - INFO - Calculating SL and TP prices
+2024-08-31 01:42:44,505 - INFO - Placing order for GBPUSD
+2024-08-31 01:42:44,505 - ERROR - Order placement failed for GBPUSD: 10027 - (1, 'Success')
+2024-08-31 01:43:44,505 - INFO - Starting prediction and trading process for GBPUSD
+2024-08-31 01:43:44,506 - INFO - Fetching and processing data for GBPUSD
+2024-08-31 01:43:44,506 - INFO - Fetching historical data for GBPUSD
+2024-08-31 01:43:44,508 - INFO - Calculating indicators
+2024-08-31 01:43:44,509 - INFO - Adding rolling features
+2024-08-31 01:43:44,511 - INFO - Adding lag features
+2024-08-31 01:43:44,516 - INFO - NaNs before drop for GBPUSD: 313
+2024-08-31 01:43:44,517 - INFO - NaNs after drop for GBPUSD: 0
+2024-08-31 01:43:44,517 - INFO - Processing data for feature extraction for GBPUSD
+2024-08-31 01:43:47,644 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-08-31 01:43:55,372 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-08-31 01:44:00,508 - INFO - NaNs after merging for GBPUSD: 625
+2024-08-31 01:44:00,509 - INFO - Final NaNs for GBPUSD: 0
+2024-08-31 01:44:00,513 - INFO - Saving predictions to CSV for GBPUSD
+2024-08-31 01:44:00,514 - INFO - Calculating SL and TP prices
+2024-08-31 01:44:00,514 - INFO - Placing order for GBPUSD
+2024-08-31 01:44:00,514 - ERROR - Order placement failed for GBPUSD: 10027 - (1, 'Success')
+2024-08-31 01:45:00,515 - INFO - Starting prediction and trading process for GBPUSD
+2024-08-31 01:45:00,515 - INFO - Fetching and processing data for GBPUSD
+2024-08-31 01:45:00,515 - INFO - Fetching historical data for GBPUSD
+2024-08-31 01:45:00,517 - INFO - Calculating indicators
+2024-08-31 01:45:00,518 - INFO - Adding rolling features
+2024-08-31 01:45:00,520 - INFO - Adding lag features
+2024-08-31 01:45:00,524 - INFO - NaNs before drop for GBPUSD: 313
+2024-08-31 01:45:00,527 - INFO - NaNs after drop for GBPUSD: 0
+2024-08-31 01:45:00,527 - INFO - Processing data for feature extraction for GBPUSD
+2024-08-31 01:45:03,609 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-08-31 01:45:12,173 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-08-31 01:45:17,852 - INFO - NaNs after merging for GBPUSD: 625
+2024-08-31 01:45:17,852 - INFO - Final NaNs for GBPUSD: 0
+2024-08-31 01:45:17,860 - INFO - Saving predictions to CSV for GBPUSD
+2024-08-31 01:45:17,861 - INFO - Calculating SL and TP prices
+2024-08-31 01:45:17,862 - INFO - Placing order for GBPUSD
+2024-08-31 01:45:17,862 - ERROR - Order placement failed for GBPUSD: 10027 - (1, 'Success')
+2024-08-31 01:46:17,863 - INFO - Starting prediction and trading process for GBPUSD
+2024-08-31 01:46:17,863 - INFO - Fetching and processing data for GBPUSD
+2024-08-31 01:46:17,863 - INFO - Fetching historical data for GBPUSD
+2024-08-31 01:46:17,870 - INFO - Calculating indicators
+2024-08-31 01:46:17,874 - INFO - Adding rolling features
+2024-08-31 01:46:17,880 - INFO - Adding lag features
+2024-08-31 01:46:17,885 - INFO - NaNs before drop for GBPUSD: 313
+2024-08-31 01:46:17,887 - INFO - NaNs after drop for GBPUSD: 0
+2024-08-31 01:46:17,888 - INFO - Processing data for feature extraction for GBPUSD
+2024-08-31 01:46:20,754 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-08-31 01:46:28,413 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-08-31 01:46:33,589 - INFO - NaNs after merging for GBPUSD: 625
+2024-08-31 01:46:33,590 - INFO - Final NaNs for GBPUSD: 0
+2024-08-31 01:46:33,598 - INFO - Saving predictions to CSV for GBPUSD
+2024-08-31 01:46:33,599 - INFO - Calculating SL and TP prices
+2024-08-31 01:46:33,599 - INFO - Placing order for GBPUSD
+2024-08-31 01:46:33,600 - ERROR - Order placement failed for GBPUSD: 10027 - (1, 'Success')
+2024-08-31 01:47:29,268 - INFO - Connected to MetaTrader 5
+2024-08-31 01:47:29,269 - INFO - Processing pair: GBPUSD
+2024-08-31 01:47:29,270 - INFO - Processing pair: USDCAD
+2024-08-31 01:49:06,285 - INFO - Connected to MetaTrader 5
+2024-08-31 01:49:06,287 - INFO - Processing pair: GBPUSD
+2024-08-31 01:49:06,287 - INFO - Processing pair: USDCAD
+2024-08-31 01:52:06,289 - INFO - Connected to MetaTrader 5
+2024-08-31 01:52:06,290 - INFO - Processing pair: GBPUSD
+2024-08-31 01:52:06,290 - INFO - Processing pair: USDCAD
+2024-08-31 01:52:38,192 - INFO - Connected to MetaTrader 5
+2024-08-31 01:52:38,193 - INFO - Processing pair: GBPUSD
+2024-08-31 01:52:38,193 - INFO - Processing pair: USDCAD
+2024-08-31 01:52:38,408 - INFO - Starting prediction and trading process for USDCAD
+2024-08-31 01:52:38,409 - INFO - Fetching and processing data for USDCAD
+2024-08-31 01:52:38,410 - INFO - Fetching historical data for USDCAD
+2024-08-31 01:52:38,412 - INFO - Calculating indicators
+2024-08-31 01:52:38,414 - INFO - Adding rolling features
+2024-08-31 01:52:38,423 - INFO - Starting prediction and trading process for GBPUSD
+2024-08-31 01:52:38,424 - INFO - Fetching and processing data for GBPUSD
+2024-08-31 01:52:38,424 - INFO - Adding lag features
+2024-08-31 01:52:38,424 - INFO - Fetching historical data for GBPUSD
+2024-08-31 01:52:38,428 - INFO - NaNs before drop for USDCAD: 313
+2024-08-31 01:52:38,429 - INFO - Calculating indicators
+2024-08-31 01:52:38,431 - INFO - Adding rolling features
+2024-08-31 01:52:38,433 - INFO - NaNs after drop for USDCAD: 0
+2024-08-31 01:52:38,433 - INFO - Processing data for feature extraction for USDCAD
+2024-08-31 01:52:38,436 - INFO - Adding lag features
+2024-08-31 01:52:38,441 - INFO - NaNs before drop for GBPUSD: 313
+2024-08-31 01:52:38,444 - INFO - NaNs after drop for GBPUSD: 0
+2024-08-31 01:52:38,444 - INFO - Processing data for feature extraction for GBPUSD
+2024-08-31 01:52:42,651 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-08-31 01:52:42,702 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-08-31 01:52:54,375 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-08-31 01:52:54,520 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-08-31 01:53:02,354 - INFO - NaNs after merging for USDCAD: 630
+2024-08-31 01:53:02,355 - INFO - Final NaNs for USDCAD: 0
+2024-08-31 01:53:02,362 - INFO - NaNs after merging for GBPUSD: 625
+2024-08-31 01:53:02,363 - INFO - Final NaNs for GBPUSD: 0
+2024-08-31 01:53:02,377 - INFO - Saving predictions to CSV for GBPUSD
+2024-08-31 01:53:02,377 - INFO - Saving predictions to CSV for USDCAD
+2024-08-31 01:53:02,377 - INFO - Calculating SL and TP prices
+2024-08-31 01:53:02,377 - INFO - Placing order for GBPUSD
+2024-08-31 01:53:02,377 - ERROR - Order placement failed for GBPUSD: 10027 - (1, 'Success')
+2024-08-31 01:53:02,377 - INFO - No Buy signal generated for USDCAD. Doing nothing.
+2024-08-31 01:53:44,153 - INFO - Connected to MetaTrader 5
+2024-08-31 01:53:44,154 - INFO - Processing pair: GBPUSD
+2024-08-31 01:53:44,154 - INFO - Processing pair: USDCAD
+2024-09-01 12:12:36,718 - INFO - Connected to MetaTrader 5
+2024-09-01 12:12:36,718 - INFO - Processing pair: GBPUSD
+2024-09-01 12:12:36,718 - INFO - Processing pair: USDCAD
+2024-09-01 15:46:37,115 - INFO - MetaTrader 5 connection closed for GBPUSD.
+2024-09-01 15:46:37,217 - INFO - MetaTrader 5 connection closed for USDCAD.

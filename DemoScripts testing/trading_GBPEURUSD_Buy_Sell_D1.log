@@ -1,0 +1,122 @@
+2024-10-07 19:33:25,107 - INFO - Processing pair: EURUSD for Buy and Sell
+2024-10-07 19:33:25,109 - INFO - Processing pair: GBPUSD for Buy and Sell
+2024-10-07 19:33:25,110 - INFO - Processing pair: USDCAD for Buy and Sell
+2024-10-07 19:33:25,377 - WARNING - Sell model or scaler missing for EURUSD
+2024-10-07 19:37:29,926 - INFO - Processing pair: GBPUSD for Buy and Sell
+2024-10-07 19:37:29,926 - INFO - Processing pair: EURUSD for Buy and Sell
+2024-10-07 19:37:29,926 - INFO - Processing pair: USDCAD for Buy and Sell
+2024-10-07 19:37:30,154 - WARNING - Sell model or scaler missing for EURUSD
+2024-10-07 20:48:59,593 - INFO - Processing pair: EURUSD for Buy and Sell
+2024-10-07 20:48:59,599 - INFO - Processing pair: GBPUSD for Buy and Sell
+2024-10-07 20:49:00,821 - INFO - Processing pair: USDCAD for Buy and Sell
+2024-10-07 20:49:01,086 - WARNING - Sell model or scaler missing for EURUSD
+2024-10-07 20:58:55,353 - INFO - Processing pair: EURUSD for Buy and Sell
+2024-10-07 20:58:55,353 - INFO - Processing pair: GBPUSD for Buy and Sell
+2024-10-07 20:58:56,275 - INFO - Processing pair: USDCAD for Buy and Sell
+2024-10-07 20:58:56,510 - WARNING - Sell model or scaler missing for EURUSD
+2024-10-08 00:30:26,715 - INFO - Executing trade for EURUSD at 2024-10-07 22:30:26.715468+00:00
+2024-10-08 00:30:26,715 - INFO - Starting prediction and trading process for EURUSD - Buy
+2024-10-08 00:30:26,715 - INFO - Fetching and processing data for EURUSD
+2024-10-08 00:30:26,716 - INFO - Fetching historical data for EURUSD
+2024-10-08 00:30:26,841 - INFO - Executing trade for GBPUSD at 2024-10-07 22:30:26.841465+00:00
+2024-10-08 00:30:26,841 - INFO - Starting prediction and trading process for GBPUSD - Buy
+2024-10-08 00:30:26,841 - INFO - Fetching and processing data for GBPUSD
+2024-10-08 00:30:26,842 - INFO - Fetching historical data for GBPUSD
+2024-10-08 00:30:26,845 - INFO - Calculating indicators
+2024-10-08 00:30:26,846 - INFO - Executing trade for USDCAD at 2024-10-07 22:30:26.846414+00:00
+2024-10-08 00:30:26,846 - INFO - Starting prediction and trading process for USDCAD - Buy
+2024-10-08 00:30:26,847 - INFO - Calculating indicators
+2024-10-08 00:30:26,847 - INFO - Fetching and processing data for USDCAD
+2024-10-08 00:30:26,847 - INFO - Adding rolling features
+2024-10-08 00:30:26,848 - INFO - Adding rolling features
+2024-10-08 00:30:26,848 - INFO - Fetching historical data for USDCAD
+2024-10-08 00:30:26,962 - INFO - Calculating indicators
+2024-10-08 00:30:26,965 - INFO - Adding rolling features
+2024-10-08 00:30:26,966 - INFO - Adding lag features
+2024-10-08 00:30:26,967 - INFO - Adding lag features
+2024-10-08 00:30:26,974 - INFO - Adding lag features
+2024-10-08 00:30:26,986 - INFO - Processing data for feature extraction for GBPUSD
+2024-10-08 00:30:26,988 - INFO - Processing data for feature extraction for EURUSD
+2024-10-08 00:30:26,989 - INFO - Processing data for feature extraction for USDCAD
+2024-10-08 00:30:32,907 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-08 00:30:32,999 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-08 00:30:33,200 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-08 00:30:50,774 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-08 00:30:50,871 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-08 00:30:50,924 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-08 00:31:02,787 - INFO - Starting prediction and trading process for USDCAD - Sell
+2024-10-08 00:31:02,787 - INFO - Fetching and processing data for USDCAD
+2024-10-08 00:31:02,787 - INFO - Fetching historical data for USDCAD
+2024-10-08 00:31:02,801 - INFO - Calculating indicators
+2024-10-08 00:31:02,802 - INFO - Adding rolling features
+2024-10-08 00:31:02,804 - INFO - Adding lag features
+2024-10-08 00:31:02,808 - INFO - Starting prediction and trading process for GBPUSD - Sell
+2024-10-08 00:31:02,808 - INFO - Fetching and processing data for GBPUSD
+2024-10-08 00:31:02,808 - INFO - Fetching historical data for GBPUSD
+2024-10-08 00:31:02,810 - INFO - Calculating indicators
+2024-10-08 00:31:02,812 - INFO - Adding rolling features
+2024-10-08 00:31:02,816 - INFO - Processing data for feature extraction for USDCAD
+2024-10-08 00:31:02,819 - INFO - Adding lag features
+2024-10-08 00:31:02,824 - INFO - Processing data for feature extraction for GBPUSD
+2024-10-08 00:31:07,138 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-08 00:31:07,154 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-08 00:31:20,019 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-08 00:31:20,084 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-08 00:31:28,631 - INFO - Calculating SL and TP prices
+2024-10-08 00:31:28,632 - INFO - Placing Sell order for GBPUSD
+2024-10-08 00:31:28,632 - ERROR - Order placement failed for GBPUSD: 10016 - (1, 'Success')
+2024-10-08 02:03:13,076 - INFO - Processing pair: EURUSD for Buy and Sell
+2024-10-08 02:03:13,123 - INFO - Processing pair: GBPUSD for Buy and Sell
+2024-10-08 02:03:13,174 - INFO - Processing pair: USDCAD for Buy and Sell
+2024-10-08 02:03:13,442 - WARNING - Sell model or scaler missing for EURUSD
+2024-10-08 02:04:13,449 - INFO - Executing trade for EURUSD at 2024-10-08 00:04:13.449550+00:00
+2024-10-08 02:04:13,449 - INFO - Starting prediction and trading process for EURUSD - Buy
+2024-10-08 02:04:13,449 - INFO - Fetching and processing data for EURUSD
+2024-10-08 02:04:13,450 - INFO - Fetching historical data for EURUSD
+2024-10-08 02:04:13,473 - INFO - Calculating indicators
+2024-10-08 02:04:13,474 - INFO - Adding rolling features
+2024-10-08 02:04:13,475 - INFO - Adding lag features
+2024-10-08 02:04:13,479 - INFO - Processing data for feature extraction for EURUSD
+2024-10-08 02:04:13,482 - INFO - Executing trade for USDCAD at 2024-10-08 00:04:13.482378+00:00
+2024-10-08 02:04:13,482 - INFO - Starting prediction and trading process for USDCAD - Buy
+2024-10-08 02:04:13,482 - INFO - Fetching and processing data for USDCAD
+2024-10-08 02:04:13,482 - INFO - Fetching historical data for USDCAD
+2024-10-08 02:04:13,502 - INFO - Executing trade for GBPUSD at 2024-10-08 00:04:13.502480+00:00
+2024-10-08 02:04:13,502 - INFO - Starting prediction and trading process for GBPUSD - Buy
+2024-10-08 02:04:13,502 - INFO - Fetching and processing data for GBPUSD
+2024-10-08 02:04:13,502 - INFO - Fetching historical data for GBPUSD
+2024-10-08 02:04:13,504 - INFO - Calculating indicators
+2024-10-08 02:04:13,505 - INFO - Adding rolling features
+2024-10-08 02:04:13,506 - INFO - Calculating indicators
+2024-10-08 02:04:13,508 - INFO - Adding lag features
+2024-10-08 02:04:13,508 - INFO - Adding rolling features
+2024-10-08 02:04:13,514 - INFO - Adding lag features
+2024-10-08 02:04:13,517 - INFO - Processing data for feature extraction for USDCAD
+2024-10-08 02:04:13,521 - INFO - Processing data for feature extraction for GBPUSD
+2024-10-08 02:04:19,599 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-08 02:04:19,660 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-08 02:04:19,849 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-08 02:04:37,311 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-08 02:04:37,550 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-08 02:04:37,555 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-08 02:04:50,032 - INFO - Starting prediction and trading process for USDCAD - Sell
+2024-10-08 02:04:50,032 - INFO - Fetching and processing data for USDCAD
+2024-10-08 02:04:50,032 - INFO - Fetching historical data for USDCAD
+2024-10-08 02:04:50,051 - INFO - Calculating indicators
+2024-10-08 02:04:50,052 - INFO - Adding rolling features
+2024-10-08 02:04:50,054 - INFO - Adding lag features
+2024-10-08 02:04:50,058 - INFO - Processing data for feature extraction for USDCAD
+2024-10-08 02:04:50,062 - INFO - Starting prediction and trading process for GBPUSD - Sell
+2024-10-08 02:04:50,062 - INFO - Fetching and processing data for GBPUSD
+2024-10-08 02:04:50,062 - INFO - Fetching historical data for GBPUSD
+2024-10-08 02:04:50,063 - INFO - Calculating indicators
+2024-10-08 02:04:50,064 - INFO - Adding rolling features
+2024-10-08 02:04:50,066 - INFO - Adding lag features
+2024-10-08 02:04:50,074 - INFO - Processing data for feature extraction for GBPUSD
+2024-10-08 02:04:54,587 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-08 02:04:54,617 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-08 02:05:08,097 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-08 02:05:08,118 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-10-08 02:05:16,695 - INFO - Calculating SL and TP prices
+2024-10-08 02:05:16,695 - INFO - Placing Sell order for GBPUSD
+2024-10-08 02:05:16,695 - ERROR - Order placement failed for GBPUSD: 10016 - (1, 'Success')

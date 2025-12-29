@@ -1,0 +1,17 @@
+2024-09-11 21:59:25,571 - INFO - Connected to MetaTrader 5
+2024-09-11 21:59:25,571 - INFO - Processing pair: GBPUSD for Buy and Sell
+2024-09-11 21:59:25,785 - WARNING - Sell model or scaler missing for GBPUSD: [Errno 2] No such file or directory: 'GBPUSD_D1_3112_Sell/scaler_fold_1.joblib'
+2024-09-11 23:00:25,842 - INFO - Starting prediction and trading process for GBPUSD - Buy
+2024-09-11 23:00:25,842 - INFO - Fetching and processing data for GBPUSD
+2024-09-11 23:00:25,842 - INFO - Fetching historical data for GBPUSD
+2024-09-11 23:00:25,844 - INFO - Calculating indicators
+2024-09-11 23:00:25,861 - INFO - Adding rolling features
+2024-09-11 23:00:25,861 - INFO - Adding lag features
+2024-09-11 23:00:25,861 - INFO - NaNs before drop for GBPUSD: 313
+2024-09-11 23:00:25,861 - INFO - NaNs after drop for GBPUSD: 0
+2024-09-11 23:00:25,861 - INFO - Processing data for feature extraction for GBPUSD
+2024-09-11 23:00:28,791 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-09-11 23:00:37,046 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-09-11 23:00:46,643 - INFO - NaNs after merging for GBPUSD: 410
+2024-09-11 23:00:46,645 - INFO - Final NaNs for GBPUSD: 0
+2024-09-11 23:00:46,646 - INFO - MetaTrader 5 connection closed for GBPUSD.

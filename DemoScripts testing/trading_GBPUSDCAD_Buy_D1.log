@@ -1,0 +1,745 @@
+2024-09-01 21:55:21,206 - INFO - Connected to MetaTrader 5
+2024-09-01 21:55:21,206 - INFO - Processing pair: GBPUSD
+2024-09-01 21:55:21,207 - INFO - Processing pair: USDCAD
+2024-09-01 21:55:21,417 - INFO - Starting prediction and trading process for GBPUSD
+2024-09-01 21:55:21,418 - INFO - Fetching and processing data for GBPUSD
+2024-09-01 21:55:21,418 - INFO - Fetching historical data for GBPUSD
+2024-09-01 21:55:21,421 - INFO - Calculating indicators
+2024-09-01 21:55:21,423 - INFO - Adding rolling features
+2024-09-01 21:55:21,427 - INFO - Adding lag features
+2024-09-01 21:55:21,446 - INFO - NaNs before drop for GBPUSD: 313
+2024-09-01 21:55:21,450 - INFO - NaNs after drop for GBPUSD: 0
+2024-09-01 21:55:21,540 - INFO - Processing data for feature extraction for GBPUSD
+2024-09-01 21:55:21,541 - INFO - Starting prediction and trading process for USDCAD
+2024-09-01 21:55:21,541 - INFO - Fetching and processing data for USDCAD
+2024-09-01 21:55:21,542 - INFO - Fetching historical data for USDCAD
+2024-09-01 21:55:21,556 - INFO - Calculating indicators
+2024-09-01 21:55:21,558 - INFO - Adding rolling features
+2024-09-01 21:55:21,561 - INFO - Adding lag features
+2024-09-01 21:55:21,565 - INFO - NaNs before drop for USDCAD: 313
+2024-09-01 21:55:21,567 - INFO - NaNs after drop for USDCAD: 0
+2024-09-01 21:55:21,567 - INFO - Processing data for feature extraction for USDCAD
+2024-09-01 21:55:26,172 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-09-01 21:55:26,297 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-09-01 21:55:39,106 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-09-01 21:55:39,109 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-09-01 21:55:48,003 - INFO - NaNs after merging for GBPUSD: 625
+2024-09-01 21:55:48,004 - INFO - Final NaNs for GBPUSD: 0
+2024-09-01 21:55:48,004 - INFO - NaNs after merging for USDCAD: 630
+2024-09-01 21:55:48,006 - INFO - Final NaNs for USDCAD: 0
+2024-09-01 21:55:48,022 - INFO - Saving predictions to CSV for GBPUSD
+2024-09-01 21:55:48,026 - INFO - Calculating SL and TP prices
+2024-09-01 21:55:48,026 - INFO - Placing order for GBPUSD
+2024-09-01 21:55:48,026 - ERROR - Order placement failed for GBPUSD: 10027 - (1, 'Success')
+2024-09-01 21:55:48,027 - INFO - Saving predictions to CSV for USDCAD
+2024-09-01 21:55:48,028 - INFO - No Buy signal generated for USDCAD. Doing nothing.
+2024-09-01 21:56:21,100 - INFO - Connected to MetaTrader 5
+2024-09-01 21:56:21,100 - INFO - Processing pair: GBPUSD
+2024-09-01 21:56:21,100 - INFO - Processing pair: USDCAD
+2024-09-01 22:01:21,294 - INFO - MetaTrader 5 connection closed for GBPUSD.
+2024-09-01 22:01:21,294 - INFO - MetaTrader 5 connection closed for USDCAD.
+2024-09-02 00:52:51,505 - INFO - Connected to MetaTrader 5
+2024-09-02 00:52:51,505 - INFO - Processing pair: GBPUSD
+2024-09-02 00:52:51,507 - INFO - Processing pair: USDCAD
+2024-09-02 00:53:51,593 - INFO - Starting prediction and trading process for USDCAD
+2024-09-02 00:53:51,597 - INFO - Fetching and processing data for USDCAD
+2024-09-02 00:53:51,597 - INFO - Fetching historical data for USDCAD
+2024-09-02 00:53:51,602 - INFO - Calculating indicators
+2024-09-02 00:53:51,604 - INFO - Adding rolling features
+2024-09-02 00:53:51,613 - INFO - Adding lag features
+2024-09-02 00:53:51,619 - INFO - NaNs before drop for USDCAD: 313
+2024-09-02 00:53:51,622 - INFO - NaNs after drop for USDCAD: 0
+2024-09-02 00:53:51,622 - INFO - Processing data for feature extraction for USDCAD
+2024-09-02 00:53:54,534 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-09-02 00:54:02,667 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-09-02 00:54:08,191 - INFO - NaNs after merging for USDCAD: 630
+2024-09-02 00:54:08,192 - INFO - Final NaNs for USDCAD: 0
+2024-09-02 00:54:08,199 - INFO - Saving predictions to CSV for USDCAD
+2024-09-02 00:54:08,201 - INFO - No Buy signal generated for USDCAD. Doing nothing.
+2024-09-02 01:00:59,567 - INFO - Connected to MetaTrader 5
+2024-09-02 01:00:59,567 - INFO - Processing pair: GBPUSD
+2024-09-02 01:00:59,567 - INFO - Processing pair: USDCAD
+2024-09-02 01:02:48,964 - INFO - Connected to MetaTrader 5
+2024-09-02 01:02:48,964 - INFO - Processing pair: GBPUSD
+2024-09-02 01:02:48,964 - INFO - Processing pair: USDCAD
+2024-09-02 01:02:49,112 - INFO - Starting prediction and trading process for USDCAD
+2024-09-02 01:02:49,112 - INFO - Fetching and processing data for USDCAD
+2024-09-02 01:02:49,112 - INFO - Fetching historical data for USDCAD
+2024-09-02 01:02:49,128 - INFO - Calculating indicators
+2024-09-02 01:02:49,131 - INFO - Adding rolling features
+2024-09-02 01:02:49,132 - INFO - Adding lag features
+2024-09-02 01:02:49,132 - INFO - NaNs before drop for USDCAD: 313
+2024-09-02 01:02:49,148 - INFO - NaNs after drop for USDCAD: 0
+2024-09-02 01:02:49,148 - INFO - Processing data for feature extraction for USDCAD
+2024-09-02 01:02:49,162 - INFO - Starting prediction and trading process for GBPUSD
+2024-09-02 01:02:49,162 - INFO - Fetching and processing data for GBPUSD
+2024-09-02 01:02:49,162 - INFO - Fetching historical data for GBPUSD
+2024-09-02 01:02:49,162 - INFO - Calculating indicators
+2024-09-02 01:02:49,162 - INFO - Adding rolling features
+2024-09-02 01:02:49,162 - INFO - Adding lag features
+2024-09-02 01:02:49,162 - INFO - NaNs before drop for GBPUSD: 313
+2024-09-02 01:02:49,162 - INFO - NaNs after drop for GBPUSD: 0
+2024-09-02 01:02:49,162 - INFO - Processing data for feature extraction for GBPUSD
+2024-09-02 01:02:53,599 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-09-02 01:02:53,683 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-09-02 01:03:06,198 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-09-02 01:03:06,399 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-09-02 01:03:14,932 - INFO - NaNs after merging for GBPUSD: 625
+2024-09-02 01:03:14,932 - INFO - NaNs after merging for USDCAD: 630
+2024-09-02 01:03:14,932 - INFO - Final NaNs for USDCAD: 0
+2024-09-02 01:03:14,932 - INFO - Final NaNs for GBPUSD: 0
+2024-09-02 01:03:14,963 - INFO - Saving predictions to CSV for GBPUSD
+2024-09-02 01:03:14,963 - INFO - Saving predictions to CSV for USDCAD
+2024-09-02 01:03:14,963 - INFO - Calculating SL and TP prices
+2024-09-02 01:03:14,963 - INFO - Placing order for GBPUSD
+2024-09-02 01:03:14,963 - ERROR - Order placement failed for GBPUSD: 10027 - (1, 'Success')
+2024-09-02 01:03:14,963 - INFO - No Buy signal generated for USDCAD. Doing nothing.
+2024-09-02 01:03:59,039 - INFO - Connected to MetaTrader 5
+2024-09-02 01:03:59,039 - INFO - Processing pair: GBPUSD
+2024-09-02 01:03:59,040 - INFO - Processing pair: USDCAD
+2024-09-02 01:03:59,198 - INFO - Starting prediction and trading process for GBPUSD
+2024-09-02 01:03:59,198 - INFO - Fetching and processing data for GBPUSD
+2024-09-02 01:03:59,198 - INFO - Fetching historical data for GBPUSD
+2024-09-02 01:03:59,212 - INFO - Calculating indicators
+2024-09-02 01:03:59,213 - INFO - Adding rolling features
+2024-09-02 01:03:59,213 - INFO - Adding lag features
+2024-09-02 01:03:59,213 - INFO - NaNs before drop for GBPUSD: 313
+2024-09-02 01:03:59,213 - INFO - NaNs after drop for GBPUSD: 0
+2024-09-02 01:03:59,213 - INFO - Processing data for feature extraction for GBPUSD
+2024-09-02 01:03:59,250 - INFO - Starting prediction and trading process for USDCAD
+2024-09-02 01:03:59,251 - INFO - Fetching and processing data for USDCAD
+2024-09-02 01:03:59,251 - INFO - Fetching historical data for USDCAD
+2024-09-02 01:03:59,253 - INFO - Calculating indicators
+2024-09-02 01:03:59,254 - INFO - Adding rolling features
+2024-09-02 01:03:59,256 - INFO - Adding lag features
+2024-09-02 01:03:59,259 - INFO - NaNs before drop for USDCAD: 313
+2024-09-02 01:03:59,265 - INFO - NaNs after drop for USDCAD: 0
+2024-09-02 01:03:59,265 - INFO - Processing data for feature extraction for USDCAD
+2024-09-02 01:04:03,797 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-09-02 01:04:03,868 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-09-02 01:04:17,227 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-09-02 01:04:17,397 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-09-02 01:04:26,274 - INFO - NaNs after merging for GBPUSD: 625
+2024-09-02 01:04:26,275 - INFO - NaNs after merging for USDCAD: 630
+2024-09-02 01:04:26,276 - INFO - Final NaNs for GBPUSD: 0
+2024-09-02 01:04:26,279 - INFO - Final NaNs for USDCAD: 0
+2024-09-02 01:04:26,336 - INFO - Saving predictions to CSV for GBPUSD
+2024-09-02 01:04:26,345 - INFO - Calculating SL and TP prices
+2024-09-02 01:04:26,346 - INFO - Placing order for GBPUSD
+2024-09-02 01:04:26,767 - INFO - Saving predictions to CSV for USDCAD
+2024-09-02 01:04:26,768 - INFO - Order placed successfully for GBPUSD.
+2024-09-02 01:04:26,769 - INFO - No Buy signal generated for USDCAD. Doing nothing.
+2024-09-02 01:05:02,086 - INFO - Connected to MetaTrader 5
+2024-09-02 01:05:02,086 - INFO - Processing pair: GBPUSD
+2024-09-02 01:05:02,086 - INFO - Processing pair: USDCAD
+2024-09-02 23:00:03,317 - INFO - Starting prediction and trading process for USDCAD
+2024-09-02 23:00:03,319 - INFO - Fetching and processing data for USDCAD
+2024-09-02 23:00:03,319 - INFO - Fetching historical data for USDCAD
+2024-09-02 23:00:03,325 - INFO - Starting prediction and trading process for GBPUSD
+2024-09-02 23:00:03,326 - INFO - Fetching and processing data for GBPUSD
+2024-09-02 23:00:03,326 - INFO - Fetching historical data for GBPUSD
+2024-09-02 23:00:03,327 - INFO - Calculating indicators
+2024-09-02 23:00:03,328 - INFO - Calculating indicators
+2024-09-02 23:00:03,329 - INFO - Adding rolling features
+2024-09-02 23:00:03,330 - INFO - Adding rolling features
+2024-09-02 23:00:03,333 - INFO - Adding lag features
+2024-09-02 23:00:03,336 - INFO - Adding lag features
+2024-09-02 23:00:03,338 - INFO - NaNs before drop for GBPUSD: 313
+2024-09-02 23:00:03,341 - INFO - NaNs before drop for USDCAD: 313
+2024-09-02 23:00:03,344 - INFO - NaNs after drop for GBPUSD: 0
+2024-09-02 23:00:03,345 - INFO - NaNs after drop for USDCAD: 0
+2024-09-02 23:00:03,345 - INFO - Processing data for feature extraction for GBPUSD
+2024-09-02 23:00:03,345 - INFO - Processing data for feature extraction for USDCAD
+2024-09-02 23:00:07,504 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-09-02 23:00:07,584 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-09-02 23:00:19,663 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-09-02 23:00:19,665 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-09-02 23:00:27,518 - INFO - NaNs after merging for USDCAD: 630
+2024-09-02 23:00:27,518 - INFO - NaNs after merging for GBPUSD: 625
+2024-09-02 23:00:27,519 - INFO - Final NaNs for USDCAD: 0
+2024-09-02 23:00:27,520 - INFO - Final NaNs for GBPUSD: 0
+2024-09-02 23:00:27,536 - INFO - Saving predictions to CSV for GBPUSD
+2024-09-02 23:00:27,539 - INFO - Calculating SL and TP prices
+2024-09-02 23:00:27,539 - INFO - Placing order for GBPUSD
+2024-09-02 23:00:27,652 - ERROR - Order placement failed for GBPUSD: 10018 - (1, 'Success')
+2024-09-02 23:00:27,656 - INFO - Saving predictions to CSV for USDCAD
+2024-09-02 23:00:27,657 - INFO - No Buy signal generated for USDCAD. Doing nothing.
+2024-09-03 23:00:28,716 - INFO - Starting prediction and trading process for USDCAD
+2024-09-03 23:00:28,716 - INFO - Starting prediction and trading process for GBPUSD
+2024-09-03 23:00:28,716 - INFO - Fetching and processing data for GBPUSD
+2024-09-03 23:00:28,716 - INFO - Fetching historical data for GBPUSD
+2024-09-03 23:00:28,716 - INFO - Fetching and processing data for USDCAD
+2024-09-03 23:00:28,716 - INFO - Fetching historical data for USDCAD
+2024-09-03 23:00:28,716 - INFO - Calculating indicators
+2024-09-03 23:00:28,716 - INFO - Adding rolling features
+2024-09-03 23:00:28,716 - INFO - Adding lag features
+2024-09-03 23:00:28,716 - INFO - NaNs before drop for GBPUSD: 313
+2024-09-03 23:00:28,716 - INFO - NaNs after drop for GBPUSD: 0
+2024-09-03 23:00:28,716 - INFO - Processing data for feature extraction for GBPUSD
+2024-09-03 23:00:28,731 - INFO - Calculating indicators
+2024-09-03 23:00:28,731 - INFO - Adding rolling features
+2024-09-03 23:00:28,731 - INFO - Adding lag features
+2024-09-03 23:00:28,747 - INFO - NaNs before drop for USDCAD: 313
+2024-09-03 23:00:28,747 - INFO - NaNs after drop for USDCAD: 0
+2024-09-03 23:00:28,747 - INFO - Processing data for feature extraction for USDCAD
+2024-09-03 23:00:33,670 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-09-03 23:00:33,829 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-09-03 23:00:46,450 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-09-03 23:00:46,654 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-09-03 23:00:54,739 - INFO - NaNs after merging for USDCAD: 630
+2024-09-03 23:00:54,739 - INFO - Final NaNs for USDCAD: 0
+2024-09-03 23:00:54,771 - INFO - Saving predictions to CSV for USDCAD
+2024-09-03 23:00:54,771 - INFO - No Buy signal generated for USDCAD. Doing nothing.
+2024-09-03 23:00:54,802 - INFO - NaNs after merging for GBPUSD: 625
+2024-09-03 23:00:54,802 - INFO - Final NaNs for GBPUSD: 0
+2024-09-03 23:00:54,817 - INFO - Saving predictions to CSV for GBPUSD
+2024-09-03 23:00:54,817 - INFO - Calculating SL and TP prices
+2024-09-03 23:00:54,817 - INFO - Placing order for GBPUSD
+2024-09-03 23:00:54,927 - ERROR - Order placement failed for GBPUSD: 10018 - (1, 'Success')
+2024-09-04 14:19:13,777 - INFO - Connected to MetaTrader 5
+2024-09-04 14:19:13,777 - INFO - Processing pair: GBPUSD
+2024-09-04 14:19:13,777 - INFO - Processing pair: USDCAD
+2024-09-04 23:00:14,366 - INFO - Starting prediction and trading process for USDCAD
+2024-09-04 23:00:14,368 - INFO - Starting prediction and trading process for GBPUSD
+2024-09-04 23:00:14,368 - INFO - Fetching and processing data for GBPUSD
+2024-09-04 23:00:14,368 - INFO - Fetching historical data for GBPUSD
+2024-09-04 23:00:14,371 - INFO - Calculating indicators
+2024-09-04 23:00:14,372 - INFO - Adding rolling features
+2024-09-04 23:00:14,372 - INFO - Fetching and processing data for USDCAD
+2024-09-04 23:00:14,372 - INFO - Fetching historical data for USDCAD
+2024-09-04 23:00:14,372 - INFO - Calculating indicators
+2024-09-04 23:00:14,372 - INFO - Adding rolling features
+2024-09-04 23:00:14,372 - INFO - Adding lag features
+2024-09-04 23:00:14,372 - INFO - NaNs before drop for GBPUSD: 313
+2024-09-04 23:00:14,372 - INFO - Adding lag features
+2024-09-04 23:00:14,384 - INFO - NaNs before drop for USDCAD: 313
+2024-09-04 23:00:14,384 - INFO - NaNs after drop for USDCAD: 0
+2024-09-04 23:00:14,384 - INFO - Processing data for feature extraction for USDCAD
+2024-09-04 23:00:14,384 - INFO - NaNs after drop for GBPUSD: 0
+2024-09-04 23:00:14,384 - INFO - Processing data for feature extraction for GBPUSD
+2024-09-04 23:00:18,804 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-09-04 23:00:18,883 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-09-04 23:00:32,020 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-09-04 23:00:32,097 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-09-04 23:00:40,635 - INFO - NaNs after merging for GBPUSD: 625
+2024-09-04 23:00:40,635 - INFO - Final NaNs for GBPUSD: 0
+2024-09-04 23:00:40,635 - INFO - NaNs after merging for USDCAD: 630
+2024-09-04 23:00:40,635 - INFO - Final NaNs for USDCAD: 0
+2024-09-04 23:00:40,651 - INFO - Saving predictions to CSV for GBPUSD
+2024-09-04 23:00:40,666 - INFO - No Buy signal generated for GBPUSD. Doing nothing.
+2024-09-04 23:00:40,666 - INFO - Saving predictions to CSV for USDCAD
+2024-09-04 23:00:40,666 - INFO - No Buy signal generated for USDCAD. Doing nothing.
+2024-09-04 23:17:29,384 - INFO - Connected to MetaTrader 5
+2024-09-04 23:17:29,384 - INFO - Processing pair: GBPUSD
+2024-09-04 23:17:29,400 - INFO - Processing pair: USDCAD
+2024-09-04 23:17:29,598 - INFO - Starting prediction and trading process for GBPUSD
+2024-09-04 23:17:29,598 - INFO - Fetching and processing data for GBPUSD
+2024-09-04 23:17:29,610 - INFO - Fetching historical data for GBPUSD
+2024-09-04 23:17:29,610 - INFO - Calculating indicators
+2024-09-04 23:17:29,614 - INFO - Adding rolling features
+2024-09-04 23:17:29,617 - INFO - Adding lag features
+2024-09-04 23:17:29,621 - INFO - NaNs before drop for GBPUSD: 313
+2024-09-04 23:17:29,623 - INFO - NaNs after drop for GBPUSD: 0
+2024-09-04 23:17:29,623 - INFO - Processing data for feature extraction for GBPUSD
+2024-09-04 23:17:29,645 - INFO - Starting prediction and trading process for USDCAD
+2024-09-04 23:17:29,645 - INFO - Fetching and processing data for USDCAD
+2024-09-04 23:17:29,645 - INFO - Fetching historical data for USDCAD
+2024-09-04 23:17:29,647 - INFO - Calculating indicators
+2024-09-04 23:17:29,648 - INFO - Adding rolling features
+2024-09-04 23:17:29,652 - INFO - Adding lag features
+2024-09-04 23:17:29,656 - INFO - NaNs before drop for USDCAD: 313
+2024-09-04 23:17:29,656 - INFO - NaNs after drop for USDCAD: 0
+2024-09-04 23:17:29,656 - INFO - Processing data for feature extraction for USDCAD
+2024-09-04 23:17:34,452 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-09-04 23:17:34,452 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-09-04 23:17:48,297 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-09-04 23:17:48,330 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-09-04 23:17:57,331 - INFO - NaNs after merging for GBPUSD: 625
+2024-09-04 23:17:57,331 - INFO - NaNs after merging for USDCAD: 630
+2024-09-04 23:17:57,331 - INFO - Final NaNs for GBPUSD: 0
+2024-09-04 23:17:57,331 - INFO - Shifting the data for GBPUSD
+2024-09-04 23:17:57,331 - INFO - Final NaNs for USDCAD: 0
+2024-09-04 23:17:57,331 - INFO - Shifting the data for USDCAD
+2024-09-04 23:17:57,331 - INFO - Scaling the data for GBPUSD
+2024-09-04 23:17:57,331 - INFO - Scaling the data for USDCAD
+2024-09-04 23:17:57,331 - INFO - Predicting for GBPUSD
+2024-09-04 23:17:57,331 - INFO - Predicting for USDCAD
+2024-09-04 23:17:57,347 - INFO - Saving predictions to CSV for GBPUSD
+2024-09-04 23:17:57,347 - INFO - No Buy signal generated for GBPUSD. Doing nothing.
+2024-09-04 23:17:57,347 - INFO - Saving predictions to CSV for USDCAD
+2024-09-04 23:17:57,347 - INFO - No Buy signal generated for USDCAD. Doing nothing.
+2024-09-04 23:18:57,359 - INFO - Starting prediction and trading process for GBPUSD
+2024-09-04 23:18:57,359 - INFO - Fetching and processing data for GBPUSD
+2024-09-04 23:18:57,359 - INFO - Fetching historical data for GBPUSD
+2024-09-04 23:18:57,362 - INFO - Starting prediction and trading process for USDCAD
+2024-09-04 23:18:57,362 - INFO - Fetching and processing data for USDCAD
+2024-09-04 23:18:57,362 - INFO - Fetching historical data for USDCAD
+2024-09-04 23:18:57,365 - INFO - Calculating indicators
+2024-09-04 23:18:57,366 - INFO - Calculating indicators
+2024-09-04 23:18:57,366 - INFO - Adding rolling features
+2024-09-04 23:18:57,366 - INFO - Adding rolling features
+2024-09-04 23:18:57,366 - INFO - Adding lag features
+2024-09-04 23:18:57,366 - INFO - NaNs before drop for USDCAD: 313
+2024-09-04 23:18:57,366 - INFO - Adding lag features
+2024-09-04 23:18:57,366 - INFO - NaNs after drop for USDCAD: 0
+2024-09-04 23:18:57,383 - INFO - NaNs before drop for GBPUSD: 313
+2024-09-04 23:18:57,383 - INFO - Processing data for feature extraction for USDCAD
+2024-09-04 23:18:57,387 - INFO - NaNs after drop for GBPUSD: 0
+2024-09-04 23:18:57,387 - INFO - Processing data for feature extraction for GBPUSD
+2024-09-04 23:19:20,374 - INFO - Connected to MetaTrader 5
+2024-09-04 23:19:20,374 - INFO - Processing pair: GBPUSD
+2024-09-04 23:19:20,374 - INFO - Processing pair: USDCAD
+2024-09-04 23:19:20,555 - INFO - Starting prediction and trading process for USDCAD
+2024-09-04 23:19:20,555 - INFO - Fetching and processing data for USDCAD
+2024-09-04 23:19:20,566 - INFO - Fetching historical data for USDCAD
+2024-09-04 23:19:20,568 - INFO - Calculating indicators
+2024-09-04 23:19:20,569 - INFO - Adding rolling features
+2024-09-04 23:19:20,569 - INFO - Adding lag features
+2024-09-04 23:19:20,574 - INFO - NaNs before drop for USDCAD: 313
+2024-09-04 23:19:20,574 - INFO - Starting prediction and trading process for GBPUSD
+2024-09-04 23:19:20,574 - INFO - Fetching and processing data for GBPUSD
+2024-09-04 23:19:20,574 - INFO - Fetching historical data for GBPUSD
+2024-09-04 23:19:20,574 - INFO - Calculating indicators
+2024-09-04 23:19:20,574 - INFO - Adding rolling features
+2024-09-04 23:19:20,574 - INFO - NaNs after drop for USDCAD: 0
+2024-09-04 23:19:20,574 - INFO - Processing data for feature extraction for USDCAD
+2024-09-04 23:19:20,583 - INFO - Adding lag features
+2024-09-04 23:19:20,586 - INFO - NaNs before drop for GBPUSD: 313
+2024-09-04 23:19:20,586 - INFO - NaNs after drop for GBPUSD: 0
+2024-09-04 23:19:20,586 - INFO - Processing data for feature extraction for GBPUSD
+2024-09-04 23:19:25,499 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-09-04 23:19:25,610 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-09-04 23:19:39,067 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-09-04 23:19:39,121 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-09-04 23:19:48,183 - INFO - NaNs after merging for GBPUSD: 625
+2024-09-04 23:19:48,183 - INFO - NaNs after merging for USDCAD: 630
+2024-09-04 23:19:48,183 - INFO - Final NaNs for GBPUSD: 0
+2024-09-04 23:19:48,183 - INFO - Shifting the data for GBPUSD
+2024-09-04 23:19:48,183 - INFO - Final NaNs for USDCAD: 0
+2024-09-04 23:19:48,183 - INFO - Shifting the data for USDCAD
+2024-09-04 23:19:48,183 - INFO - Scaling the data for GBPUSD
+2024-09-04 23:19:48,200 - INFO - Scaling the data for USDCAD
+2024-09-04 23:19:48,200 - INFO - Predicting for GBPUSD
+2024-09-04 23:19:48,200 - INFO - Predicting for USDCAD
+2024-09-04 23:19:48,217 - INFO - Saving predictions to CSV for GBPUSD
+2024-09-04 23:19:48,220 - INFO - Saving predictions to CSV for USDCAD
+2024-09-04 23:19:48,220 - INFO - No Buy signal generated for GBPUSD. Doing nothing.
+2024-09-04 23:19:48,223 - INFO - No Buy signal generated for USDCAD. Doing nothing.
+2024-09-04 23:20:48,223 - INFO - Starting prediction and trading process for USDCAD
+2024-09-04 23:20:48,223 - INFO - Fetching and processing data for USDCAD
+2024-09-04 23:20:48,223 - INFO - Fetching historical data for USDCAD
+2024-09-04 23:20:48,223 - INFO - Starting prediction and trading process for GBPUSD
+2024-09-04 23:20:48,223 - INFO - Fetching and processing data for GBPUSD
+2024-09-04 23:20:48,223 - INFO - Fetching historical data for GBPUSD
+2024-09-04 23:20:48,223 - INFO - Calculating indicators
+2024-09-04 23:20:48,234 - INFO - Adding rolling features
+2024-09-04 23:20:48,236 - INFO - Calculating indicators
+2024-09-04 23:20:48,237 - INFO - Adding rolling features
+2024-09-04 23:20:48,239 - INFO - Adding lag features
+2024-09-04 23:20:48,239 - INFO - NaNs before drop for GBPUSD: 313
+2024-09-04 23:20:48,239 - INFO - Adding lag features
+2024-09-04 23:20:48,250 - INFO - NaNs before drop for USDCAD: 313
+2024-09-04 23:20:48,250 - INFO - NaNs after drop for GBPUSD: 0
+2024-09-04 23:20:48,250 - INFO - NaNs after drop for USDCAD: 0
+2024-09-04 23:20:48,250 - INFO - Processing data for feature extraction for GBPUSD
+2024-09-04 23:20:48,250 - INFO - Processing data for feature extraction for USDCAD
+2024-09-04 23:20:52,632 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-09-04 23:20:52,903 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-09-04 23:21:05,591 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-09-04 23:21:06,128 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-09-04 23:21:14,318 - INFO - NaNs after merging for GBPUSD: 625
+2024-09-04 23:21:14,318 - INFO - Final NaNs for GBPUSD: 0
+2024-09-04 23:21:14,318 - INFO - Shifting the data for GBPUSD
+2024-09-04 23:21:14,318 - INFO - Scaling the data for GBPUSD
+2024-09-04 23:21:14,318 - INFO - Predicting for GBPUSD
+2024-09-04 23:21:14,333 - INFO - Saving predictions to CSV for GBPUSD
+2024-09-04 23:21:14,333 - INFO - No Buy signal generated for GBPUSD. Doing nothing.
+2024-09-04 23:21:14,619 - INFO - NaNs after merging for USDCAD: 630
+2024-09-04 23:21:14,619 - INFO - Final NaNs for USDCAD: 0
+2024-09-04 23:21:14,619 - INFO - Shifting the data for USDCAD
+2024-09-04 23:21:14,619 - INFO - Scaling the data for USDCAD
+2024-09-04 23:21:14,619 - INFO - Predicting for USDCAD
+2024-09-04 23:21:14,619 - INFO - Saving predictions to CSV for USDCAD
+2024-09-04 23:21:14,619 - INFO - No Buy signal generated for USDCAD. Doing nothing.
+2024-09-06 02:11:17,315 - INFO - Connected to MetaTrader 5
+2024-09-06 02:11:17,315 - INFO - Processing pair: GBPUSD
+2024-09-06 02:11:17,315 - INFO - Processing pair: USDCAD
+2024-09-06 02:11:17,549 - INFO - Starting prediction and trading process for GBPUSD
+2024-09-06 02:11:17,550 - INFO - Fetching and processing data for GBPUSD
+2024-09-06 02:11:17,550 - INFO - Fetching historical data for GBPUSD
+2024-09-06 02:11:17,551 - INFO - Calculating indicators
+2024-09-06 02:11:17,551 - INFO - Adding rolling features
+2024-09-06 02:11:17,551 - INFO - Adding lag features
+2024-09-06 02:11:17,561 - INFO - NaNs before drop for GBPUSD: 313
+2024-09-06 02:11:17,563 - INFO - NaNs after drop for GBPUSD: 0
+2024-09-06 02:11:17,563 - INFO - Processing data for feature extraction for GBPUSD
+2024-09-06 02:11:20,515 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-09-06 02:11:28,963 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-09-06 02:11:34,366 - INFO - NaNs after merging for GBPUSD: 625
+2024-09-06 02:11:34,366 - INFO - Final NaNs for GBPUSD: 0
+2024-09-06 02:11:34,366 - INFO - Shifting the data for GBPUSD
+2024-09-06 02:11:34,366 - INFO - Scaling the data for GBPUSD
+2024-09-06 02:11:34,366 - INFO - Predicting for GBPUSD
+2024-09-06 02:11:34,380 - INFO - Saving predictions to CSV for GBPUSD
+2024-09-06 02:11:34,380 - INFO - Calculating SL and TP prices
+2024-09-06 02:11:34,380 - INFO - Placing order for GBPUSD
+2024-09-06 02:11:34,380 - INFO - MetaTrader 5 connection closed for GBPUSD.
+2024-09-06 02:12:17,714 - INFO - MetaTrader 5 connection closed for USDCAD.
+2024-09-08 23:06:56,069 - INFO - Connected to MetaTrader 5
+2024-09-08 23:06:56,070 - INFO - Processing pair: GBPUSD
+2024-09-08 23:06:56,070 - INFO - Processing pair: USDCAD
+2024-09-08 23:06:56,471 - INFO - Starting prediction and trading process for GBPUSD
+2024-09-08 23:06:56,472 - INFO - Fetching and processing data for GBPUSD
+2024-09-08 23:06:56,472 - INFO - Fetching historical data for GBPUSD
+2024-09-08 23:06:56,488 - INFO - Calculating indicators
+2024-09-08 23:06:56,491 - INFO - Adding rolling features
+2024-09-08 23:06:56,496 - INFO - Adding lag features
+2024-09-08 23:06:56,500 - INFO - NaNs before drop for GBPUSD: 313
+2024-09-08 23:06:56,502 - INFO - NaNs after drop for GBPUSD: 0
+2024-09-08 23:06:56,503 - INFO - Processing data for feature extraction for GBPUSD
+2024-09-08 23:06:59,598 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-09-08 23:07:08,284 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-09-08 23:07:13,943 - INFO - NaNs after merging for GBPUSD: 625
+2024-09-08 23:07:13,945 - INFO - Final NaNs for GBPUSD: 0
+2024-09-08 23:07:13,945 - INFO - Shifting the data for GBPUSD
+2024-09-08 23:07:13,946 - INFO - Scaling the data for GBPUSD
+2024-09-08 23:07:13,962 - INFO - Predicting for GBPUSD
+2024-09-08 23:07:13,975 - INFO - Saving predictions to CSV for GBPUSD
+2024-09-08 23:07:13,978 - INFO - Calculating SL and TP prices
+2024-09-08 23:07:13,979 - INFO - Placing order for GBPUSD
+2024-09-08 23:07:14,345 - INFO - Order placed successfully for GBPUSD.
+2024-09-08 23:08:04,284 - INFO - Connected to MetaTrader 5
+2024-09-08 23:08:04,285 - INFO - Processing pair: GBPUSD
+2024-09-08 23:08:04,285 - INFO - Processing pair: USDCAD
+2024-09-08 23:09:20,129 - INFO - Connected to MetaTrader 5
+2024-09-08 23:09:20,130 - INFO - Processing pair: GBPUSD
+2024-09-08 23:09:20,131 - INFO - Processing pair: USDCAD
+2024-09-08 23:09:20,331 - INFO - Starting prediction and trading process for USDCAD
+2024-09-08 23:09:20,332 - INFO - Fetching and processing data for USDCAD
+2024-09-08 23:09:20,332 - INFO - Fetching historical data for USDCAD
+2024-09-08 23:09:20,335 - INFO - Calculating indicators
+2024-09-08 23:09:20,336 - INFO - Adding rolling features
+2024-09-08 23:09:20,340 - INFO - Adding lag features
+2024-09-08 23:09:20,343 - INFO - NaNs before drop for USDCAD: 313
+2024-09-08 23:09:20,362 - INFO - Starting prediction and trading process for GBPUSD
+2024-09-08 23:09:20,362 - INFO - Fetching and processing data for GBPUSD
+2024-09-08 23:09:20,362 - INFO - Fetching historical data for GBPUSD
+2024-09-08 23:09:20,363 - INFO - Calculating indicators
+2024-09-08 23:09:20,364 - INFO - Adding rolling features
+2024-09-08 23:09:20,365 - INFO - NaNs after drop for USDCAD: 0
+2024-09-08 23:09:20,365 - INFO - Processing data for feature extraction for USDCAD
+2024-09-08 23:09:20,369 - INFO - Adding lag features
+2024-09-08 23:09:20,373 - INFO - NaNs before drop for GBPUSD: 313
+2024-09-08 23:09:20,376 - INFO - NaNs after drop for GBPUSD: 0
+2024-09-08 23:09:20,376 - INFO - Processing data for feature extraction for GBPUSD
+2024-09-08 23:09:25,039 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-09-08 23:09:25,125 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-09-08 23:09:38,460 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-09-08 23:09:38,662 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-09-08 23:09:47,593 - INFO - NaNs after merging for USDCAD: 630
+2024-09-08 23:09:47,595 - INFO - Final NaNs for USDCAD: 0
+2024-09-08 23:09:47,595 - INFO - Shifting the data for USDCAD
+2024-09-08 23:09:47,596 - INFO - Scaling the data for USDCAD
+2024-09-08 23:09:47,598 - INFO - Predicting for USDCAD
+2024-09-08 23:09:47,605 - INFO - NaNs after merging for GBPUSD: 625
+2024-09-08 23:09:47,605 - INFO - Final NaNs for GBPUSD: 0
+2024-09-08 23:09:47,606 - INFO - Shifting the data for GBPUSD
+2024-09-08 23:09:47,607 - INFO - Scaling the data for GBPUSD
+2024-09-08 23:09:47,608 - INFO - Predicting for GBPUSD
+2024-09-08 23:09:47,612 - INFO - Saving predictions to CSV for USDCAD
+2024-09-08 23:09:47,621 - INFO - Saving predictions to CSV for GBPUSD
+2024-09-08 23:09:47,623 - INFO - Calculating SL and TP prices
+2024-09-08 23:09:47,623 - INFO - Placing order for GBPUSD
+2024-09-08 23:09:47,992 - INFO - Order placed successfully for GBPUSD.
+2024-09-08 23:09:47,992 - INFO - No Buy signal generated for USDCAD. Doing nothing.
+2024-09-08 23:10:23,023 - INFO - Connected to MetaTrader 5
+2024-09-08 23:10:23,023 - INFO - Processing pair: GBPUSD
+2024-09-08 23:10:23,023 - INFO - Processing pair: USDCAD
+2024-09-08 23:28:40,537 - INFO - Connected to MetaTrader 5
+2024-09-08 23:28:40,537 - INFO - Processing pair: GBPUSD
+2024-09-08 23:28:40,537 - INFO - Processing pair: USDCAD
+2024-09-08 23:29:01,544 - INFO - Connected to MetaTrader 5
+2024-09-08 23:29:01,544 - INFO - Processing pair: GBPUSD
+2024-09-08 23:29:01,545 - INFO - Processing pair: USDCAD
+2024-09-08 23:29:01,746 - INFO - Starting prediction and trading process for USDCAD
+2024-09-08 23:29:01,747 - INFO - Fetching and processing data for USDCAD
+2024-09-08 23:29:01,747 - INFO - Fetching historical data for USDCAD
+2024-09-08 23:29:01,750 - INFO - Calculating indicators
+2024-09-08 23:29:01,751 - INFO - Adding rolling features
+2024-09-08 23:29:01,763 - INFO - Starting prediction and trading process for GBPUSD
+2024-09-08 23:29:01,763 - INFO - Fetching and processing data for GBPUSD
+2024-09-08 23:29:01,763 - INFO - Fetching historical data for GBPUSD
+2024-09-08 23:29:01,764 - INFO - Calculating indicators
+2024-09-08 23:29:01,766 - INFO - Adding rolling features
+2024-09-08 23:29:01,768 - INFO - Adding lag features
+2024-09-08 23:29:01,774 - INFO - NaNs before drop for USDCAD: 313
+2024-09-08 23:29:01,776 - INFO - NaNs after drop for USDCAD: 0
+2024-09-08 23:29:01,776 - INFO - Adding lag features
+2024-09-08 23:29:01,776 - INFO - Processing data for feature extraction for USDCAD
+2024-09-08 23:29:01,780 - INFO - NaNs before drop for GBPUSD: 313
+2024-09-08 23:29:01,784 - INFO - NaNs after drop for GBPUSD: 0
+2024-09-08 23:29:01,784 - INFO - Processing data for feature extraction for GBPUSD
+2024-09-08 23:29:06,455 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-09-08 23:29:06,522 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-09-08 23:29:20,024 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-09-08 23:29:20,037 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-09-08 23:29:28,962 - INFO - NaNs after merging for USDCAD: 630
+2024-09-08 23:29:28,963 - INFO - Final NaNs for USDCAD: 0
+2024-09-08 23:29:28,963 - INFO - Shifting the data for USDCAD
+2024-09-08 23:29:28,965 - INFO - Scaling the data for USDCAD
+2024-09-08 23:29:28,966 - INFO - NaNs after merging for GBPUSD: 410
+2024-09-08 23:29:28,966 - INFO - Final NaNs for GBPUSD: 0
+2024-09-08 23:29:28,966 - INFO - Shifting the data for GBPUSD
+2024-09-08 23:29:28,967 - INFO - Scaling the data for GBPUSD
+2024-09-08 23:29:28,970 - INFO - Predicting for USDCAD
+2024-09-08 23:29:28,971 - INFO - Predicting for GBPUSD
+2024-09-08 23:29:28,985 - INFO - Saving predictions to CSV for GBPUSD
+2024-09-08 23:29:28,988 - INFO - Calculating SL and TP prices
+2024-09-08 23:29:28,988 - INFO - Placing order for GBPUSD
+2024-09-08 23:29:29,367 - INFO - Order placed successfully for GBPUSD.
+2024-09-08 23:29:29,370 - INFO - Saving predictions to CSV for USDCAD
+2024-09-08 23:29:29,371 - INFO - No Buy signal generated for USDCAD. Doing nothing.
+2024-09-08 23:30:29,368 - INFO - Starting prediction and trading process for GBPUSD
+2024-09-08 23:30:29,368 - INFO - Fetching and processing data for GBPUSD
+2024-09-08 23:30:29,368 - INFO - Fetching historical data for GBPUSD
+2024-09-08 23:30:29,370 - INFO - Calculating indicators
+2024-09-08 23:30:29,371 - INFO - Adding rolling features
+2024-09-08 23:30:29,381 - INFO - Adding lag features
+2024-09-08 23:30:29,381 - INFO - Starting prediction and trading process for USDCAD
+2024-09-08 23:30:29,386 - INFO - NaNs before drop for GBPUSD: 313
+2024-09-08 23:30:29,386 - INFO - Fetching and processing data for USDCAD
+2024-09-08 23:30:29,388 - INFO - Fetching historical data for USDCAD
+2024-09-08 23:30:29,389 - INFO - Calculating indicators
+2024-09-08 23:30:29,390 - INFO - NaNs after drop for GBPUSD: 0
+2024-09-08 23:30:29,391 - INFO - Adding rolling features
+2024-09-08 23:30:29,391 - INFO - Processing data for feature extraction for GBPUSD
+2024-09-08 23:30:29,396 - INFO - Adding lag features
+2024-09-08 23:30:29,402 - INFO - NaNs before drop for USDCAD: 313
+2024-09-08 23:30:29,405 - INFO - NaNs after drop for USDCAD: 0
+2024-09-08 23:30:29,405 - INFO - Processing data for feature extraction for USDCAD
+2024-09-08 23:30:35,295 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-09-08 23:30:35,318 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-09-08 23:31:43,445 - INFO - Connected to MetaTrader 5
+2024-09-08 23:31:43,445 - INFO - Processing pair: GBPUSD
+2024-09-08 23:31:43,445 - INFO - Processing pair: USDCAD
+2024-09-08 23:31:43,645 - INFO - Starting prediction and trading process for GBPUSD
+2024-09-08 23:31:43,645 - INFO - Fetching and processing data for GBPUSD
+2024-09-08 23:31:43,645 - INFO - Fetching historical data for GBPUSD
+2024-09-08 23:31:43,647 - INFO - Calculating indicators
+2024-09-08 23:31:43,647 - INFO - Adding rolling features
+2024-09-08 23:31:43,653 - INFO - Adding lag features
+2024-09-08 23:31:43,655 - INFO - NaNs before drop for GBPUSD: 313
+2024-09-08 23:31:43,660 - INFO - NaNs after drop for GBPUSD: 0
+2024-09-08 23:31:43,660 - INFO - Processing data for feature extraction for GBPUSD
+2024-09-08 23:31:43,701 - INFO - Starting prediction and trading process for USDCAD
+2024-09-08 23:31:43,702 - INFO - Fetching and processing data for USDCAD
+2024-09-08 23:31:43,703 - INFO - Fetching historical data for USDCAD
+2024-09-08 23:31:43,705 - INFO - Calculating indicators
+2024-09-08 23:31:43,706 - INFO - Adding rolling features
+2024-09-08 23:31:43,707 - INFO - Adding lag features
+2024-09-08 23:31:43,713 - INFO - NaNs before drop for USDCAD: 313
+2024-09-08 23:31:43,718 - INFO - NaNs after drop for USDCAD: 0
+2024-09-08 23:31:43,718 - INFO - Processing data for feature extraction for USDCAD
+2024-09-08 23:31:48,375 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-09-08 23:31:48,583 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-09-08 23:32:02,888 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-09-08 23:32:02,888 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-09-08 23:32:13,164 - INFO - NaNs after merging for GBPUSD: 410
+2024-09-08 23:32:13,164 - INFO - Final NaNs for GBPUSD: 0
+2024-09-08 23:32:13,164 - INFO - Shifting the data for GBPUSD
+2024-09-08 23:32:13,166 - INFO - Scaling the data for GBPUSD
+2024-09-08 23:32:13,171 - INFO - NaNs after merging for USDCAD: 630
+2024-09-08 23:32:13,172 - INFO - Final NaNs for USDCAD: 0
+2024-09-08 23:32:13,172 - INFO - Shifting the data for USDCAD
+2024-09-08 23:32:13,174 - INFO - Predicting for GBPUSD
+2024-09-08 23:32:13,176 - INFO - Scaling the data for USDCAD
+2024-09-08 23:32:13,178 - INFO - Predicting for USDCAD
+2024-09-08 23:32:13,191 - INFO - Saving predictions to CSV for GBPUSD
+2024-09-08 23:32:13,195 - INFO - Calculating SL and TP prices
+2024-09-08 23:32:13,195 - INFO - Placing order for GBPUSD
+2024-09-08 23:32:13,585 - INFO - Order placed successfully for GBPUSD.
+2024-09-08 23:32:13,588 - INFO - Saving predictions to CSV for USDCAD
+2024-09-08 23:32:13,590 - INFO - No Buy signal generated for USDCAD. Doing nothing.
+2024-09-08 23:33:13,587 - INFO - Starting prediction and trading process for GBPUSD
+2024-09-08 23:33:13,587 - INFO - Fetching and processing data for GBPUSD
+2024-09-08 23:33:13,587 - INFO - Fetching historical data for GBPUSD
+2024-09-08 23:33:13,588 - INFO - Calculating indicators
+2024-09-08 23:33:13,589 - INFO - Adding rolling features
+2024-09-08 23:33:13,602 - INFO - Starting prediction and trading process for USDCAD
+2024-09-08 23:33:13,604 - INFO - Fetching and processing data for USDCAD
+2024-09-08 23:33:13,604 - INFO - Fetching historical data for USDCAD
+2024-09-08 23:33:13,604 - INFO - Calculating indicators
+2024-09-08 23:33:13,606 - INFO - Adding rolling features
+2024-09-08 23:33:13,606 - INFO - Adding lag features
+2024-09-08 23:33:13,612 - INFO - NaNs before drop for GBPUSD: 313
+2024-09-08 23:33:13,614 - INFO - Adding lag features
+2024-09-08 23:33:13,614 - INFO - NaNs after drop for GBPUSD: 0
+2024-09-08 23:33:13,617 - INFO - Processing data for feature extraction for GBPUSD
+2024-09-08 23:33:13,620 - INFO - NaNs before drop for USDCAD: 313
+2024-09-08 23:33:13,625 - INFO - NaNs after drop for USDCAD: 0
+2024-09-08 23:33:13,625 - INFO - Processing data for feature extraction for USDCAD
+2024-09-08 23:33:18,585 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-09-08 23:33:18,668 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-09-08 23:33:33,730 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-09-08 23:33:33,736 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-09-08 23:33:43,314 - INFO - NaNs after merging for GBPUSD: 410
+2024-09-08 23:33:43,314 - INFO - NaNs after merging for USDCAD: 630
+2024-09-08 23:33:43,314 - INFO - Final NaNs for GBPUSD: 0
+2024-09-08 23:33:43,315 - INFO - Shifting the data for GBPUSD
+2024-09-08 23:33:43,315 - INFO - Final NaNs for USDCAD: 0
+2024-09-08 23:33:43,315 - INFO - Shifting the data for USDCAD
+2024-09-08 23:33:43,316 - INFO - Scaling the data for GBPUSD
+2024-09-08 23:33:43,318 - INFO - Scaling the data for USDCAD
+2024-09-08 23:33:43,320 - INFO - Predicting for GBPUSD
+2024-09-08 23:33:43,321 - INFO - Predicting for USDCAD
+2024-09-08 23:33:43,327 - INFO - Saving predictions to CSV for GBPUSD
+2024-09-08 23:33:43,328 - INFO - Calculating SL and TP prices
+2024-09-08 23:33:43,328 - INFO - Placing order for GBPUSD
+2024-09-08 23:33:43,702 - INFO - Order placed successfully for GBPUSD.
+2024-09-08 23:33:43,707 - INFO - Saving predictions to CSV for USDCAD
+2024-09-08 23:33:43,708 - INFO - No Buy signal generated for USDCAD. Doing nothing.
+2024-09-08 23:34:43,704 - INFO - Starting prediction and trading process for GBPUSD
+2024-09-08 23:34:43,704 - INFO - Fetching and processing data for GBPUSD
+2024-09-08 23:34:43,704 - INFO - Fetching historical data for GBPUSD
+2024-09-08 23:34:43,705 - INFO - Calculating indicators
+2024-09-08 23:34:43,709 - INFO - Adding rolling features
+2024-09-08 23:34:43,709 - INFO - Starting prediction and trading process for USDCAD
+2024-09-08 23:34:43,709 - INFO - Fetching and processing data for USDCAD
+2024-09-08 23:34:43,709 - INFO - Adding lag features
+2024-09-08 23:34:43,709 - INFO - Fetching historical data for USDCAD
+2024-09-08 23:34:43,718 - INFO - NaNs before drop for GBPUSD: 313
+2024-09-08 23:34:43,718 - INFO - Calculating indicators
+2024-09-08 23:34:43,718 - INFO - Adding rolling features
+2024-09-08 23:34:43,718 - INFO - NaNs after drop for GBPUSD: 0
+2024-09-08 23:34:43,718 - INFO - Processing data for feature extraction for GBPUSD
+2024-09-08 23:34:43,718 - INFO - Adding lag features
+2024-09-08 23:34:43,725 - INFO - NaNs before drop for USDCAD: 313
+2024-09-08 23:34:43,725 - INFO - NaNs after drop for USDCAD: 0
+2024-09-08 23:34:43,725 - INFO - Processing data for feature extraction for USDCAD
+2024-09-08 23:34:49,140 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-09-08 23:34:49,143 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-09-08 23:35:05,922 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-09-08 23:35:05,943 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-09-08 23:35:17,115 - INFO - NaNs after merging for GBPUSD: 410
+2024-09-08 23:35:17,115 - INFO - NaNs after merging for USDCAD: 630
+2024-09-08 23:35:17,118 - INFO - Final NaNs for USDCAD: 0
+2024-09-08 23:35:17,118 - INFO - Shifting the data for USDCAD
+2024-09-08 23:35:17,120 - INFO - Final NaNs for GBPUSD: 0
+2024-09-08 23:35:17,120 - INFO - Shifting the data for GBPUSD
+2024-09-08 23:35:17,121 - INFO - Scaling the data for USDCAD
+2024-09-08 23:35:17,122 - INFO - Scaling the data for GBPUSD
+2024-09-08 23:35:17,122 - INFO - Predicting for USDCAD
+2024-09-08 23:35:17,122 - INFO - Predicting for GBPUSD
+2024-09-08 23:35:17,125 - INFO - Saving predictions to CSV for GBPUSD
+2024-09-08 23:35:17,136 - INFO - Calculating SL and TP prices
+2024-09-08 23:35:17,136 - INFO - Placing order for GBPUSD
+2024-09-08 23:35:17,510 - INFO - Order placed successfully for GBPUSD.
+2024-09-08 23:35:17,510 - INFO - Saving predictions to CSV for USDCAD
+2024-09-08 23:35:17,510 - INFO - No Buy signal generated for USDCAD. Doing nothing.
+2024-09-09 00:27:47,104 - INFO - Connected to MetaTrader 5
+2024-09-09 00:27:47,104 - INFO - Processing pair: GBPUSD
+2024-09-09 00:27:47,104 - INFO - Processing pair: USDCAD
+2024-09-09 00:27:47,319 - INFO - Starting prediction and trading process for USDCAD
+2024-09-09 00:27:47,319 - INFO - Fetching and processing data for USDCAD
+2024-09-09 00:27:47,319 - INFO - Fetching historical data for USDCAD
+2024-09-09 00:27:47,323 - INFO - Calculating indicators
+2024-09-09 00:27:47,323 - INFO - Adding rolling features
+2024-09-09 00:27:47,323 - INFO - Adding lag features
+2024-09-09 00:27:47,323 - INFO - NaNs before drop for USDCAD: 313
+2024-09-09 00:27:47,335 - INFO - Starting prediction and trading process for GBPUSD
+2024-09-09 00:27:47,335 - INFO - Fetching and processing data for GBPUSD
+2024-09-09 00:27:47,335 - INFO - Fetching historical data for GBPUSD
+2024-09-09 00:27:47,337 - INFO - NaNs after drop for USDCAD: 0
+2024-09-09 00:27:47,337 - INFO - Processing data for feature extraction for USDCAD
+2024-09-09 00:27:47,338 - INFO - Calculating indicators
+2024-09-09 00:27:47,340 - INFO - Adding rolling features
+2024-09-09 00:27:47,343 - INFO - Adding lag features
+2024-09-09 00:27:47,343 - INFO - NaNs before drop for GBPUSD: 313
+2024-09-09 00:27:47,343 - INFO - NaNs after drop for GBPUSD: 0
+2024-09-09 00:27:47,343 - INFO - Processing data for feature extraction for GBPUSD
+2024-09-09 00:27:51,903 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-09-09 00:27:51,920 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-09-09 00:28:05,652 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-09-09 00:28:05,753 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-09-09 00:28:15,502 - INFO - Connected to MetaTrader 5
+2024-09-09 00:28:15,502 - INFO - Processing pair: GBPUSD
+2024-09-09 00:28:15,502 - INFO - Processing pair: USDCAD
+2024-09-09 23:00:17,073 - INFO - Starting prediction and trading process for USDCAD
+2024-09-09 23:00:17,074 - INFO - Starting prediction and trading process for GBPUSD
+2024-09-09 23:00:17,074 - INFO - Fetching and processing data for USDCAD
+2024-09-09 23:00:17,076 - INFO - Fetching and processing data for GBPUSD
+2024-09-09 23:00:17,076 - INFO - Fetching historical data for USDCAD
+2024-09-09 23:00:17,076 - INFO - Fetching historical data for GBPUSD
+2024-09-09 23:00:17,077 - INFO - Calculating indicators
+2024-09-09 23:00:17,079 - INFO - Calculating indicators
+2024-09-09 23:00:17,079 - INFO - Adding rolling features
+2024-09-09 23:00:17,079 - INFO - Adding rolling features
+2024-09-09 23:00:17,079 - INFO - Adding lag features
+2024-09-09 23:00:17,079 - INFO - NaNs before drop for USDCAD: 313
+2024-09-09 23:00:17,079 - INFO - Adding lag features
+2024-09-09 23:00:17,092 - INFO - NaNs before drop for GBPUSD: 313
+2024-09-09 23:00:17,093 - INFO - NaNs after drop for USDCAD: 0
+2024-09-09 23:00:17,093 - INFO - Processing data for feature extraction for USDCAD
+2024-09-09 23:00:17,095 - INFO - NaNs after drop for GBPUSD: 0
+2024-09-09 23:00:17,095 - INFO - Processing data for feature extraction for GBPUSD
+2024-09-09 23:00:21,485 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-09-09 23:00:21,522 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-09-09 23:00:34,088 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-09-09 23:00:34,155 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-09-09 23:00:42,588 - INFO - NaNs after merging for GBPUSD: 410
+2024-09-09 23:00:42,588 - INFO - Final NaNs for GBPUSD: 0
+2024-09-09 23:00:42,588 - INFO - Shifting the data for GBPUSD
+2024-09-09 23:00:42,588 - INFO - Scaling the data for GBPUSD
+2024-09-09 23:00:42,588 - INFO - Predicting for GBPUSD
+2024-09-09 23:00:42,588 - INFO - NaNs after merging for USDCAD: 630
+2024-09-09 23:00:42,588 - INFO - Final NaNs for USDCAD: 0
+2024-09-09 23:00:42,588 - INFO - Shifting the data for USDCAD
+2024-09-09 23:00:42,588 - INFO - Scaling the data for USDCAD
+2024-09-09 23:00:42,588 - INFO - Predicting for USDCAD
+2024-09-09 23:00:42,606 - INFO - Saving predictions to CSV for GBPUSD
+2024-09-09 23:00:42,606 - INFO - Calculating SL and TP prices
+2024-09-09 23:00:42,606 - INFO - Placing order for GBPUSD
+2024-09-09 23:00:42,706 - ERROR - Market closed for GBPUSD. Order not placed.
+2024-09-09 23:00:42,725 - INFO - Saving predictions to CSV for USDCAD
+2024-09-09 23:00:42,726 - INFO - No Buy signal generated for USDCAD. Doing nothing.
+2024-09-10 23:00:44,188 - INFO - Starting prediction and trading process for USDCAD
+2024-09-10 23:00:44,188 - INFO - Starting prediction and trading process for GBPUSD
+2024-09-10 23:00:44,188 - INFO - Fetching and processing data for GBPUSD
+2024-09-10 23:00:44,188 - INFO - Fetching historical data for GBPUSD
+2024-09-10 23:00:44,188 - INFO - Fetching and processing data for USDCAD
+2024-09-10 23:00:44,188 - INFO - Fetching historical data for USDCAD
+2024-09-10 23:00:44,188 - INFO - Calculating indicators
+2024-09-10 23:00:44,188 - INFO - Adding rolling features
+2024-09-10 23:00:44,188 - INFO - Adding lag features
+2024-09-10 23:00:44,188 - INFO - NaNs before drop for USDCAD: 313
+2024-09-10 23:00:44,188 - INFO - NaNs after drop for USDCAD: 0
+2024-09-10 23:00:44,188 - INFO - Processing data for feature extraction for USDCAD
+2024-09-10 23:00:44,188 - INFO - Calculating indicators
+2024-09-10 23:00:44,204 - INFO - Adding rolling features
+2024-09-10 23:00:44,204 - INFO - Adding lag features
+2024-09-10 23:00:44,204 - INFO - NaNs before drop for GBPUSD: 313
+2024-09-10 23:00:44,204 - INFO - NaNs after drop for GBPUSD: 0
+2024-09-10 23:00:44,204 - INFO - Processing data for feature extraction for GBPUSD
+2024-09-10 23:00:48,274 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-09-10 23:00:48,541 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-09-10 23:00:59,853 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-09-10 23:01:00,389 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-09-10 23:01:07,820 - INFO - NaNs after merging for GBPUSD: 410
+2024-09-10 23:01:07,820 - INFO - Final NaNs for GBPUSD: 0
+2024-09-10 23:01:07,820 - INFO - Shifting the data for GBPUSD
+2024-09-10 23:01:07,820 - INFO - Scaling the data for GBPUSD
+2024-09-10 23:01:07,820 - INFO - Predicting for GBPUSD
+2024-09-10 23:01:07,820 - INFO - Saving predictions to CSV for GBPUSD
+2024-09-10 23:01:07,820 - INFO - Calculating SL and TP prices
+2024-09-10 23:01:07,820 - INFO - Placing order for GBPUSD
+2024-09-10 23:01:08,210 - INFO - Order placed successfully for GBPUSD.
+2024-09-10 23:01:08,445 - INFO - NaNs after merging for USDCAD: 630
+2024-09-10 23:01:08,445 - INFO - Final NaNs for USDCAD: 0
+2024-09-10 23:01:08,445 - INFO - Shifting the data for USDCAD
+2024-09-10 23:01:08,445 - INFO - Scaling the data for USDCAD
+2024-09-10 23:01:08,445 - INFO - Predicting for USDCAD
+2024-09-10 23:01:08,445 - INFO - Saving predictions to CSV for USDCAD
+2024-09-10 23:01:08,445 - INFO - No Buy signal generated for USDCAD. Doing nothing.
+2024-09-14 11:38:02,629 - INFO - Connected to MetaTrader 5
+2024-09-14 11:38:02,629 - INFO - Processing pair: GBPUSD
+2024-09-14 11:38:02,629 - INFO - Processing pair: USDCAD

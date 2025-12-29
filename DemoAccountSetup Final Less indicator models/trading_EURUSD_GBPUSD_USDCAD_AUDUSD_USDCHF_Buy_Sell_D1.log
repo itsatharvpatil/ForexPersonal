@@ -1,0 +1,1983 @@
+2024-11-05 08:37:33,885 - INFO - Processing pair: EURUSD for Buy and Sell
+2024-11-05 08:37:33,885 - INFO - Processing pair: GBPUSD for Buy and Sell
+2024-11-05 08:37:33,885 - INFO - Processing pair: USDCAD for Buy and Sell
+2024-11-05 08:37:33,885 - INFO - Processing pair: AUDUSD for Buy and Sell
+2024-11-05 08:37:33,896 - INFO - Processing pair: USDCHF for Buy and Sell
+2024-11-05 08:37:49,436 - INFO - Connected to MetaTrader 5 with login: 52024094
+2024-11-05 08:38:04,454 - INFO - Connected to MetaTrader 5 with login: 51988094
+2024-11-05 08:38:04,469 - INFO - Fetching and processing data for USDCAD
+2024-11-05 08:38:04,469 - INFO - Fetching historical data for USDCAD
+2024-11-05 08:38:07,518 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-05 08:38:16,982 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-05 08:38:19,619 - INFO - Connected to MetaTrader 5 with login: 51988090
+2024-11-05 08:38:19,619 - INFO - Fetching and processing data for EURUSD
+2024-11-05 08:38:19,619 - INFO - Fetching historical data for EURUSD
+2024-11-05 08:38:19,619 - ERROR - No historical data found for EURUSD in the given date range.
+2024-11-05 08:38:19,619 - ERROR - No historical data found for EURUSD.
+2024-11-05 08:38:19,619 - ERROR - No valid data for EURUSD. Skipping predictions.
+2024-11-05 08:38:19,619 - INFO - Fetching and processing data for EURUSD
+2024-11-05 08:38:19,619 - INFO - Fetching historical data for EURUSD
+2024-11-05 08:38:19,619 - ERROR - No historical data found for EURUSD in the given date range.
+2024-11-05 08:38:19,619 - ERROR - No historical data found for EURUSD.
+2024-11-05 08:38:19,619 - ERROR - No valid data for EURUSD. Skipping predictions.
+2024-11-05 08:38:19,619 - INFO - Finished trading for EURUSD at 2024-11-05 07:38:19.619503+00:00 UTC
+2024-11-05 08:38:23,753 - INFO - Fetching and processing data for USDCAD
+2024-11-05 08:38:23,753 - INFO - Fetching historical data for USDCAD
+2024-11-05 08:38:23,753 - ERROR - No historical data found for USDCAD in the given date range.
+2024-11-05 08:38:23,753 - ERROR - No historical data found for USDCAD.
+2024-11-05 08:38:23,753 - ERROR - No valid data for USDCAD. Skipping predictions.
+2024-11-05 08:38:23,753 - INFO - Finished trading for USDCAD at 2024-11-05 07:38:04.469247+00:00 UTC
+2024-11-05 08:38:34,631 - INFO - Connected to MetaTrader 5 with login: 51988092
+2024-11-05 08:38:34,631 - INFO - Fetching and processing data for GBPUSD
+2024-11-05 08:38:34,631 - INFO - Fetching historical data for GBPUSD
+2024-11-05 08:38:37,658 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-05 08:38:48,564 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-05 08:38:49,440 - INFO - Fetching and processing data for USDCHF
+2024-11-05 08:38:49,440 - INFO - Fetching historical data for USDCHF
+2024-11-05 08:38:49,440 - ERROR - No historical data found for USDCHF in the given date range.
+2024-11-05 08:38:49,440 - ERROR - No historical data found for USDCHF.
+2024-11-05 08:38:49,440 - ERROR - No valid data for USDCHF. Skipping predictions.
+2024-11-05 08:38:49,440 - INFO - Fetching and processing data for USDCHF
+2024-11-05 08:38:49,440 - INFO - Fetching historical data for USDCHF
+2024-11-05 08:38:49,440 - ERROR - No historical data found for USDCHF in the given date range.
+2024-11-05 08:38:49,440 - ERROR - No historical data found for USDCHF.
+2024-11-05 08:38:49,440 - ERROR - No valid data for USDCHF. Skipping predictions.
+2024-11-05 08:38:49,440 - INFO - Finished trading for USDCHF at 2024-11-05 07:38:49.440958+00:00 UTC
+2024-11-05 08:38:51,201 - INFO - Connected to MetaTrader 5 with login: 52013349
+2024-11-05 08:38:51,202 - INFO - Fetching and processing data for AUDUSD
+2024-11-05 08:38:51,202 - INFO - Fetching historical data for AUDUSD
+2024-11-05 08:38:56,238 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-05 08:38:59,529 - INFO - Fetching and processing data for GBPUSD
+2024-11-05 08:38:59,530 - INFO - Fetching historical data for GBPUSD
+2024-11-05 08:39:04,974 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-05 08:39:12,983 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-05 08:39:22,650 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-05 08:39:25,528 - INFO - Fetching and processing data for AUDUSD
+2024-11-05 08:39:25,528 - INFO - Fetching historical data for AUDUSD
+2024-11-05 08:39:31,067 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-05 08:39:59,927 - INFO - Processing pair: EURUSD for Buy and Sell
+2024-11-05 08:39:59,927 - INFO - Processing pair: GBPUSD for Buy and Sell
+2024-11-05 08:39:59,927 - INFO - Processing pair: USDCAD for Buy and Sell
+2024-11-05 08:39:59,942 - INFO - Processing pair: AUDUSD for Buy and Sell
+2024-11-05 08:39:59,944 - INFO - Processing pair: USDCHF for Buy and Sell
+2024-11-05 08:40:15,381 - INFO - Connected to MetaTrader 5 with login: 51988094
+2024-11-05 08:40:30,402 - INFO - Connected to MetaTrader 5 with login: 52024094
+2024-11-05 08:40:45,410 - INFO - Connected to MetaTrader 5 with login: 51988092
+2024-11-05 08:41:00,423 - INFO - Connected to MetaTrader 5 with login: 51988090
+2024-11-05 08:41:15,439 - INFO - Connected to MetaTrader 5 with login: 52013349
+2024-11-05 08:43:00,431 - INFO - Fetching and processing data for EURUSD
+2024-11-05 08:43:00,431 - INFO - Fetching historical data for EURUSD
+2024-11-05 08:43:03,504 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-05 08:43:13,238 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-05 08:43:15,388 - INFO - Fetching and processing data for USDCAD
+2024-11-05 08:43:15,388 - INFO - Fetching historical data for USDCAD
+2024-11-05 08:43:15,441 - INFO - Fetching and processing data for AUDUSD
+2024-11-05 08:43:15,441 - INFO - Fetching historical data for AUDUSD
+2024-11-05 08:43:23,312 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-05 08:43:23,312 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-05 08:43:25,249 - INFO - Fetching and processing data for EURUSD
+2024-11-05 08:43:25,249 - INFO - Fetching historical data for EURUSD
+2024-11-05 08:43:30,420 - INFO - Fetching and processing data for USDCHF
+2024-11-05 08:43:30,420 - INFO - Fetching historical data for USDCHF
+2024-11-05 08:43:34,433 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-05 08:43:40,213 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-05 08:43:45,419 - INFO - Fetching and processing data for GBPUSD
+2024-11-05 08:43:45,419 - INFO - Fetching historical data for GBPUSD
+2024-11-05 08:44:00,889 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-05 08:44:01,313 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-05 08:44:01,329 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-05 08:44:03,253 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-05 08:44:09,262 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-05 08:44:34,607 - INFO - Fetching and processing data for USDCAD
+2024-11-05 08:44:34,607 - INFO - Fetching historical data for USDCAD
+2024-11-05 08:44:34,774 - INFO - Fetching and processing data for AUDUSD
+2024-11-05 08:44:34,774 - INFO - Fetching historical data for AUDUSD
+2024-11-05 08:44:34,928 - INFO - Finished trading for EURUSD at 2024-11-05 07:43:00.431432+00:00 UTC
+2024-11-05 08:44:36,450 - INFO - Fetching and processing data for USDCHF
+2024-11-05 08:44:36,451 - INFO - Fetching historical data for USDCHF
+2024-11-05 08:44:45,345 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-05 08:44:45,380 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-05 08:44:45,380 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-05 08:44:48,019 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-05 08:45:12,389 - INFO - Fetching and processing data for GBPUSD
+2024-11-05 08:45:12,391 - INFO - Fetching historical data for GBPUSD
+2024-11-05 08:45:21,847 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-05 08:45:23,112 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-05 08:45:23,123 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-05 08:45:23,626 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-05 08:45:47,868 - INFO - Finished trading for AUDUSD at 2024-11-05 07:43:15.441764+00:00 UTC
+2024-11-05 08:45:50,366 - INFO - Sell order placed successfully for USDCHF.
+2024-11-05 08:45:50,366 - INFO - Finished trading for USDCHF at 2024-11-05 07:43:30.420104+00:00 UTC
+2024-11-05 08:45:50,879 - INFO - Sell order placed successfully for USDCAD.
+2024-11-05 08:45:50,880 - INFO - Finished trading for USDCAD at 2024-11-05 07:43:15.388286+00:00 UTC
+2024-11-05 08:45:54,640 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-05 08:46:03,280 - INFO - Finished trading for GBPUSD at 2024-11-05 07:43:45.419309+00:00 UTC
+2024-11-05 08:52:03,766 - INFO - Processing pair: EURUSD for Buy and Sell
+2024-11-05 08:52:03,782 - INFO - Processing pair: GBPUSD for Buy and Sell
+2024-11-05 08:52:03,783 - INFO - Processing pair: USDCAD for Buy and Sell
+2024-11-05 08:52:03,783 - INFO - Processing pair: AUDUSD for Buy and Sell
+2024-11-05 08:52:03,783 - INFO - Processing pair: USDCHF for Buy and Sell
+2024-11-05 08:52:19,242 - INFO - Connected to MetaTrader 5 with login: 52024094
+2024-11-05 08:52:34,258 - INFO - Connected to MetaTrader 5 with login: 51988094
+2024-11-05 08:52:49,275 - INFO - Connected to MetaTrader 5 with login: 51988092
+2024-11-05 08:53:04,295 - INFO - Connected to MetaTrader 5 with login: 51988090
+2024-11-05 08:53:19,316 - INFO - Connected to MetaTrader 5 with login: 52013349
+2024-11-05 23:30:04,738 - INFO - Fetching and processing data for EURUSD
+2024-11-05 23:30:04,738 - INFO - Fetching historical data for EURUSD
+2024-11-05 23:30:07,861 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-05 23:30:16,909 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-05 23:30:19,692 - INFO - Fetching and processing data for USDCHF
+2024-11-05 23:30:19,692 - INFO - Fetching historical data for USDCHF
+2024-11-05 23:30:19,764 - INFO - Fetching and processing data for AUDUSD
+2024-11-05 23:30:19,764 - INFO - Fetching historical data for AUDUSD
+2024-11-05 23:30:26,196 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-05 23:30:26,495 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-05 23:30:26,527 - INFO - Fetching and processing data for EURUSD
+2024-11-05 23:30:26,528 - INFO - Fetching historical data for EURUSD
+2024-11-05 23:30:32,781 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-05 23:30:34,705 - INFO - Fetching and processing data for USDCAD
+2024-11-05 23:30:34,705 - INFO - Fetching historical data for USDCAD
+2024-11-05 23:30:43,257 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-05 23:30:49,717 - INFO - Fetching and processing data for GBPUSD
+2024-11-05 23:30:49,717 - INFO - Fetching historical data for GBPUSD
+2024-11-05 23:30:52,954 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-05 23:30:53,629 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-05 23:31:02,047 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-05 23:31:02,318 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-05 23:31:11,934 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-05 23:31:18,576 - INFO - Fetching and processing data for AUDUSD
+2024-11-05 23:31:18,576 - INFO - Fetching historical data for AUDUSD
+2024-11-05 23:31:20,055 - INFO - Fetching and processing data for USDCHF
+2024-11-05 23:31:20,055 - INFO - Fetching historical data for USDCHF
+2024-11-05 23:31:30,691 - INFO - Finished trading for EURUSD at 2024-11-05 22:30:04.738217+00:00 UTC
+2024-11-05 23:31:31,052 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-05 23:31:31,069 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-05 23:31:34,125 - INFO - Fetching and processing data for USDCAD
+2024-11-05 23:31:34,125 - INFO - Fetching historical data for USDCAD
+2024-11-05 23:31:38,618 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-05 23:31:44,867 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-05 23:32:00,031 - INFO - Fetching and processing data for GBPUSD
+2024-11-05 23:32:00,031 - INFO - Fetching historical data for GBPUSD
+2024-11-05 23:32:03,524 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-05 23:32:03,935 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-05 23:32:08,601 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-05 23:32:13,134 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-05 23:32:26,931 - INFO - Sell order placed successfully for USDCHF.
+2024-11-05 23:32:26,932 - INFO - Finished trading for USDCHF at 2024-11-05 22:30:19.692944+00:00 UTC
+2024-11-05 23:32:27,044 - INFO - Finished trading for AUDUSD at 2024-11-05 22:30:19.764088+00:00 UTC
+2024-11-05 23:32:30,512 - INFO - Sell order placed successfully for USDCAD.
+2024-11-05 23:32:30,512 - INFO - Finished trading for USDCAD at 2024-11-05 22:30:34.705075+00:00 UTC
+2024-11-05 23:32:32,451 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-05 23:32:40,079 - INFO - Finished trading for GBPUSD at 2024-11-05 22:30:49.717629+00:00 UTC
+2024-11-06 23:30:27,641 - INFO - Fetching and processing data for USDCHF
+2024-11-06 23:30:27,642 - INFO - Fetching historical data for USDCHF
+2024-11-06 23:30:27,735 - INFO - Fetching and processing data for AUDUSD
+2024-11-06 23:30:27,735 - INFO - Fetching historical data for AUDUSD
+2024-11-06 23:30:31,213 - INFO - Fetching and processing data for USDCAD
+2024-11-06 23:30:31,213 - INFO - Fetching historical data for USDCAD
+2024-11-06 23:30:31,391 - INFO - Fetching and processing data for EURUSD
+2024-11-06 23:30:31,392 - INFO - Fetching historical data for EURUSD
+2024-11-06 23:30:33,201 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-06 23:30:33,583 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-06 23:30:38,203 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-06 23:30:39,124 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-06 23:30:40,773 - INFO - Fetching and processing data for GBPUSD
+2024-11-06 23:30:40,773 - INFO - Fetching historical data for GBPUSD
+2024-11-06 23:30:51,619 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-06 23:31:06,089 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-06 23:31:06,801 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-06 23:31:13,398 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-06 23:31:13,682 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-06 23:31:21,449 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-06 23:31:32,410 - INFO - Fetching and processing data for AUDUSD
+2024-11-06 23:31:32,411 - INFO - Fetching historical data for AUDUSD
+2024-11-06 23:31:32,545 - INFO - Fetching and processing data for USDCHF
+2024-11-06 23:31:32,545 - INFO - Fetching historical data for USDCHF
+2024-11-06 23:31:42,597 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-06 23:31:42,597 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-06 23:31:42,652 - INFO - Fetching and processing data for USDCAD
+2024-11-06 23:31:42,654 - INFO - Fetching historical data for USDCAD
+2024-11-06 23:31:42,866 - INFO - Fetching and processing data for EURUSD
+2024-11-06 23:31:42,866 - INFO - Fetching historical data for EURUSD
+2024-11-06 23:31:43,149 - INFO - Fetching and processing data for GBPUSD
+2024-11-06 23:31:43,149 - INFO - Fetching historical data for GBPUSD
+2024-11-06 23:31:53,418 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-06 23:31:54,221 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-06 23:31:55,007 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-06 23:32:16,314 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-06 23:32:20,013 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-06 23:32:33,826 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-06 23:32:36,835 - INFO - Finished trading for AUDUSD at 2024-11-06 22:30:27.735158+00:00 UTC
+2024-11-06 23:32:40,048 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-06 23:32:40,048 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-06 23:32:41,021 - INFO - Sell order placed successfully for USDCHF.
+2024-11-06 23:32:41,021 - INFO - Finished trading for USDCHF at 2024-11-06 22:30:27.641255+00:00 UTC
+2024-11-06 23:32:51,126 - INFO - Finished trading for EURUSD at 2024-11-06 22:30:31.391213+00:00 UTC
+2024-11-06 23:32:55,941 - INFO - Sell order placed successfully for USDCAD.
+2024-11-06 23:32:55,942 - INFO - Finished trading for USDCAD at 2024-11-06 22:30:31.213765+00:00 UTC
+2024-11-06 23:32:56,308 - INFO - Finished trading for GBPUSD at 2024-11-06 22:30:40.773732+00:00 UTC
+2024-11-07 04:57:58,111 - INFO - Processing pair: EURUSD for Buy and Sell
+2024-11-07 04:57:58,111 - INFO - Processing pair: GBPUSD for Buy and Sell
+2024-11-07 04:57:58,111 - INFO - Processing pair: USDCAD for Buy and Sell
+2024-11-07 04:57:58,111 - INFO - Processing pair: AUDUSD for Buy and Sell
+2024-11-07 04:57:58,111 - INFO - Processing pair: USDCHF for Buy and Sell
+2024-11-07 04:58:14,136 - INFO - Connected to MetaTrader 5 with login: 52024094
+2024-11-07 04:58:29,199 - INFO - Connected to MetaTrader 5 with login: 51988094
+2024-11-07 04:58:44,271 - INFO - Connected to MetaTrader 5 with login: 51988092
+2024-11-07 04:58:59,332 - INFO - Connected to MetaTrader 5 with login: 51988090
+2024-11-07 04:59:14,409 - INFO - Connected to MetaTrader 5 with login: 52013349
+2024-11-07 23:30:14,629 - INFO - Fetching and processing data for USDCHF
+2024-11-07 23:30:14,630 - INFO - Fetching historical data for USDCHF
+2024-11-07 23:30:14,890 - INFO - Fetching and processing data for AUDUSD
+2024-11-07 23:30:14,890 - INFO - Fetching historical data for AUDUSD
+2024-11-07 23:30:18,716 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-07 23:30:18,853 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-07 23:30:29,682 - INFO - Fetching and processing data for USDCAD
+2024-11-07 23:30:29,682 - INFO - Fetching historical data for USDCAD
+2024-11-07 23:30:33,932 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-07 23:30:34,548 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-07 23:30:36,339 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-07 23:30:44,779 - INFO - Fetching and processing data for GBPUSD
+2024-11-07 23:30:44,779 - INFO - Fetching historical data for GBPUSD
+2024-11-07 23:30:50,166 - INFO - Fetching and processing data for USDCHF
+2024-11-07 23:30:50,166 - INFO - Fetching historical data for USDCHF
+2024-11-07 23:30:52,163 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-07 23:30:52,280 - INFO - Fetching and processing data for AUDUSD
+2024-11-07 23:30:52,280 - INFO - Fetching historical data for AUDUSD
+2024-11-07 23:30:58,580 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-07 23:30:59,822 - INFO - Fetching and processing data for EURUSD
+2024-11-07 23:30:59,824 - INFO - Fetching historical data for EURUSD
+2024-11-07 23:31:00,496 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-07 23:31:04,141 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-07 23:31:13,029 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-07 23:31:20,519 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-07 23:31:32,363 - INFO - Fetching and processing data for USDCAD
+2024-11-07 23:31:32,364 - INFO - Fetching historical data for USDCAD
+2024-11-07 23:31:36,230 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-07 23:31:42,399 - INFO - Fetching and processing data for GBPUSD
+2024-11-07 23:31:42,399 - INFO - Fetching historical data for GBPUSD
+2024-11-07 23:31:43,815 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-07 23:31:44,914 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-07 23:31:50,748 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-07 23:31:57,085 - INFO - Buy order placed successfully for USDCHF.
+2024-11-07 23:31:57,088 - INFO - Finished trading for USDCHF at 2024-11-07 22:30:14.629455+00:00 UTC
+2024-11-07 23:31:57,187 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-07 23:32:12,551 - INFO - Sell order placed successfully for AUDUSD.
+2024-11-07 23:32:12,558 - INFO - Finished trading for AUDUSD at 2024-11-07 22:30:14.890294+00:00 UTC
+2024-11-07 23:32:14,471 - INFO - Fetching and processing data for EURUSD
+2024-11-07 23:32:14,471 - INFO - Fetching historical data for EURUSD
+2024-11-07 23:32:18,085 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-07 23:32:21,228 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-07 23:32:25,074 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-07 23:32:35,244 - INFO - Buy order placed successfully for USDCAD.
+2024-11-07 23:32:35,248 - INFO - Finished trading for USDCAD at 2024-11-07 22:30:29.682244+00:00 UTC
+2024-11-07 23:32:41,545 - INFO - Sell order placed successfully for GBPUSD.
+2024-11-07 23:32:41,546 - INFO - Finished trading for GBPUSD at 2024-11-07 22:30:44.779182+00:00 UTC
+2024-11-07 23:32:41,901 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-07 23:32:50,150 - INFO - Sell order placed successfully for EURUSD.
+2024-11-07 23:32:50,150 - INFO - Finished trading for EURUSD at 2024-11-07 22:30:59.822580+00:00 UTC
+2024-11-08 14:40:51,556 - INFO - Processing pair: EURUSD for Buy and Sell
+2024-11-08 14:40:51,556 - INFO - Processing pair: GBPUSD for Buy and Sell
+2024-11-08 14:40:51,556 - INFO - Processing pair: USDCAD for Buy and Sell
+2024-11-08 14:40:51,556 - INFO - Processing pair: AUDUSD for Buy and Sell
+2024-11-08 14:40:51,556 - INFO - Processing pair: USDCHF for Buy and Sell
+2024-11-08 14:41:07,369 - INFO - Connected to MetaTrader 5 with login: 52024094
+2024-11-08 14:41:22,451 - INFO - Connected to MetaTrader 5 with login: 51988094
+2024-11-08 14:41:37,577 - INFO - Connected to MetaTrader 5 with login: 51988090
+2024-11-08 14:41:52,689 - INFO - Connected to MetaTrader 5 with login: 51988092
+2024-11-08 14:42:07,781 - INFO - Connected to MetaTrader 5 with login: 52013349
+2024-11-08 23:30:10,113 - INFO - Fetching and processing data for USDCHF
+2024-11-08 23:30:10,113 - INFO - Fetching historical data for USDCHF
+2024-11-08 23:30:10,520 - INFO - Fetching and processing data for AUDUSD
+2024-11-08 23:30:10,520 - INFO - Fetching historical data for AUDUSD
+2024-11-08 23:30:14,158 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-08 23:30:14,562 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-08 23:30:25,194 - INFO - Fetching and processing data for USDCAD
+2024-11-08 23:30:25,194 - INFO - Fetching historical data for USDCAD
+2024-11-08 23:30:25,441 - ERROR - No historical data found for USDCAD in the given date range.
+2024-11-08 23:30:25,441 - ERROR - No historical data found for USDCAD.
+2024-11-08 23:30:25,441 - ERROR - No valid data for USDCAD. Skipping predictions.
+2024-11-08 23:30:25,441 - INFO - Fetching and processing data for USDCAD
+2024-11-08 23:30:25,441 - INFO - Fetching historical data for USDCAD
+2024-11-08 23:30:29,510 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-08 23:30:30,499 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-08 23:30:32,601 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-08 23:30:40,319 - INFO - Fetching and processing data for EURUSD
+2024-11-08 23:30:40,319 - INFO - Fetching historical data for EURUSD
+2024-11-08 23:30:46,548 - INFO - Fetching and processing data for USDCHF
+2024-11-08 23:30:46,548 - INFO - Fetching historical data for USDCHF
+2024-11-08 23:30:47,834 - INFO - Fetching and processing data for AUDUSD
+2024-11-08 23:30:47,834 - INFO - Fetching historical data for AUDUSD
+2024-11-08 23:30:48,938 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-08 23:30:55,427 - INFO - Fetching and processing data for GBPUSD
+2024-11-08 23:30:55,427 - INFO - Fetching historical data for GBPUSD
+2024-11-08 23:30:56,208 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-08 23:30:56,895 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-08 23:31:01,212 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-08 23:31:08,873 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-08 23:31:16,983 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-08 23:31:29,407 - INFO - Finished trading for USDCAD at 2024-11-08 22:30:25.194372+00:00 UTC
+2024-11-08 23:31:36,914 - INFO - Fetching and processing data for EURUSD
+2024-11-08 23:31:36,914 - INFO - Fetching historical data for EURUSD
+2024-11-08 23:31:39,322 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-08 23:31:39,675 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-08 23:31:41,386 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-08 23:31:46,890 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-08 23:32:03,959 - ERROR - Order placement failed for AUDUSD: 10018. Retrying...
+2024-11-08 23:32:04,695 - ERROR - Order placement failed for USDCHF: 10018. Retrying...
+2024-11-08 23:32:04,729 - INFO - Fetching and processing data for GBPUSD
+2024-11-08 23:32:04,729 - INFO - Fetching historical data for GBPUSD
+2024-11-08 23:32:06,202 - ERROR - Order placement failed for AUDUSD: 10018. Retrying...
+2024-11-08 23:32:06,922 - ERROR - Order placement failed for USDCHF: 10018. Retrying...
+2024-11-08 23:32:08,474 - ERROR - Order placement failed for AUDUSD: 10018. Retrying...
+2024-11-08 23:32:09,143 - ERROR - Order placement failed for USDCHF: 10018. Retrying...
+2024-11-08 23:32:09,385 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-08 23:32:10,475 - ERROR - Order failed after 3 attempts for AUDUSD
+2024-11-08 23:32:10,475 - INFO - Finished trading for AUDUSD at 2024-11-08 22:30:10.520540+00:00 UTC
+2024-11-08 23:32:11,152 - ERROR - Order failed after 3 attempts for USDCHF
+2024-11-08 23:32:11,152 - INFO - Finished trading for USDCHF at 2024-11-08 22:30:10.113478+00:00 UTC
+2024-11-08 23:32:12,288 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-08 23:32:24,347 - INFO - Finished trading for EURUSD at 2024-11-08 22:30:40.319300+00:00 UTC
+2024-11-08 23:32:25,942 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-08 23:32:34,215 - ERROR - Order placement failed for GBPUSD: 10018. Retrying...
+2024-11-08 23:32:36,440 - ERROR - Order placement failed for GBPUSD: 10018. Retrying...
+2024-11-08 23:32:38,648 - ERROR - Order placement failed for GBPUSD: 10018. Retrying...
+2024-11-08 23:32:40,662 - ERROR - Order failed after 3 attempts for GBPUSD
+2024-11-08 23:32:40,662 - INFO - Finished trading for GBPUSD at 2024-11-08 22:30:55.427118+00:00 UTC
+2024-11-09 23:30:11,255 - INFO - Fetching and processing data for AUDUSD
+2024-11-09 23:30:11,255 - INFO - Fetching historical data for AUDUSD
+2024-11-09 23:30:11,916 - INFO - Fetching and processing data for USDCHF
+2024-11-09 23:30:11,916 - INFO - Fetching historical data for USDCHF
+2024-11-09 23:30:15,120 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-09 23:30:15,955 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-09 23:30:25,123 - INFO - Fetching and processing data for EURUSD
+2024-11-09 23:30:25,123 - INFO - Fetching historical data for EURUSD
+2024-11-09 23:30:30,172 - INFO - Fetching and processing data for USDCAD
+2024-11-09 23:30:30,173 - INFO - Fetching historical data for USDCAD
+2024-11-09 23:30:31,428 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-09 23:30:33,089 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-09 23:30:33,950 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-09 23:30:38,573 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-09 23:30:41,430 - INFO - Fetching and processing data for GBPUSD
+2024-11-09 23:30:41,430 - INFO - Fetching historical data for GBPUSD
+2024-11-09 23:30:51,303 - INFO - Fetching and processing data for AUDUSD
+2024-11-09 23:30:51,304 - INFO - Fetching historical data for AUDUSD
+2024-11-09 23:30:52,385 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-09 23:31:00,753 - INFO - Fetching and processing data for USDCHF
+2024-11-09 23:31:00,753 - INFO - Fetching historical data for USDCHF
+2024-11-09 23:31:01,644 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-09 23:31:12,817 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-09 23:31:14,188 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-09 23:31:16,008 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-09 23:31:26,590 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-09 23:31:35,319 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-09 23:31:41,319 - INFO - Fetching and processing data for EURUSD
+2024-11-09 23:31:41,319 - INFO - Fetching historical data for EURUSD
+2024-11-09 23:31:48,688 - INFO - Fetching and processing data for USDCAD
+2024-11-09 23:31:48,688 - INFO - Fetching historical data for USDCAD
+2024-11-09 23:31:54,115 - INFO - Fetching and processing data for GBPUSD
+2024-11-09 23:31:54,115 - INFO - Fetching historical data for GBPUSD
+2024-11-09 23:31:54,837 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-09 23:31:58,861 - ERROR - Order placement failed for AUDUSD: 10018. Retrying...
+2024-11-09 23:32:00,271 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-09 23:32:01,101 - ERROR - Order placement failed for AUDUSD: 10018. Retrying...
+2024-11-09 23:32:01,406 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-09 23:32:03,334 - ERROR - Order placement failed for AUDUSD: 10018. Retrying...
+2024-11-09 23:32:05,193 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-09 23:32:05,344 - ERROR - Order failed after 3 attempts for AUDUSD
+2024-11-09 23:32:05,344 - INFO - Finished trading for AUDUSD at 2024-11-09 22:30:11.255387+00:00 UTC
+2024-11-09 23:32:25,206 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-09 23:32:30,288 - ERROR - Order placement failed for USDCHF: 10018. Retrying...
+2024-11-09 23:32:32,528 - ERROR - Order placement failed for USDCHF: 10018. Retrying...
+2024-11-09 23:32:34,767 - ERROR - Order placement failed for USDCHF: 10018. Retrying...
+2024-11-09 23:32:36,769 - ERROR - Order failed after 3 attempts for USDCHF
+2024-11-09 23:32:36,769 - INFO - Finished trading for USDCHF at 2024-11-09 22:30:11.916202+00:00 UTC
+2024-11-09 23:32:39,247 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-09 23:32:39,577 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-09 23:32:39,594 - INFO - Finished trading for EURUSD at 2024-11-09 22:30:25.123550+00:00 UTC
+2024-11-09 23:32:52,138 - ERROR - Order placement failed for USDCAD: 10018. Retrying...
+2024-11-09 23:32:52,807 - ERROR - Order placement failed for GBPUSD: 10018. Retrying...
+2024-11-09 23:32:54,380 - ERROR - Order placement failed for USDCAD: 10018. Retrying...
+2024-11-09 23:32:55,049 - ERROR - Order placement failed for GBPUSD: 10018. Retrying...
+2024-11-09 23:32:56,630 - ERROR - Order placement failed for USDCAD: 10018. Retrying...
+2024-11-09 23:32:57,286 - ERROR - Order placement failed for GBPUSD: 10018. Retrying...
+2024-11-09 23:32:58,634 - ERROR - Order failed after 3 attempts for USDCAD
+2024-11-09 23:32:58,634 - INFO - Finished trading for USDCAD at 2024-11-09 22:30:30.168580+00:00 UTC
+2024-11-09 23:32:59,295 - ERROR - Order failed after 3 attempts for GBPUSD
+2024-11-09 23:32:59,296 - INFO - Finished trading for GBPUSD at 2024-11-09 22:30:41.430176+00:00 UTC
+2024-11-10 23:30:00,048 - INFO - Fetching and processing data for GBPUSD
+2024-11-10 23:30:00,048 - INFO - Fetching historical data for GBPUSD
+2024-11-10 23:30:03,005 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-10 23:30:06,111 - INFO - Fetching and processing data for AUDUSD
+2024-11-10 23:30:06,111 - INFO - Fetching historical data for AUDUSD
+2024-11-10 23:30:10,414 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-10 23:30:16,374 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-10 23:30:25,471 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-10 23:30:27,185 - INFO - Fetching and processing data for GBPUSD
+2024-11-10 23:30:27,185 - INFO - Fetching historical data for GBPUSD
+2024-11-10 23:30:32,023 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-10 23:30:36,597 - INFO - Fetching and processing data for AUDUSD
+2024-11-10 23:30:36,597 - INFO - Fetching historical data for AUDUSD
+2024-11-10 23:30:37,519 - INFO - Fetching and processing data for USDCHF
+2024-11-10 23:30:37,519 - INFO - Fetching historical data for USDCHF
+2024-11-10 23:30:40,373 - INFO - Fetching and processing data for EURUSD
+2024-11-10 23:30:40,373 - INFO - Fetching historical data for EURUSD
+2024-11-10 23:30:45,575 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-10 23:30:46,750 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-10 23:30:48,766 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-10 23:30:54,954 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-10 23:30:59,403 - INFO - Fetching and processing data for USDCAD
+2024-11-10 23:30:59,403 - INFO - Fetching historical data for USDCAD
+2024-11-10 23:31:10,501 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-10 23:31:19,777 - INFO - Buy order placed successfully for GBPUSD.
+2024-11-10 23:31:19,777 - INFO - Finished trading for GBPUSD at 2024-11-10 22:30:00.048887+00:00 UTC
+2024-11-10 23:31:21,713 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-10 23:31:24,562 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-10 23:31:29,972 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-10 23:31:43,107 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-10 23:31:46,705 - INFO - Buy order placed successfully for AUDUSD.
+2024-11-10 23:31:46,707 - INFO - Finished trading for AUDUSD at 2024-11-10 22:30:06.111198+00:00 UTC
+2024-11-10 23:31:48,928 - INFO - Fetching and processing data for USDCHF
+2024-11-10 23:31:48,928 - INFO - Fetching historical data for USDCHF
+2024-11-10 23:31:52,188 - INFO - Fetching and processing data for EURUSD
+2024-11-10 23:31:52,188 - INFO - Fetching historical data for EURUSD
+2024-11-10 23:31:56,798 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-10 23:32:00,518 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-10 23:32:00,613 - INFO - Fetching and processing data for USDCAD
+2024-11-10 23:32:00,613 - INFO - Fetching historical data for USDCAD
+2024-11-10 23:32:10,055 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-10 23:32:21,731 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-10 23:32:28,251 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-10 23:32:37,910 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-10 23:32:38,523 - INFO - Sell order placed successfully for USDCHF.
+2024-11-10 23:32:38,526 - INFO - Finished trading for USDCHF at 2024-11-10 22:30:37.519710+00:00 UTC
+2024-11-10 23:32:45,833 - INFO - Finished trading for EURUSD at 2024-11-10 22:30:40.373211+00:00 UTC
+2024-11-10 23:32:49,573 - INFO - Sell order placed successfully for USDCAD.
+2024-11-10 23:32:49,573 - INFO - Finished trading for USDCAD at 2024-11-10 22:30:59.403345+00:00 UTC
+2024-11-11 23:30:21,613 - INFO - Fetching and processing data for GBPUSD
+2024-11-11 23:30:21,613 - INFO - Fetching historical data for GBPUSD
+2024-11-11 23:30:24,569 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-11 23:30:33,709 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-11 23:30:40,368 - INFO - Fetching and processing data for USDCHF
+2024-11-11 23:30:40,368 - INFO - Fetching historical data for USDCHF
+2024-11-11 23:30:40,406 - INFO - Fetching and processing data for GBPUSD
+2024-11-11 23:30:40,406 - INFO - Fetching historical data for GBPUSD
+2024-11-11 23:30:44,901 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-11 23:30:45,012 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-11 23:30:47,669 - INFO - Fetching and processing data for EURUSD
+2024-11-11 23:30:47,669 - INFO - Fetching historical data for EURUSD
+2024-11-11 23:30:48,564 - INFO - Fetching and processing data for AUDUSD
+2024-11-11 23:30:48,564 - INFO - Fetching historical data for AUDUSD
+2024-11-11 23:30:51,450 - INFO - Fetching and processing data for USDCAD
+2024-11-11 23:30:51,450 - INFO - Fetching historical data for USDCAD
+2024-11-11 23:30:58,515 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-11 23:31:00,536 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-11 23:31:05,620 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-11 23:31:18,960 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-11 23:31:20,923 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-11 23:31:29,518 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-11 23:31:35,305 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-11 23:31:43,063 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-11 23:31:43,512 - INFO - Fetching and processing data for USDCHF
+2024-11-11 23:31:43,512 - INFO - Fetching historical data for USDCHF
+2024-11-11 23:31:50,190 - INFO - Buy order placed successfully for GBPUSD.
+2024-11-11 23:31:50,199 - INFO - Finished trading for GBPUSD at 2024-11-11 22:30:21.613495+00:00 UTC
+2024-11-11 23:31:55,991 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-11 23:31:56,180 - INFO - Fetching and processing data for EURUSD
+2024-11-11 23:31:56,180 - INFO - Fetching historical data for EURUSD
+2024-11-11 23:32:02,249 - INFO - Fetching and processing data for AUDUSD
+2024-11-11 23:32:02,249 - INFO - Fetching historical data for AUDUSD
+2024-11-11 23:32:07,475 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-11 23:32:07,508 - INFO - Fetching and processing data for USDCAD
+2024-11-11 23:32:07,512 - INFO - Fetching historical data for USDCAD
+2024-11-11 23:32:12,552 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-11 23:32:19,602 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-11 23:32:30,340 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-11 23:32:42,445 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-11 23:32:49,675 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-11 23:32:52,070 - INFO - Sell order placed successfully for USDCHF.
+2024-11-11 23:32:52,070 - INFO - Finished trading for USDCHF at 2024-11-11 22:30:40.368970+00:00 UTC
+2024-11-11 23:32:53,081 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-11 23:33:02,226 - INFO - Finished trading for EURUSD at 2024-11-11 22:30:47.669566+00:00 UTC
+2024-11-11 23:33:07,938 - INFO - Buy order placed successfully for AUDUSD.
+2024-11-11 23:33:07,938 - INFO - Finished trading for AUDUSD at 2024-11-11 22:30:48.564199+00:00 UTC
+2024-11-11 23:33:09,386 - INFO - Sell order placed successfully for USDCAD.
+2024-11-11 23:33:09,386 - INFO - Finished trading for USDCAD at 2024-11-11 22:30:51.450228+00:00 UTC
+2024-11-13 04:54:55,970 - INFO - Processing pair: EURUSD for Buy and Sell
+2024-11-13 04:54:55,970 - INFO - Processing pair: GBPUSD for Buy and Sell
+2024-11-13 04:54:55,970 - INFO - Processing pair: USDCAD for Buy and Sell
+2024-11-13 04:54:55,970 - INFO - Processing pair: AUDUSD for Buy and Sell
+2024-11-13 04:54:55,970 - INFO - Processing pair: USDCHF for Buy and Sell
+2024-11-13 04:55:11,743 - INFO - Connected to MetaTrader 5 with login: 52024094
+2024-11-13 04:55:26,829 - INFO - Connected to MetaTrader 5 with login: 51988094
+2024-11-13 04:55:41,918 - INFO - Connected to MetaTrader 5 with login: 51988092
+2024-11-13 04:55:57,041 - INFO - Connected to MetaTrader 5 with login: 51988090
+2024-11-13 04:56:12,078 - INFO - Connected to MetaTrader 5 with login: 52013349
+2024-11-13 23:30:12,309 - INFO - Fetching and processing data for USDCHF
+2024-11-13 23:30:12,309 - INFO - Fetching historical data for USDCHF
+2024-11-13 23:30:12,657 - INFO - Fetching and processing data for AUDUSD
+2024-11-13 23:30:12,657 - INFO - Fetching historical data for AUDUSD
+2024-11-13 23:30:16,331 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-13 23:30:16,539 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-13 23:30:27,394 - INFO - Fetching and processing data for USDCAD
+2024-11-13 23:30:27,394 - INFO - Fetching historical data for USDCAD
+2024-11-13 23:30:30,780 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-13 23:30:30,969 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-13 23:30:33,701 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-13 23:30:42,482 - INFO - Fetching and processing data for GBPUSD
+2024-11-13 23:30:42,482 - INFO - Fetching historical data for GBPUSD
+2024-11-13 23:30:46,638 - INFO - Fetching and processing data for AUDUSD
+2024-11-13 23:30:46,653 - INFO - Fetching historical data for AUDUSD
+2024-11-13 23:30:46,705 - INFO - Fetching and processing data for USDCHF
+2024-11-13 23:30:46,705 - INFO - Fetching historical data for USDCHF
+2024-11-13 23:30:49,548 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-13 23:30:52,709 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-13 23:30:53,998 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-13 23:30:57,627 - INFO - Fetching and processing data for EURUSD
+2024-11-13 23:30:57,627 - INFO - Fetching historical data for EURUSD
+2024-11-13 23:30:58,202 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-13 23:31:10,862 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-13 23:31:17,302 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-13 23:31:22,045 - INFO - Fetching and processing data for USDCAD
+2024-11-13 23:31:22,045 - INFO - Fetching historical data for USDCAD
+2024-11-13 23:31:28,052 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-13 23:31:30,535 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-13 23:31:35,275 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-13 23:31:38,269 - INFO - Fetching and processing data for GBPUSD
+2024-11-13 23:31:38,284 - INFO - Fetching historical data for GBPUSD
+2024-11-13 23:31:42,534 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-13 23:31:52,323 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-13 23:31:53,104 - INFO - Finished trading for AUDUSD at 2024-11-13 22:30:12.657966+00:00 UTC
+2024-11-13 23:31:58,444 - INFO - Finished trading for USDCHF at 2024-11-13 22:30:12.309556+00:00 UTC
+2024-11-13 23:32:04,895 - INFO - Fetching and processing data for EURUSD
+2024-11-13 23:32:04,895 - INFO - Fetching historical data for EURUSD
+2024-11-13 23:32:07,705 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-13 23:32:12,238 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-13 23:32:17,439 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-13 23:32:21,605 - INFO - Finished trading for USDCAD at 2024-11-13 22:30:27.394061+00:00 UTC
+2024-11-13 23:32:29,695 - INFO - Both Buy and Sell predictions are 1 for GBPUSD. No trade will be taken.
+2024-11-13 23:32:29,695 - INFO - Finished trading for GBPUSD at 2024-11-13 22:30:42.482387+00:00 UTC
+2024-11-13 23:32:31,254 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-13 23:32:38,931 - INFO - Finished trading for EURUSD at 2024-11-13 22:30:57.627042+00:00 UTC
+2024-11-14 12:24:09,865 - INFO - Processing pair: EURUSD for Buy and Sell
+2024-11-14 12:24:09,865 - INFO - Processing pair: GBPUSD for Buy and Sell
+2024-11-14 12:24:09,866 - INFO - Processing pair: USDCAD for Buy and Sell
+2024-11-14 12:24:09,866 - INFO - Processing pair: AUDUSD for Buy and Sell
+2024-11-14 12:24:09,866 - INFO - Processing pair: USDCHF for Buy and Sell
+2024-11-14 12:24:25,388 - INFO - Connected to MetaTrader 5 with login: 51988094
+2024-11-14 12:24:40,405 - INFO - Connected to MetaTrader 5 with login: 52024094
+2024-11-14 12:24:55,417 - INFO - Connected to MetaTrader 5 with login: 51988092
+2024-11-14 12:25:10,433 - INFO - Connected to MetaTrader 5 with login: 51988090
+2024-11-14 12:25:27,511 - INFO - Connected to MetaTrader 5 with login: 52013349
+2024-11-24 14:40:41,109 - INFO - Processing pair: EURUSD for Buy and Sell
+2024-11-24 14:40:41,109 - INFO - Processing pair: GBPUSD for Buy and Sell
+2024-11-24 14:40:41,109 - INFO - Processing pair: USDCAD for Buy and Sell
+2024-11-24 14:40:41,109 - INFO - Processing pair: AUDUSD for Buy and Sell
+2024-11-24 14:40:41,109 - INFO - Processing pair: USDCHF for Buy and Sell
+2024-11-24 14:41:49,903 - INFO - Connected to MetaTrader 5 with login: 51988094
+2024-11-24 14:42:04,987 - INFO - Connected to MetaTrader 5 with login: 52024094
+2024-11-24 14:42:20,045 - INFO - Connected to MetaTrader 5 with login: 51988092
+2024-11-24 14:42:35,106 - INFO - Connected to MetaTrader 5 with login: 51988090
+2024-11-24 14:42:53,464 - INFO - Connected to MetaTrader 5 with login: 52013349
+2024-11-24 19:55:31,967 - INFO - Processing pair: EURUSD for Buy and Sell
+2024-11-24 19:55:31,967 - INFO - Processing pair: GBPUSD for Buy and Sell
+2024-11-24 19:55:31,967 - INFO - Processing pair: USDCAD for Buy and Sell
+2024-11-24 19:55:31,967 - INFO - Processing pair: AUDUSD for Buy and Sell
+2024-11-24 19:55:31,967 - INFO - Processing pair: USDCHF for Buy and Sell
+2024-11-24 19:59:17,267 - INFO - Processing pair: EURUSD for Buy and Sell
+2024-11-24 19:59:17,267 - INFO - Processing pair: GBPUSD for Buy and Sell
+2024-11-24 19:59:17,267 - INFO - Processing pair: USDCAD for Buy and Sell
+2024-11-24 19:59:17,267 - INFO - Processing pair: AUDUSD for Buy and Sell
+2024-11-24 19:59:17,267 - INFO - Processing pair: USDCHF for Buy and Sell
+2024-11-24 19:59:32,785 - INFO - Connected to MetaTrader 5 with login: 51988094
+2024-11-24 19:59:47,803 - INFO - Connected to MetaTrader 5 with login: 52024094
+2024-11-24 20:00:02,901 - INFO - Connected to MetaTrader 5 with login: 51988092
+2024-11-24 20:00:17,985 - INFO - Connected to MetaTrader 5 with login: 51988090
+2024-11-24 20:00:33,093 - INFO - Connected to MetaTrader 5 with login: 52013349
+2024-11-24 23:30:03,018 - INFO - Fetching and processing data for GBPUSD
+2024-11-24 23:30:03,018 - INFO - Fetching historical data for GBPUSD
+2024-11-24 23:30:05,886 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-24 23:30:15,049 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-24 23:30:18,107 - INFO - Fetching and processing data for EURUSD
+2024-11-24 23:30:18,107 - INFO - Fetching historical data for EURUSD
+2024-11-24 23:30:22,296 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-24 23:30:23,661 - INFO - Fetching and processing data for GBPUSD
+2024-11-24 23:30:23,661 - INFO - Fetching historical data for GBPUSD
+2024-11-24 23:30:27,607 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-24 23:30:32,909 - INFO - Fetching and processing data for USDCAD
+2024-11-24 23:30:32,909 - INFO - Fetching historical data for USDCAD
+2024-11-24 23:30:33,219 - INFO - Fetching and processing data for AUDUSD
+2024-11-24 23:30:33,220 - INFO - Fetching historical data for AUDUSD
+2024-11-24 23:30:39,171 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-24 23:30:41,812 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-24 23:30:42,359 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-24 23:30:45,928 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-24 23:30:47,926 - INFO - Fetching and processing data for USDCHF
+2024-11-24 23:30:47,926 - INFO - Fetching historical data for USDCHF
+2024-11-24 23:30:55,126 - INFO - Fetching and processing data for EURUSD
+2024-11-24 23:30:55,126 - INFO - Fetching historical data for EURUSD
+2024-11-24 23:31:00,449 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-24 23:31:06,166 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-24 23:31:14,110 - INFO - Sell order placed successfully for GBPUSD.
+2024-11-24 23:31:14,110 - INFO - Finished trading for GBPUSD at 2024-11-24 22:30:03.018826+00:00 UTC
+2024-11-24 23:31:20,802 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-24 23:31:21,435 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-24 23:31:31,046 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-24 23:31:37,744 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-24 23:31:44,300 - INFO - Fetching and processing data for USDCAD
+2024-11-24 23:31:44,301 - INFO - Fetching historical data for USDCAD
+2024-11-24 23:31:46,823 - INFO - Fetching and processing data for AUDUSD
+2024-11-24 23:31:46,823 - INFO - Fetching historical data for AUDUSD
+2024-11-24 23:31:53,950 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-24 23:31:54,382 - INFO - Fetching and processing data for USDCHF
+2024-11-24 23:31:54,382 - INFO - Fetching historical data for USDCHF
+2024-11-24 23:31:58,713 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-24 23:31:59,464 - INFO - Finished trading for EURUSD at 2024-11-24 22:30:18.107273+00:00 UTC
+2024-11-24 23:32:02,321 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-24 23:32:18,842 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-24 23:32:26,259 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-24 23:32:30,920 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-24 23:32:36,346 - INFO - Sell order placed successfully for USDCAD.
+2024-11-24 23:32:36,348 - INFO - Finished trading for USDCAD at 2024-11-24 22:30:32.909608+00:00 UTC
+2024-11-24 23:32:43,106 - INFO - Finished trading for AUDUSD at 2024-11-24 22:30:33.219034+00:00 UTC
+2024-11-24 23:32:44,123 - INFO - Finished trading for USDCHF at 2024-11-24 22:30:47.926549+00:00 UTC
+2024-11-25 23:30:10,658 - INFO - Fetching and processing data for GBPUSD
+2024-11-25 23:30:10,659 - INFO - Fetching historical data for GBPUSD
+2024-11-25 23:30:13,561 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-25 23:30:22,580 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-25 23:30:28,800 - INFO - Fetching and processing data for GBPUSD
+2024-11-25 23:30:28,800 - INFO - Fetching historical data for GBPUSD
+2024-11-25 23:30:31,561 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-25 23:30:32,907 - INFO - Fetching and processing data for USDCAD
+2024-11-25 23:30:32,907 - INFO - Fetching historical data for USDCAD
+2024-11-25 23:30:37,051 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-25 23:30:39,653 - INFO - Fetching and processing data for AUDUSD
+2024-11-25 23:30:39,653 - INFO - Fetching historical data for AUDUSD
+2024-11-25 23:30:40,681 - INFO - Fetching and processing data for USDCHF
+2024-11-25 23:30:40,681 - INFO - Fetching historical data for USDCHF
+2024-11-25 23:30:49,079 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-25 23:30:49,086 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-25 23:30:51,070 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-25 23:30:56,027 - INFO - Fetching and processing data for EURUSD
+2024-11-25 23:30:56,028 - INFO - Fetching historical data for EURUSD
+2024-11-25 23:30:57,441 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-25 23:31:06,643 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-25 23:31:16,332 - INFO - Sell order placed successfully for GBPUSD.
+2024-11-25 23:31:16,339 - INFO - Finished trading for GBPUSD at 2024-11-25 22:30:10.658726+00:00 UTC
+2024-11-25 23:31:20,181 - INFO - Fetching and processing data for USDCAD
+2024-11-25 23:31:20,181 - INFO - Fetching historical data for USDCAD
+2024-11-25 23:31:24,840 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-25 23:31:25,384 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-25 23:31:28,953 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-25 23:31:33,137 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-25 23:31:47,746 - INFO - Fetching and processing data for USDCHF
+2024-11-25 23:31:47,747 - INFO - Fetching historical data for USDCHF
+2024-11-25 23:31:47,843 - INFO - Fetching and processing data for AUDUSD
+2024-11-25 23:31:47,843 - INFO - Fetching historical data for AUDUSD
+2024-11-25 23:31:52,442 - INFO - Fetching and processing data for EURUSD
+2024-11-25 23:31:52,442 - INFO - Fetching historical data for EURUSD
+2024-11-25 23:31:55,941 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-25 23:31:56,277 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-25 23:31:58,980 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-25 23:32:01,341 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-25 23:32:23,072 - INFO - Sell order placed successfully for USDCAD.
+2024-11-25 23:32:23,072 - INFO - Finished trading for USDCAD at 2024-11-25 22:30:32.907789+00:00 UTC
+2024-11-25 23:32:25,518 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-25 23:32:25,528 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-25 23:32:30,112 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-25 23:32:42,802 - INFO - Finished trading for USDCHF at 2024-11-25 22:30:40.681163+00:00 UTC
+2024-11-25 23:32:42,808 - INFO - Finished trading for AUDUSD at 2024-11-25 22:30:39.653784+00:00 UTC
+2024-11-25 23:32:44,566 - INFO - Finished trading for EURUSD at 2024-11-25 22:30:56.027769+00:00 UTC
+2024-11-26 13:55:11,206 - INFO - Processing pair: EURUSD for Buy and Sell
+2024-11-26 13:55:11,206 - INFO - Processing pair: GBPUSD for Buy and Sell
+2024-11-26 13:55:11,206 - INFO - Processing pair: USDCAD for Buy and Sell
+2024-11-26 13:55:11,206 - INFO - Processing pair: AUDUSD for Buy and Sell
+2024-11-26 13:55:11,206 - INFO - Processing pair: USDCHF for Buy and Sell
+2024-11-26 13:55:29,673 - INFO - Connected to MetaTrader 5 with login: 52024094
+2024-11-26 13:55:44,688 - INFO - Connected to MetaTrader 5 with login: 51988094
+2024-11-26 13:55:59,707 - INFO - Connected to MetaTrader 5 with login: 51988092
+2024-11-26 13:56:14,719 - INFO - Connected to MetaTrader 5 with login: 51988090
+2024-11-26 13:56:29,738 - INFO - Connected to MetaTrader 5 with login: 52013349
+2024-11-26 23:30:15,025 - INFO - Fetching and processing data for EURUSD
+2024-11-26 23:30:15,028 - INFO - Fetching historical data for EURUSD
+2024-11-26 23:30:18,144 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-26 23:30:27,227 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-26 23:30:29,962 - INFO - Fetching and processing data for USDCHF
+2024-11-26 23:30:29,962 - INFO - Fetching historical data for USDCHF
+2024-11-26 23:30:30,028 - INFO - Fetching and processing data for AUDUSD
+2024-11-26 23:30:30,028 - INFO - Fetching historical data for AUDUSD
+2024-11-26 23:30:36,491 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-26 23:30:36,804 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-26 23:30:36,878 - INFO - Fetching and processing data for EURUSD
+2024-11-26 23:30:36,879 - INFO - Fetching historical data for EURUSD
+2024-11-26 23:30:42,817 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-26 23:30:44,979 - INFO - Fetching and processing data for USDCAD
+2024-11-26 23:30:44,979 - INFO - Fetching historical data for USDCAD
+2024-11-26 23:30:53,760 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-26 23:30:59,996 - INFO - Fetching and processing data for GBPUSD
+2024-11-26 23:30:59,996 - INFO - Fetching historical data for GBPUSD
+2024-11-26 23:31:02,003 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-26 23:31:02,624 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-26 23:31:11,768 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-26 23:31:12,846 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-26 23:31:22,762 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-26 23:31:30,269 - INFO - Fetching and processing data for USDCHF
+2024-11-26 23:31:30,269 - INFO - Fetching historical data for USDCHF
+2024-11-26 23:31:30,432 - INFO - Fetching and processing data for AUDUSD
+2024-11-26 23:31:30,432 - INFO - Fetching historical data for AUDUSD
+2024-11-26 23:31:39,860 - INFO - Finished trading for EURUSD at 2024-11-26 22:30:15.025835+00:00 UTC
+2024-11-26 23:31:40,300 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-26 23:31:41,308 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-26 23:31:45,345 - INFO - Fetching and processing data for USDCAD
+2024-11-26 23:31:45,345 - INFO - Fetching historical data for USDCAD
+2024-11-26 23:31:50,201 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-26 23:31:55,405 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-26 23:32:12,288 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-26 23:32:12,722 - INFO - Fetching and processing data for GBPUSD
+2024-11-26 23:32:12,722 - INFO - Fetching historical data for GBPUSD
+2024-11-26 23:32:13,285 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-26 23:32:21,272 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-26 23:32:26,761 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-26 23:32:33,740 - INFO - Finished trading for AUDUSD at 2024-11-26 22:30:30.028898+00:00 UTC
+2024-11-26 23:32:36,918 - INFO - Sell order placed successfully for USDCHF.
+2024-11-26 23:32:36,918 - INFO - Finished trading for USDCHF at 2024-11-26 22:30:29.962836+00:00 UTC
+2024-11-26 23:32:42,865 - INFO - Sell order placed successfully for USDCAD.
+2024-11-26 23:32:42,866 - INFO - Finished trading for USDCAD at 2024-11-26 22:30:44.979440+00:00 UTC
+2024-11-26 23:32:43,726 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-26 23:32:52,045 - INFO - Sell order placed successfully for GBPUSD.
+2024-11-26 23:32:52,046 - INFO - Finished trading for GBPUSD at 2024-11-26 22:30:59.996915+00:00 UTC
+2024-11-28 21:02:40,086 - INFO - Processing pair: EURUSD for Buy and Sell
+2024-11-28 21:02:40,086 - INFO - Processing pair: GBPUSD for Buy and Sell
+2024-11-28 21:02:40,086 - INFO - Processing pair: USDCAD for Buy and Sell
+2024-11-28 21:02:40,086 - INFO - Processing pair: AUDUSD for Buy and Sell
+2024-11-28 21:02:40,086 - INFO - Processing pair: USDCHF for Buy and Sell
+2024-11-28 21:03:01,288 - INFO - Connected to MetaTrader 5 with login: 52024094
+2024-11-28 21:03:16,554 - INFO - Connected to MetaTrader 5 with login: 51988094
+2024-11-28 21:03:31,785 - INFO - Connected to MetaTrader 5 with login: 51988092
+2024-11-28 21:03:47,041 - INFO - Connected to MetaTrader 5 with login: 51988090
+2024-11-28 21:04:02,371 - INFO - Connected to MetaTrader 5 with login: 52013349
+2024-11-28 23:30:01,361 - INFO - Fetching and processing data for USDCHF
+2024-11-28 23:30:01,361 - INFO - Fetching historical data for USDCHF
+2024-11-28 23:30:02,446 - INFO - Fetching and processing data for AUDUSD
+2024-11-28 23:30:02,446 - INFO - Fetching historical data for AUDUSD
+2024-11-28 23:30:05,083 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-28 23:30:06,290 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-28 23:30:16,652 - INFO - Fetching and processing data for USDCAD
+2024-11-28 23:30:16,652 - INFO - Fetching historical data for USDCAD
+2024-11-28 23:30:20,770 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-28 23:30:21,808 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-28 23:30:22,978 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-28 23:30:31,871 - INFO - Fetching and processing data for GBPUSD
+2024-11-28 23:30:31,872 - INFO - Fetching historical data for GBPUSD
+2024-11-28 23:30:36,479 - INFO - Fetching and processing data for USDCHF
+2024-11-28 23:30:36,479 - INFO - Fetching historical data for USDCHF
+2024-11-28 23:30:38,261 - INFO - Fetching and processing data for AUDUSD
+2024-11-28 23:30:38,262 - INFO - Fetching historical data for AUDUSD
+2024-11-28 23:30:40,906 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-28 23:30:43,660 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-28 23:30:45,743 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-28 23:30:47,130 - INFO - Fetching and processing data for EURUSD
+2024-11-28 23:30:47,130 - INFO - Fetching historical data for EURUSD
+2024-11-28 23:30:49,538 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-28 23:31:00,693 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-28 23:31:08,607 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-28 23:31:18,393 - INFO - Fetching and processing data for USDCAD
+2024-11-28 23:31:18,393 - INFO - Fetching historical data for USDCAD
+2024-11-28 23:31:20,698 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-28 23:31:28,807 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-28 23:31:29,263 - INFO - Fetching and processing data for GBPUSD
+2024-11-28 23:31:29,263 - INFO - Fetching historical data for GBPUSD
+2024-11-28 23:31:31,345 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-28 23:31:33,115 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-28 23:31:41,906 - INFO - Sell order placed successfully for USDCHF.
+2024-11-28 23:31:41,907 - INFO - Finished trading for USDCHF at 2024-11-28 22:30:01.361636+00:00 UTC
+2024-11-28 23:31:42,929 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-28 23:31:55,099 - INFO - Finished trading for AUDUSD at 2024-11-28 22:30:02.446207+00:00 UTC
+2024-11-28 23:31:57,454 - INFO - Fetching and processing data for EURUSD
+2024-11-28 23:31:57,454 - INFO - Fetching historical data for EURUSD
+2024-11-28 23:32:03,496 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-28 23:32:03,609 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-28 23:32:08,129 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-28 23:32:21,316 - INFO - Sell order placed successfully for USDCAD.
+2024-11-28 23:32:21,327 - INFO - Finished trading for USDCAD at 2024-11-28 22:30:16.652296+00:00 UTC
+2024-11-28 23:32:23,384 - INFO - Finished trading for GBPUSD at 2024-11-28 22:30:31.871597+00:00 UTC
+2024-11-28 23:32:24,507 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-28 23:32:31,805 - INFO - Finished trading for EURUSD at 2024-11-28 22:30:47.130851+00:00 UTC
+2024-11-29 23:30:23,824 - INFO - Fetching and processing data for USDCAD
+2024-11-29 23:30:23,824 - INFO - Fetching historical data for USDCAD
+2024-11-29 23:30:25,869 - INFO - Fetching and processing data for GBPUSD
+2024-11-29 23:30:25,869 - INFO - Fetching historical data for GBPUSD
+2024-11-29 23:30:27,359 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-29 23:30:29,732 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-29 23:30:34,270 - INFO - Fetching and processing data for EURUSD
+2024-11-29 23:30:34,270 - INFO - Fetching historical data for EURUSD
+2024-11-29 23:30:40,390 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-29 23:30:44,171 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-29 23:30:44,373 - INFO - Fetching and processing data for USDCHF
+2024-11-29 23:30:44,373 - INFO - Fetching historical data for USDCHF
+2024-11-29 23:30:47,760 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-29 23:30:54,066 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-29 23:30:57,624 - INFO - Fetching and processing data for AUDUSD
+2024-11-29 23:30:57,624 - INFO - Fetching historical data for AUDUSD
+2024-11-29 23:31:05,076 - INFO - Fetching and processing data for USDCAD
+2024-11-29 23:31:05,076 - INFO - Fetching historical data for USDCAD
+2024-11-29 23:31:05,177 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-29 23:31:08,170 - INFO - Fetching and processing data for GBPUSD
+2024-11-29 23:31:08,171 - INFO - Fetching historical data for GBPUSD
+2024-11-29 23:31:10,100 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-29 23:31:16,567 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-29 23:31:19,537 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-29 23:31:29,006 - INFO - Fetching and processing data for EURUSD
+2024-11-29 23:31:29,006 - INFO - Fetching historical data for EURUSD
+2024-11-29 23:31:29,462 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-29 23:31:41,855 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-29 23:31:47,890 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-29 23:31:54,451 - INFO - Fetching and processing data for USDCHF
+2024-11-29 23:31:54,452 - INFO - Fetching historical data for USDCHF
+2024-11-29 23:31:58,011 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-29 23:32:04,166 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-29 23:32:11,504 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-29 23:32:13,515 - INFO - Fetching and processing data for AUDUSD
+2024-11-29 23:32:13,515 - INFO - Fetching historical data for AUDUSD
+2024-11-29 23:32:19,458 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-29 23:32:22,683 - ERROR - Order placement failed for USDCAD: 10031. Retrying...
+2024-11-29 23:32:24,683 - ERROR - Order placement failed for USDCAD: 10031. Retrying...
+2024-11-29 23:32:26,684 - ERROR - Order placement failed for USDCAD: 10031. Retrying...
+2024-11-29 23:32:28,035 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-29 23:32:28,685 - ERROR - Order failed after 3 attempts for USDCAD
+2024-11-29 23:32:28,685 - INFO - Finished trading for USDCAD at 2024-11-29 22:30:23.824102+00:00 UTC
+2024-11-29 23:32:31,266 - INFO - Finished trading for GBPUSD at 2024-11-29 22:30:25.869168+00:00 UTC
+2024-11-29 23:32:43,093 - ERROR - Order placement failed for EURUSD: 10031. Retrying...
+2024-11-29 23:32:45,094 - ERROR - Order placement failed for EURUSD: 10031. Retrying...
+2024-11-29 23:32:45,863 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-29 23:32:47,095 - ERROR - Order placement failed for EURUSD: 10031. Retrying...
+2024-11-29 23:32:49,096 - ERROR - Order failed after 3 attempts for EURUSD
+2024-11-29 23:32:49,096 - INFO - Finished trading for EURUSD at 2024-11-29 22:30:34.270982+00:00 UTC
+2024-11-29 23:32:52,332 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-29 23:32:59,028 - ERROR - Order placement failed for USDCHF: 10031. Retrying...
+2024-11-29 23:33:01,029 - ERROR - Order placement failed for USDCHF: 10031. Retrying...
+2024-11-29 23:33:02,866 - INFO - Finished trading for AUDUSD at 2024-11-29 22:30:57.624815+00:00 UTC
+2024-11-29 23:33:03,029 - ERROR - Order placement failed for USDCHF: 10031. Retrying...
+2024-11-29 23:33:05,031 - ERROR - Order failed after 3 attempts for USDCHF
+2024-11-29 23:33:05,031 - INFO - Finished trading for USDCHF at 2024-11-29 22:30:44.373665+00:00 UTC
+2024-11-30 23:30:03,524 - INFO - Fetching and processing data for AUDUSD
+2024-11-30 23:30:03,524 - INFO - Fetching historical data for AUDUSD
+2024-11-30 23:30:05,689 - INFO - Fetching and processing data for USDCHF
+2024-11-30 23:30:05,689 - INFO - Fetching historical data for USDCHF
+2024-11-30 23:30:06,820 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-30 23:30:09,523 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-30 23:30:20,037 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-30 23:30:23,023 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-30 23:30:29,346 - INFO - Fetching and processing data for USDCAD
+2024-11-30 23:30:29,346 - INFO - Fetching historical data for USDCAD
+2024-11-30 23:30:30,892 - INFO - Fetching and processing data for AUDUSD
+2024-11-30 23:30:30,892 - INFO - Fetching historical data for AUDUSD
+2024-11-30 23:30:31,920 - INFO - Fetching and processing data for GBPUSD
+2024-11-30 23:30:31,923 - INFO - Fetching historical data for GBPUSD
+2024-11-30 23:30:35,101 - INFO - Fetching and processing data for USDCHF
+2024-11-30 23:30:35,101 - INFO - Fetching historical data for USDCHF
+2024-11-30 23:30:36,901 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-30 23:30:39,513 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-30 23:30:39,586 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-30 23:30:43,930 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-30 23:30:49,761 - INFO - Fetching and processing data for EURUSD
+2024-11-30 23:30:49,761 - INFO - Fetching historical data for EURUSD
+2024-11-30 23:30:59,504 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-30 23:31:09,152 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-30 23:31:19,523 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-30 23:31:19,536 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-30 23:31:21,756 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-30 23:31:30,125 - INFO - Fetching and processing data for USDCAD
+2024-11-30 23:31:30,125 - INFO - Fetching historical data for USDCAD
+2024-11-30 23:31:30,936 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-30 23:31:43,009 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-30 23:31:53,588 - INFO - Finished trading for AUDUSD at 2024-11-30 22:30:03.524087+00:00 UTC
+2024-11-30 23:31:53,875 - INFO - Fetching and processing data for GBPUSD
+2024-11-30 23:31:53,875 - INFO - Fetching historical data for GBPUSD
+2024-11-30 23:31:54,171 - ERROR - Order placement failed for USDCHF: 10018. Retrying...
+2024-11-30 23:31:56,060 - INFO - Fetching and processing data for EURUSD
+2024-11-30 23:31:56,061 - INFO - Fetching historical data for EURUSD
+2024-11-30 23:31:56,433 - ERROR - Order placement failed for USDCHF: 10018. Retrying...
+2024-11-30 23:31:58,676 - ERROR - Order placement failed for USDCHF: 10018. Retrying...
+2024-11-30 23:32:00,677 - ERROR - Order failed after 3 attempts for USDCHF
+2024-11-30 23:32:00,677 - INFO - Finished trading for USDCHF at 2024-11-30 22:30:05.689171+00:00 UTC
+2024-11-30 23:32:01,610 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-30 23:32:04,017 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-30 23:32:08,987 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-30 23:32:27,159 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-30 23:32:27,492 - ERROR - Order placement failed for USDCAD: 10018. Retrying...
+2024-11-30 23:32:29,741 - ERROR - Order placement failed for USDCAD: 10018. Retrying...
+2024-11-30 23:32:29,751 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-11-30 23:32:32,009 - ERROR - Order placement failed for USDCAD: 10018. Retrying...
+2024-11-30 23:32:34,014 - ERROR - Order failed after 3 attempts for USDCAD
+2024-11-30 23:32:34,014 - INFO - Finished trading for USDCAD at 2024-11-30 22:30:29.346138+00:00 UTC
+2024-11-30 23:32:40,356 - INFO - Finished trading for GBPUSD at 2024-11-30 22:30:31.920495+00:00 UTC
+2024-11-30 23:32:41,849 - ERROR - Order placement failed for EURUSD: 10018. Retrying...
+2024-11-30 23:32:44,105 - ERROR - Order placement failed for EURUSD: 10018. Retrying...
+2024-11-30 23:32:46,410 - ERROR - Order placement failed for EURUSD: 10018. Retrying...
+2024-11-30 23:32:48,411 - ERROR - Order failed after 3 attempts for EURUSD
+2024-11-30 23:32:48,411 - INFO - Finished trading for EURUSD at 2024-11-30 22:30:49.761678+00:00 UTC
+2024-12-01 23:30:01,355 - INFO - Fetching and processing data for USDCHF
+2024-12-01 23:30:01,356 - INFO - Fetching historical data for USDCHF
+2024-12-01 23:30:04,183 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-01 23:30:13,189 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-01 23:30:19,407 - INFO - Fetching and processing data for USDCHF
+2024-12-01 23:30:19,407 - INFO - Fetching historical data for USDCHF
+2024-12-01 23:30:22,234 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-01 23:30:31,482 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-01 23:30:34,657 - INFO - Fetching and processing data for USDCAD
+2024-12-01 23:30:34,657 - INFO - Fetching historical data for USDCAD
+2024-12-01 23:30:39,428 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-01 23:30:41,034 - INFO - Fetching and processing data for GBPUSD
+2024-12-01 23:30:41,034 - INFO - Sell order placed successfully for USDCHF.
+2024-12-01 23:30:41,035 - INFO - Fetching historical data for GBPUSD
+2024-12-01 23:30:41,035 - INFO - Finished trading for USDCHF at 2024-12-01 22:30:01.355495+00:00 UTC
+2024-12-01 23:30:45,639 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-01 23:30:49,080 - INFO - Fetching and processing data for EURUSD
+2024-12-01 23:30:49,080 - INFO - Fetching historical data for EURUSD
+2024-12-01 23:30:54,255 - INFO - Fetching and processing data for AUDUSD
+2024-12-01 23:30:54,256 - INFO - Fetching historical data for AUDUSD
+2024-12-01 23:30:57,610 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-01 23:30:59,884 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-01 23:31:02,231 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-01 23:31:08,011 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-01 23:31:25,971 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-01 23:31:26,722 - INFO - Fetching and processing data for USDCAD
+2024-12-01 23:31:26,722 - INFO - Fetching historical data for USDCAD
+2024-12-01 23:31:29,851 - INFO - Fetching and processing data for GBPUSD
+2024-12-01 23:31:29,852 - INFO - Fetching historical data for GBPUSD
+2024-12-01 23:31:35,287 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-01 23:31:35,298 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-01 23:31:43,431 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-01 23:31:43,915 - INFO - Fetching and processing data for EURUSD
+2024-12-01 23:31:43,915 - INFO - Fetching historical data for EURUSD
+2024-12-01 23:31:54,327 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-01 23:32:01,258 - INFO - Fetching and processing data for AUDUSD
+2024-12-01 23:32:01,258 - INFO - Fetching historical data for AUDUSD
+2024-12-01 23:32:12,071 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-01 23:32:12,078 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-01 23:32:16,703 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-01 23:32:21,744 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-01 23:32:39,467 - INFO - Sell order placed successfully for USDCAD.
+2024-12-01 23:32:39,468 - INFO - Finished trading for USDCAD at 2024-12-01 22:30:34.657512+00:00 UTC
+2024-12-01 23:32:41,113 - INFO - Finished trading for GBPUSD at 2024-12-01 22:30:41.034551+00:00 UTC
+2024-12-01 23:32:42,651 - INFO - Buy order placed successfully for EURUSD.
+2024-12-01 23:32:42,651 - INFO - Finished trading for EURUSD at 2024-12-01 22:30:49.080476+00:00 UTC
+2024-12-01 23:32:43,452 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-01 23:32:51,671 - INFO - Finished trading for AUDUSD at 2024-12-01 22:30:54.255785+00:00 UTC
+2024-12-02 23:30:40,104 - INFO - Fetching and processing data for USDCAD
+2024-12-02 23:30:40,104 - INFO - Fetching historical data for USDCAD
+2024-12-02 23:30:41,663 - INFO - Fetching and processing data for USDCHF
+2024-12-02 23:30:41,663 - INFO - Fetching historical data for USDCHF
+2024-12-02 23:30:41,747 - INFO - Fetching and processing data for GBPUSD
+2024-12-02 23:30:41,747 - INFO - Fetching historical data for GBPUSD
+2024-12-02 23:30:43,288 - INFO - Fetching and processing data for EURUSD
+2024-12-02 23:30:43,288 - INFO - Fetching historical data for EURUSD
+2024-12-02 23:30:45,672 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-02 23:30:48,374 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-02 23:30:49,035 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-02 23:30:50,995 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-02 23:30:52,310 - INFO - Fetching and processing data for AUDUSD
+2024-12-02 23:30:52,310 - INFO - Fetching historical data for AUDUSD
+2024-12-02 23:31:04,508 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-02 23:31:12,111 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-02 23:31:29,384 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-02 23:31:30,431 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-02 23:31:32,253 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-02 23:31:32,534 - INFO - Fetching and processing data for USDCAD
+2024-12-02 23:31:32,534 - INFO - Fetching historical data for USDCAD
+2024-12-02 23:31:36,878 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-02 23:31:44,540 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-02 23:31:55,566 - INFO - Fetching and processing data for GBPUSD
+2024-12-02 23:31:55,567 - INFO - Fetching historical data for GBPUSD
+2024-12-02 23:31:58,678 - INFO - Fetching and processing data for USDCHF
+2024-12-02 23:31:58,682 - INFO - Fetching historical data for USDCHF
+2024-12-02 23:32:01,742 - INFO - Fetching and processing data for EURUSD
+2024-12-02 23:32:01,742 - INFO - Fetching historical data for EURUSD
+2024-12-02 23:32:07,471 - INFO - Fetching and processing data for AUDUSD
+2024-12-02 23:32:07,471 - INFO - Fetching historical data for AUDUSD
+2024-12-02 23:32:10,446 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-02 23:32:12,020 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-02 23:32:13,111 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-02 23:32:17,342 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-02 23:32:23,095 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-02 23:32:50,408 - INFO - Sell order placed successfully for USDCAD.
+2024-12-02 23:32:50,408 - INFO - Finished trading for USDCAD at 2024-12-02 22:30:40.104095+00:00 UTC
+2024-12-02 23:32:53,708 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-02 23:32:55,804 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-02 23:32:55,815 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-02 23:32:58,766 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-02 23:33:20,221 - INFO - Finished trading for GBPUSD at 2024-12-02 22:30:41.747743+00:00 UTC
+2024-12-02 23:33:20,769 - INFO - Sell order placed successfully for USDCHF.
+2024-12-02 23:33:20,815 - INFO - Finished trading for USDCHF at 2024-12-02 22:30:41.663635+00:00 UTC
+2024-12-02 23:33:21,832 - INFO - Buy order placed successfully for EURUSD.
+2024-12-02 23:33:21,834 - INFO - Finished trading for EURUSD at 2024-12-02 22:30:43.288017+00:00 UTC
+2024-12-02 23:33:22,288 - INFO - Finished trading for AUDUSD at 2024-12-02 22:30:52.310100+00:00 UTC
+2024-12-03 23:30:22,148 - INFO - Fetching and processing data for GBPUSD
+2024-12-03 23:30:22,148 - INFO - Fetching historical data for GBPUSD
+2024-12-03 23:30:22,779 - INFO - Fetching and processing data for USDCHF
+2024-12-03 23:30:22,779 - INFO - Fetching historical data for USDCHF
+2024-12-03 23:30:23,771 - INFO - Fetching and processing data for EURUSD
+2024-12-03 23:30:23,771 - INFO - Fetching historical data for EURUSD
+2024-12-03 23:30:24,200 - INFO - Fetching and processing data for AUDUSD
+2024-12-03 23:30:24,202 - INFO - Fetching historical data for AUDUSD
+2024-12-03 23:30:28,001 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-03 23:30:29,335 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-03 23:30:32,358 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-03 23:30:32,458 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-03 23:30:52,337 - INFO - Fetching and processing data for USDCAD
+2024-12-03 23:30:52,338 - INFO - Fetching historical data for USDCAD
+2024-12-03 23:30:54,537 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-03 23:30:56,838 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-03 23:31:00,770 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-03 23:31:03,106 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-03 23:31:04,101 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-03 23:31:19,667 - INFO - Fetching and processing data for GBPUSD
+2024-12-03 23:31:19,668 - INFO - Fetching historical data for GBPUSD
+2024-12-03 23:31:25,506 - INFO - Fetching and processing data for USDCHF
+2024-12-03 23:31:25,507 - INFO - Fetching historical data for USDCHF
+2024-12-03 23:31:29,586 - INFO - Fetching and processing data for AUDUSD
+2024-12-03 23:31:29,587 - INFO - Fetching historical data for AUDUSD
+2024-12-03 23:31:32,556 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-03 23:31:32,851 - INFO - Fetching and processing data for EURUSD
+2024-12-03 23:31:32,852 - INFO - Fetching historical data for EURUSD
+2024-12-03 23:31:33,882 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-03 23:31:37,756 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-03 23:31:43,993 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-03 23:31:44,925 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-03 23:32:08,029 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-03 23:32:13,594 - INFO - Fetching and processing data for USDCAD
+2024-12-03 23:32:13,594 - INFO - Fetching historical data for USDCAD
+2024-12-03 23:32:16,631 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-03 23:32:21,417 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-03 23:32:28,081 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-03 23:32:28,093 - INFO - Finished trading for GBPUSD at 2024-12-03 22:30:22.148801+00:00 UTC
+2024-12-03 23:32:28,770 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-03 23:32:44,510 - INFO - Sell order placed successfully for USDCHF.
+2024-12-03 23:32:44,511 - INFO - Finished trading for USDCHF at 2024-12-03 22:30:22.779787+00:00 UTC
+2024-12-03 23:32:47,032 - INFO - Finished trading for AUDUSD at 2024-12-03 22:30:24.200964+00:00 UTC
+2024-12-03 23:32:50,380 - INFO - Buy order placed successfully for EURUSD.
+2024-12-03 23:32:50,380 - INFO - Finished trading for EURUSD at 2024-12-03 22:30:23.771402+00:00 UTC
+2024-12-03 23:32:53,499 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-03 23:33:02,042 - INFO - Sell order placed successfully for USDCAD.
+2024-12-03 23:33:02,043 - INFO - Finished trading for USDCAD at 2024-12-03 22:30:52.337231+00:00 UTC
+2024-12-04 23:30:02,675 - INFO - Fetching and processing data for USDCAD
+2024-12-04 23:30:02,676 - INFO - Fetching historical data for USDCAD
+2024-12-04 23:30:05,618 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-04 23:30:14,513 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-04 23:30:20,984 - INFO - Fetching and processing data for USDCAD
+2024-12-04 23:30:20,985 - INFO - Fetching historical data for USDCAD
+2024-12-04 23:30:23,866 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-04 23:30:28,731 - INFO - Fetching and processing data for GBPUSD
+2024-12-04 23:30:28,731 - INFO - Fetching historical data for GBPUSD
+2024-12-04 23:30:32,813 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-04 23:30:36,119 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-04 23:30:45,168 - INFO - Fetching and processing data for USDCHF
+2024-12-04 23:30:45,168 - INFO - Fetching historical data for USDCHF
+2024-12-04 23:30:47,667 - INFO - Fetching and processing data for AUDUSD
+2024-12-04 23:30:47,667 - INFO - Fetching historical data for AUDUSD
+2024-12-04 23:30:48,507 - INFO - Sell order placed successfully for USDCAD.
+2024-12-04 23:30:48,507 - INFO - Finished trading for USDCAD at 2024-12-04 22:30:02.675490+00:00 UTC
+2024-12-04 23:30:49,610 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-04 23:30:51,002 - INFO - Fetching and processing data for EURUSD
+2024-12-04 23:30:51,002 - INFO - Fetching historical data for EURUSD
+2024-12-04 23:30:51,580 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-04 23:30:56,213 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-04 23:31:01,453 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-04 23:31:07,699 - INFO - Fetching and processing data for GBPUSD
+2024-12-04 23:31:07,699 - INFO - Fetching historical data for GBPUSD
+2024-12-04 23:31:15,470 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-04 23:31:24,181 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-04 23:31:33,178 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-04 23:31:33,666 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-04 23:31:44,013 - INFO - Fetching and processing data for USDCHF
+2024-12-04 23:31:44,013 - INFO - Fetching historical data for USDCHF
+2024-12-04 23:31:44,573 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-04 23:31:54,556 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-04 23:32:00,870 - INFO - Fetching and processing data for EURUSD
+2024-12-04 23:32:00,871 - INFO - Fetching historical data for EURUSD
+2024-12-04 23:32:00,932 - INFO - Fetching and processing data for AUDUSD
+2024-12-04 23:32:00,933 - INFO - Fetching historical data for AUDUSD
+2024-12-04 23:32:07,268 - INFO - Finished trading for GBPUSD at 2024-12-04 22:30:28.731223+00:00 UTC
+2024-12-04 23:32:11,117 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-04 23:32:11,122 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-04 23:32:19,419 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-04 23:32:36,591 - INFO - Sell order placed successfully for USDCHF.
+2024-12-04 23:32:36,591 - INFO - Finished trading for USDCHF at 2024-12-04 22:30:45.168515+00:00 UTC
+2024-12-04 23:32:37,674 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-04 23:32:37,698 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-04 23:32:51,366 - INFO - Buy order placed successfully for EURUSD.
+2024-12-04 23:32:51,367 - INFO - Finished trading for EURUSD at 2024-12-04 22:30:51.002948+00:00 UTC
+2024-12-04 23:32:51,372 - INFO - Finished trading for AUDUSD at 2024-12-04 22:30:47.667115+00:00 UTC
+2024-12-05 04:10:24,110 - INFO - Processing pair: EURUSD for Buy and Sell
+2024-12-05 04:10:24,110 - INFO - Processing pair: GBPUSD for Buy and Sell
+2024-12-05 04:10:24,110 - INFO - Processing pair: USDCAD for Buy and Sell
+2024-12-05 04:10:24,125 - INFO - Processing pair: AUDUSD for Buy and Sell
+2024-12-05 04:10:24,125 - INFO - Processing pair: USDCHF for Buy and Sell
+2024-12-05 04:10:39,682 - INFO - Connected to MetaTrader 5 with login: 52024094
+2024-12-05 04:10:54,703 - INFO - Connected to MetaTrader 5 with login: 51988094
+2024-12-05 04:11:09,718 - INFO - Connected to MetaTrader 5 with login: 51988090
+2024-12-05 04:11:24,742 - INFO - Connected to MetaTrader 5 with login: 51988092
+2024-12-05 04:11:39,771 - INFO - Connected to MetaTrader 5 with login: 52013349
+2024-12-05 08:38:10,471 - INFO - Processing pair: EURUSD for Buy and Sell
+2024-12-05 08:38:10,471 - INFO - Processing pair: GBPUSD for Buy and Sell
+2024-12-05 08:38:10,471 - INFO - Processing pair: USDCAD for Buy and Sell
+2024-12-05 08:38:10,471 - INFO - Processing pair: AUDUSD for Buy and Sell
+2024-12-05 08:38:10,471 - INFO - Processing pair: USDCHF for Buy and Sell
+2024-12-05 08:38:25,974 - INFO - Connected to MetaTrader 5 with login: 52024094
+2024-12-05 08:38:40,999 - INFO - Connected to MetaTrader 5 with login: 51988094
+2024-12-05 08:38:56,012 - INFO - Connected to MetaTrader 5 with login: 51988092
+2024-12-05 08:39:11,017 - INFO - Connected to MetaTrader 5 with login: 51988090
+2024-12-05 08:39:26,044 - INFO - Connected to MetaTrader 5 with login: 52013349
+2024-12-05 08:41:11,028 - INFO - Fetching and processing data for EURUSD
+2024-12-05 08:41:11,028 - INFO - Fetching historical data for EURUSD
+2024-12-05 08:41:13,965 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-05 08:41:23,727 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-05 08:41:25,985 - INFO - Fetching and processing data for USDCHF
+2024-12-05 08:41:25,985 - INFO - Fetching historical data for USDCHF
+2024-12-05 08:41:26,048 - INFO - Fetching and processing data for AUDUSD
+2024-12-05 08:41:26,048 - INFO - Fetching historical data for AUDUSD
+2024-12-05 08:41:33,908 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-05 08:41:34,588 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-05 08:41:35,018 - INFO - Fetching and processing data for EURUSD
+2024-12-05 08:41:35,018 - INFO - Fetching historical data for EURUSD
+2024-12-05 08:41:41,002 - INFO - Fetching and processing data for USDCAD
+2024-12-05 08:41:41,002 - INFO - Fetching historical data for USDCAD
+2024-12-05 08:41:42,628 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-05 08:41:51,127 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-05 08:41:56,031 - INFO - Fetching and processing data for GBPUSD
+2024-12-05 08:41:56,032 - INFO - Fetching historical data for GBPUSD
+2024-12-05 08:42:07,712 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-05 08:42:12,228 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-05 08:42:13,372 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-05 08:42:15,185 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-05 08:42:28,882 - INFO - Fetching and processing data for USDCHF
+2024-12-05 08:42:28,882 - INFO - Fetching historical data for USDCHF
+2024-12-05 08:42:29,196 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-05 08:42:42,473 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-05 08:42:48,884 - INFO - Fetching and processing data for AUDUSD
+2024-12-05 08:42:48,884 - INFO - Fetching historical data for AUDUSD
+2024-12-05 08:42:51,577 - INFO - Finished trading for EURUSD at 2024-12-05 07:41:11.028591+00:00 UTC
+2024-12-05 08:42:56,874 - INFO - Fetching and processing data for USDCAD
+2024-12-05 08:42:56,874 - INFO - Fetching historical data for USDCAD
+2024-12-05 08:42:59,047 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-05 08:43:02,443 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-05 08:43:09,621 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-05 08:43:19,343 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-05 08:43:25,822 - INFO - Fetching and processing data for GBPUSD
+2024-12-05 08:43:25,822 - INFO - Fetching historical data for GBPUSD
+2024-12-05 08:43:39,460 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-05 08:43:45,262 - INFO - Sell order placed successfully for USDCHF.
+2024-12-05 08:43:45,276 - INFO - Finished trading for USDCHF at 2024-12-05 07:41:25.985552+00:00 UTC
+2024-12-05 08:43:45,405 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-05 08:43:49,058 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-05 08:44:08,496 - INFO - Finished trading for AUDUSD at 2024-12-05 07:41:26.048491+00:00 UTC
+2024-12-05 08:44:09,690 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-05 08:44:11,049 - INFO - Buy order placed successfully for USDCAD.
+2024-12-05 08:44:11,049 - INFO - Finished trading for USDCAD at 2024-12-05 07:41:41.002619+00:00 UTC
+2024-12-05 08:44:19,797 - INFO - Buy order placed successfully for GBPUSD.
+2024-12-05 08:44:19,797 - INFO - Finished trading for GBPUSD at 2024-12-05 07:41:56.031540+00:00 UTC
+2024-12-05 08:47:20,734 - INFO - Processing pair: EURUSD for Buy and Sell
+2024-12-05 08:47:20,734 - INFO - Processing pair: GBPUSD for Buy and Sell
+2024-12-05 08:47:20,734 - INFO - Processing pair: USDCAD for Buy and Sell
+2024-12-05 08:47:20,734 - INFO - Processing pair: AUDUSD for Buy and Sell
+2024-12-05 08:47:20,734 - INFO - Processing pair: USDCHF for Buy and Sell
+2024-12-05 08:47:36,192 - INFO - Connected to MetaTrader 5 with login: 52024094
+2024-12-05 08:47:51,217 - INFO - Connected to MetaTrader 5 with login: 51988094
+2024-12-05 08:48:06,232 - INFO - Connected to MetaTrader 5 with login: 51988092
+2024-12-05 08:48:21,251 - INFO - Connected to MetaTrader 5 with login: 51988090
+2024-12-05 08:48:36,308 - INFO - Connected to MetaTrader 5 with login: 52013349
+2024-12-06 01:30:06,669 - INFO - Fetching and processing data for GBPUSD
+2024-12-06 01:30:06,670 - INFO - Fetching historical data for GBPUSD
+2024-12-06 01:30:09,589 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-06 01:30:18,610 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-06 01:30:21,702 - INFO - Fetching and processing data for EURUSD
+2024-12-06 01:30:21,702 - INFO - Fetching historical data for EURUSD
+2024-12-06 01:30:25,887 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-06 01:30:27,392 - INFO - Fetching and processing data for GBPUSD
+2024-12-06 01:30:27,392 - INFO - Fetching historical data for GBPUSD
+2024-12-06 01:30:31,780 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-06 01:30:36,645 - INFO - Fetching and processing data for USDCHF
+2024-12-06 01:30:36,645 - INFO - Fetching historical data for USDCHF
+2024-12-06 01:30:36,781 - INFO - Fetching and processing data for AUDUSD
+2024-12-06 01:30:36,781 - INFO - Fetching historical data for AUDUSD
+2024-12-06 01:30:45,609 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-06 01:30:46,038 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-06 01:30:46,403 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-06 01:30:51,669 - INFO - Fetching and processing data for USDCAD
+2024-12-06 01:30:51,669 - INFO - Fetching historical data for USDCAD
+2024-12-06 01:30:52,424 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-06 01:31:02,539 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-06 01:31:14,038 - INFO - Fetching and processing data for EURUSD
+2024-12-06 01:31:14,039 - INFO - Fetching historical data for EURUSD
+2024-12-06 01:31:18,509 - INFO - Buy order placed successfully for GBPUSD.
+2024-12-06 01:31:18,515 - INFO - Finished trading for GBPUSD at 2024-12-06 00:30:06.669558+00:00 UTC
+2024-12-06 01:31:24,463 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-06 01:31:24,518 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-06 01:31:24,657 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-06 01:31:30,350 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-06 01:31:48,600 - INFO - Fetching and processing data for AUDUSD
+2024-12-06 01:31:48,600 - INFO - Fetching historical data for AUDUSD
+2024-12-06 01:31:49,111 - INFO - Fetching and processing data for USDCHF
+2024-12-06 01:31:49,111 - INFO - Fetching historical data for USDCHF
+2024-12-06 01:31:52,057 - INFO - Fetching and processing data for USDCAD
+2024-12-06 01:31:52,058 - INFO - Fetching historical data for USDCAD
+2024-12-06 01:31:58,162 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-06 01:31:59,046 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-06 01:31:59,468 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-06 01:32:01,492 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-06 01:32:25,636 - INFO - Finished trading for EURUSD at 2024-12-06 00:30:21.702224+00:00 UTC
+2024-12-06 01:32:28,374 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-06 01:32:32,933 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-06 01:32:33,462 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-06 01:32:46,595 - INFO - Finished trading for AUDUSD at 2024-12-06 00:30:36.781478+00:00 UTC
+2024-12-06 01:32:51,453 - INFO - Buy order placed successfully for USDCAD.
+2024-12-06 01:32:51,454 - INFO - Finished trading for USDCAD at 2024-12-06 00:30:51.669541+00:00 UTC
+2024-12-06 01:32:51,957 - INFO - Sell order placed successfully for USDCHF.
+2024-12-06 01:32:51,958 - INFO - Finished trading for USDCHF at 2024-12-06 00:30:36.645896+00:00 UTC
+2024-12-06 08:44:42,154 - INFO - Processing pair: EURUSD for Buy and Sell
+2024-12-06 08:44:42,154 - INFO - Processing pair: GBPUSD for Buy and Sell
+2024-12-06 08:44:42,154 - INFO - Processing pair: USDCAD for Buy and Sell
+2024-12-06 08:44:42,154 - INFO - Processing pair: AUDUSD for Buy and Sell
+2024-12-06 08:44:42,156 - INFO - Processing pair: USDCHF for Buy and Sell
+2024-12-06 08:44:57,711 - INFO - Connected to MetaTrader 5 with login: 51988094
+2024-12-06 08:45:12,717 - INFO - Connected to MetaTrader 5 with login: 52024094
+2024-12-06 08:45:27,732 - INFO - Connected to MetaTrader 5 with login: 51988092
+2024-12-06 08:45:42,749 - INFO - Connected to MetaTrader 5 with login: 51988090
+2024-12-06 08:45:57,772 - INFO - Connected to MetaTrader 5 with login: 52013349
+2024-12-06 23:30:13,105 - INFO - Fetching and processing data for USDCHF
+2024-12-06 23:30:16,023 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-06 23:30:25,044 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-06 23:30:28,122 - INFO - Fetching and processing data for GBPUSD
+2024-12-06 23:30:32,277 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-06 23:30:33,948 - INFO - Fetching and processing data for USDCHF
+2024-12-06 23:30:38,309 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-06 23:30:43,144 - INFO - Fetching and processing data for EURUSD
+2024-12-06 23:30:49,863 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-06 23:30:50,199 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-06 23:30:56,678 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-06 23:30:58,094 - INFO - Fetching and processing data for USDCAD
+2024-12-06 23:30:58,451 - INFO - Fetching and processing data for AUDUSD
+2024-12-06 23:31:07,985 - INFO - Fetching and processing data for GBPUSD
+2024-12-06 23:31:11,419 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-06 23:31:11,427 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-06 23:31:17,452 - ERROR - Order placement failed for USDCHF: 10018. Retrying...
+2024-12-06 23:31:19,665 - ERROR - Order placement failed for USDCHF: 10018. Retrying...
+2024-12-06 23:31:20,690 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-06 23:31:21,344 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-06 23:31:21,882 - ERROR - Order placement failed for USDCHF: 10018. Retrying...
+2024-12-06 23:31:23,886 - ERROR - Order failed after 3 attempts for USDCHF
+2024-12-06 23:31:23,886 - INFO - Finished trading for USDCHF at 2024-12-06 22:30:13.105061+00:00 UTC
+2024-12-06 23:31:43,128 - INFO - Fetching and processing data for EURUSD
+2024-12-06 23:31:46,136 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-06 23:31:46,597 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-06 23:31:50,478 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-06 23:31:51,638 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-06 23:32:10,434 - INFO - Fetching and processing data for USDCAD
+2024-12-06 23:32:10,517 - INFO - Fetching and processing data for AUDUSD
+2024-12-06 23:32:15,861 - ERROR - Order placement failed for GBPUSD: 10018. Retrying...
+2024-12-06 23:32:16,625 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-06 23:32:17,103 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-06 23:32:18,081 - ERROR - Order placement failed for GBPUSD: 10018. Retrying...
+2024-12-06 23:32:20,293 - ERROR - Order placement failed for GBPUSD: 10018. Retrying...
+2024-12-06 23:32:22,294 - ERROR - Order failed after 3 attempts for GBPUSD
+2024-12-06 23:32:22,294 - INFO - Finished trading for GBPUSD at 2024-12-06 22:30:28.122535+00:00 UTC
+2024-12-06 23:32:22,899 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-06 23:32:40,763 - ERROR - Order placement failed for EURUSD: 10018. Retrying...
+2024-12-06 23:32:41,783 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-06 23:32:41,932 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-06 23:32:42,974 - ERROR - Order placement failed for EURUSD: 10018. Retrying...
+2024-12-06 23:32:45,190 - ERROR - Order placement failed for EURUSD: 10018. Retrying...
+2024-12-06 23:32:47,191 - ERROR - Order failed after 3 attempts for EURUSD
+2024-12-06 23:32:47,191 - INFO - Finished trading for EURUSD at 2024-12-06 22:30:43.144273+00:00 UTC
+2024-12-06 23:32:54,406 - ERROR - Order placement failed for USDCAD: 10018. Retrying...
+2024-12-06 23:32:54,431 - INFO - Finished trading for AUDUSD at 2024-12-06 22:30:58.451910+00:00 UTC
+2024-12-06 23:32:56,623 - ERROR - Order placement failed for USDCAD: 10018. Retrying...
+2024-12-06 23:32:58,835 - ERROR - Order placement failed for USDCAD: 10018. Retrying...
+2024-12-06 23:33:00,836 - ERROR - Order failed after 3 attempts for USDCAD
+2024-12-06 23:33:00,836 - INFO - Finished trading for USDCAD at 2024-12-06 22:30:58.093845+00:00 UTC
+2024-12-07 23:30:02,795 - INFO - Fetching and processing data for USDCAD
+2024-12-07 23:30:05,925 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-07 23:30:14,958 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-07 23:30:21,385 - INFO - Fetching and processing data for USDCAD
+2024-12-07 23:30:24,266 - INFO - Fetching and processing data for GBPUSD
+2024-12-07 23:30:24,281 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-07 23:30:25,861 - INFO - Fetching and processing data for USDCHF
+2024-12-07 23:30:30,171 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-07 23:30:32,239 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-07 23:30:44,965 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-07 23:30:49,160 - INFO - Fetching and processing data for EURUSD
+2024-12-07 23:30:56,376 - INFO - Fetching and processing data for AUDUSD
+2024-12-07 23:30:56,867 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-07 23:30:57,106 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-07 23:30:59,346 - ERROR - Order placement failed for USDCAD: 10018. Retrying...
+2024-12-07 23:31:00,412 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-07 23:31:01,573 - ERROR - Order placement failed for USDCAD: 10018. Retrying...
+2024-12-07 23:31:03,798 - ERROR - Order placement failed for USDCAD: 10018. Retrying...
+2024-12-07 23:31:05,535 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-07 23:31:05,799 - ERROR - Order failed after 3 attempts for USDCAD
+2024-12-07 23:31:05,799 - INFO - Finished trading for USDCAD at 2024-12-07 22:30:02.795845+00:00 UTC
+2024-12-07 23:31:18,853 - INFO - Fetching and processing data for GBPUSD
+2024-12-07 23:31:20,538 - INFO - Fetching and processing data for USDCHF
+2024-12-07 23:31:29,333 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-07 23:31:29,544 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-07 23:31:31,674 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-07 23:31:35,533 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-07 23:31:54,913 - INFO - Fetching and processing data for EURUSD
+2024-12-07 23:31:58,203 - INFO - Fetching and processing data for AUDUSD
+2024-12-07 23:32:00,297 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-07 23:32:04,734 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-07 23:32:04,867 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-07 23:32:06,506 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-07 23:32:18,265 - ERROR - Order placement failed for GBPUSD: 10018. Retrying...
+2024-12-07 23:32:20,508 - ERROR - Order placement failed for GBPUSD: 10018. Retrying...
+2024-12-07 23:32:22,736 - ERROR - Order placement failed for GBPUSD: 10018. Retrying...
+2024-12-07 23:32:24,741 - ERROR - Order failed after 3 attempts for GBPUSD
+2024-12-07 23:32:24,742 - INFO - Finished trading for GBPUSD at 2024-12-07 22:30:24.266350+00:00 UTC
+2024-12-07 23:32:28,948 - ERROR - Order placement failed for USDCHF: 10018. Retrying...
+2024-12-07 23:32:31,179 - ERROR - Order placement failed for USDCHF: 10018. Retrying...
+2024-12-07 23:32:33,403 - ERROR - Order placement failed for USDCHF: 10018. Retrying...
+2024-12-07 23:32:34,104 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-07 23:32:34,108 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-07 23:32:35,405 - ERROR - Order failed after 3 attempts for USDCHF
+2024-12-07 23:32:35,405 - INFO - Finished trading for USDCHF at 2024-12-07 22:30:25.861959+00:00 UTC
+2024-12-07 23:32:47,185 - ERROR - Order placement failed for EURUSD: 10018. Retrying...
+2024-12-07 23:32:47,187 - INFO - Finished trading for AUDUSD at 2024-12-07 22:30:56.376937+00:00 UTC
+2024-12-07 23:32:49,411 - ERROR - Order placement failed for EURUSD: 10018. Retrying...
+2024-12-07 23:32:51,638 - ERROR - Order placement failed for EURUSD: 10018. Retrying...
+2024-12-07 23:32:53,639 - ERROR - Order failed after 3 attempts for EURUSD
+2024-12-07 23:32:53,639 - INFO - Finished trading for EURUSD at 2024-12-07 22:30:49.160626+00:00 UTC
+2024-12-08 23:30:06,472 - INFO - Fetching and processing data for USDCAD
+2024-12-08 23:30:09,507 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-08 23:30:18,488 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-08 23:30:24,801 - INFO - Fetching and processing data for USDCAD
+2024-12-08 23:30:25,414 - INFO - Fetching and processing data for GBPUSD
+2024-12-08 23:30:28,670 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-08 23:30:29,562 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-08 23:30:36,062 - INFO - Fetching and processing data for USDCHF
+2024-12-08 23:30:41,713 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-08 23:30:46,435 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-08 23:30:47,860 - INFO - Fetching and processing data for AUDUSD
+2024-12-08 23:30:48,012 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-08 23:30:54,323 - INFO - Fetching and processing data for EURUSD
+2024-12-08 23:30:58,728 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-08 23:31:08,315 - INFO - Sell order placed successfully for USDCAD.
+2024-12-08 23:31:08,315 - INFO - Finished trading for USDCAD at 2024-12-08 22:30:06.472920+00:00 UTC
+2024-12-08 23:31:08,934 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-08 23:31:10,598 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-08 23:31:11,181 - INFO - Fetching and processing data for GBPUSD
+2024-12-08 23:31:21,764 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-08 23:31:29,004 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-08 23:31:33,760 - INFO - Fetching and processing data for USDCHF
+2024-12-08 23:31:39,728 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-08 23:31:44,600 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-08 23:31:48,649 - INFO - Fetching and processing data for AUDUSD
+2024-12-08 23:31:51,184 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-08 23:31:58,966 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-08 23:32:01,706 - INFO - Fetching and processing data for EURUSD
+2024-12-08 23:32:11,135 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-08 23:32:14,147 - INFO - Buy order placed successfully for GBPUSD.
+2024-12-08 23:32:14,152 - INFO - Finished trading for GBPUSD at 2024-12-08 22:30:25.414993+00:00 UTC
+2024-12-08 23:32:17,011 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-08 23:32:28,309 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-08 23:32:34,677 - INFO - Sell order placed successfully for USDCHF.
+2024-12-08 23:32:34,677 - INFO - Finished trading for USDCHF at 2024-12-08 22:30:36.062086+00:00 UTC
+2024-12-08 23:32:35,181 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-08 23:32:42,672 - INFO - Finished trading for AUDUSD at 2024-12-08 22:30:47.860455+00:00 UTC
+2024-12-08 23:32:46,066 - INFO - Buy order placed successfully for EURUSD.
+2024-12-08 23:32:46,066 - INFO - Finished trading for EURUSD at 2024-12-08 22:30:54.323279+00:00 UTC
+2024-12-09 05:51:13,333 - INFO - Processing pair: EURUSD for Buy and Sell
+2024-12-09 05:51:13,333 - INFO - Processing pair: GBPUSD for Buy and Sell
+2024-12-09 05:51:13,333 - INFO - Processing pair: USDCAD for Buy and Sell
+2024-12-09 05:51:13,333 - INFO - Processing pair: AUDUSD for Buy and Sell
+2024-12-09 05:51:13,333 - INFO - Processing pair: USDCHF for Buy and Sell
+2024-12-09 05:51:31,228 - INFO - Connected to MetaTrader 5 with login: 52024094
+2024-12-09 05:51:46,261 - INFO - Connected to MetaTrader 5 with login: 51988094
+2024-12-09 05:52:01,292 - INFO - Connected to MetaTrader 5 with login: 51988092
+2024-12-09 05:52:16,313 - INFO - Connected to MetaTrader 5 with login: 51988090
+2024-12-09 05:52:31,352 - INFO - Connected to MetaTrader 5 with login: 52013349
+2024-12-09 18:02:02,174 - INFO - Processing pair: EURUSD for Buy and Sell
+2024-12-09 18:02:02,174 - INFO - Processing pair: GBPUSD for Buy and Sell
+2024-12-09 18:02:02,174 - INFO - Processing pair: USDCAD for Buy and Sell
+2024-12-09 18:02:02,174 - INFO - Processing pair: AUDUSD for Buy and Sell
+2024-12-09 18:02:02,174 - INFO - Processing pair: USDCHF for Buy and Sell
+2024-12-09 18:02:17,812 - INFO - Connected to MetaTrader 5 with login: 51988094
+2024-12-09 18:02:32,832 - INFO - Connected to MetaTrader 5 with login: 52024094
+2024-12-09 18:02:47,849 - INFO - Connected to MetaTrader 5 with login: 51988090
+2024-12-09 18:03:02,874 - INFO - Connected to MetaTrader 5 with login: 51988092
+2024-12-09 18:03:19,180 - INFO - Connected to MetaTrader 5 with login: 52013349
+2024-12-09 23:30:03,071 - INFO - Fetching and processing data for GBPUSD
+2024-12-09 23:30:06,086 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-09 23:30:15,412 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-09 23:30:18,004 - INFO - Fetching and processing data for USDCAD
+2024-12-09 23:30:19,380 - INFO - Fetching and processing data for AUDUSD
+2024-12-09 23:30:24,622 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-09 23:30:26,511 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-09 23:30:26,981 - INFO - Fetching and processing data for GBPUSD
+2024-12-09 23:30:33,026 - INFO - Fetching and processing data for USDCHF
+2024-12-09 23:30:34,850 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-09 23:30:44,553 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-09 23:30:48,053 - INFO - Fetching and processing data for EURUSD
+2024-12-09 23:30:49,313 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-09 23:30:57,189 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-09 23:31:01,503 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-09 23:31:07,307 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-09 23:31:14,521 - INFO - Fetching and processing data for USDCAD
+2024-12-09 23:31:20,826 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-09 23:31:27,789 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-09 23:31:28,908 - INFO - Fetching and processing data for AUDUSD
+2024-12-09 23:31:36,560 - INFO - Finished trading for GBPUSD at 2024-12-09 22:30:03.071462+00:00 UTC
+2024-12-09 23:31:43,699 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-09 23:31:44,242 - INFO - Fetching and processing data for USDCHF
+2024-12-09 23:31:45,244 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-09 23:31:54,837 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-09 23:32:03,480 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-09 23:32:13,640 - INFO - Fetching and processing data for EURUSD
+2024-12-09 23:32:21,678 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-09 23:32:26,869 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-09 23:32:27,926 - INFO - Buy order placed successfully for USDCAD.
+2024-12-09 23:32:27,926 - INFO - Finished trading for USDCAD at 2024-12-09 22:30:18.004716+00:00 UTC
+2024-12-09 23:32:29,985 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-09 23:32:41,566 - INFO - Sell order placed successfully for AUDUSD.
+2024-12-09 23:32:41,566 - INFO - Finished trading for AUDUSD at 2024-12-09 22:30:19.380931+00:00 UTC
+2024-12-09 23:32:49,200 - INFO - Sell order placed successfully for USDCHF.
+2024-12-09 23:32:49,200 - INFO - Finished trading for USDCHF at 2024-12-09 22:30:33.026905+00:00 UTC
+2024-12-09 23:32:50,205 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-09 23:32:59,336 - INFO - Finished trading for EURUSD at 2024-12-09 22:30:48.053117+00:00 UTC
+2024-12-11 17:20:21,059 - INFO - Processing pair: EURUSD for Buy and Sell
+2024-12-11 17:20:21,059 - INFO - Processing pair: GBPUSD for Buy and Sell
+2024-12-11 17:20:21,059 - INFO - Processing pair: USDCAD for Buy and Sell
+2024-12-11 17:20:21,059 - INFO - Processing pair: AUDUSD for Buy and Sell
+2024-12-11 17:20:21,059 - INFO - Processing pair: USDCHF for Buy and Sell
+2024-12-11 17:20:37,191 - INFO - Connected to MetaTrader 5 with login: 52024094
+2024-12-11 17:20:52,285 - INFO - Connected to MetaTrader 5 with login: 51988094
+2024-12-11 17:21:07,385 - INFO - Connected to MetaTrader 5 with login: 51988092
+2024-12-11 17:21:22,472 - INFO - Connected to MetaTrader 5 with login: 51988090
+2024-12-11 17:21:39,325 - INFO - Connected to MetaTrader 5 with login: 52013349
+2024-12-16 05:38:52,485 - INFO - Processing pair: EURUSD for Buy and Sell
+2024-12-16 05:38:52,485 - INFO - Processing pair: GBPUSD for Buy and Sell
+2024-12-16 05:38:52,485 - INFO - Processing pair: USDCAD for Buy and Sell
+2024-12-16 05:38:52,485 - INFO - Processing pair: AUDUSD for Buy and Sell
+2024-12-16 05:38:52,485 - INFO - Processing pair: USDCHF for Buy and Sell
+2024-12-16 05:39:08,579 - INFO - Connected to MetaTrader 5 with login: 51988094
+2024-12-16 05:39:23,670 - INFO - Connected to MetaTrader 5 with login: 52024094
+2024-12-16 05:39:38,748 - INFO - Connected to MetaTrader 5 with login: 51988092
+2024-12-16 05:39:53,824 - INFO - Connected to MetaTrader 5 with login: 51988090
+2024-12-16 05:40:08,959 - INFO - Connected to MetaTrader 5 with login: 52013349
+2024-12-16 05:41:08,590 - INFO - Fetching and processing data for USDCAD
+2024-12-16 05:41:08,723 - ERROR - No historical data found for USDCAD in the given date range.
+2024-12-16 05:41:08,723 - ERROR - No historical data found for USDCAD.
+2024-12-16 05:41:08,723 - ERROR - No valid data for USDCAD. Skipping predictions.
+2024-12-16 05:41:08,723 - INFO - Fetching and processing data for USDCAD
+2024-12-16 05:41:08,966 - INFO - Fetching and processing data for AUDUSD
+2024-12-16 05:41:13,320 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-16 05:41:13,335 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-16 05:41:23,672 - INFO - Fetching and processing data for USDCHF
+2024-12-16 05:41:29,608 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-16 05:41:32,611 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-16 05:41:33,119 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-16 05:41:38,755 - INFO - Fetching and processing data for GBPUSD
+2024-12-16 05:41:48,972 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-16 05:41:53,939 - INFO - Fetching and processing data for EURUSD
+2024-12-16 05:41:54,856 - INFO - Finished trading for USDCAD at 2024-12-16 04:41:08.590771+00:00 UTC
+2024-12-16 05:41:56,659 - INFO - Fetching and processing data for AUDUSD
+2024-12-16 05:41:57,289 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-16 05:42:06,150 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-16 05:42:07,181 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-16 05:42:16,940 - INFO - Fetching and processing data for USDCHF
+2024-12-16 05:42:17,770 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-16 05:42:27,793 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-16 05:42:44,474 - INFO - Fetching and processing data for GBPUSD
+2024-12-16 05:42:45,349 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-16 05:42:47,907 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-16 05:42:55,041 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-16 05:43:01,654 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-16 05:43:09,909 - INFO - Fetching and processing data for EURUSD
+2024-12-16 05:43:18,836 - INFO - Sell order placed successfully for AUDUSD.
+2024-12-16 05:43:18,836 - INFO - Finished trading for AUDUSD at 2024-12-16 04:41:08.966840+00:00 UTC
+2024-12-16 05:43:19,634 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-16 05:43:25,962 - INFO - Finished trading for USDCHF at 2024-12-16 04:41:23.672902+00:00 UTC
+2024-12-16 05:43:28,758 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-16 05:43:41,688 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-16 05:43:43,646 - INFO - Sell order placed successfully for GBPUSD.
+2024-12-16 05:43:43,646 - INFO - Finished trading for GBPUSD at 2024-12-16 04:41:38.755464+00:00 UTC
+2024-12-16 05:43:51,833 - INFO - Buy order placed successfully for EURUSD.
+2024-12-16 05:43:51,833 - INFO - Finished trading for EURUSD at 2024-12-16 04:41:53.939828+00:00 UTC
+2024-12-16 06:03:24,353 - INFO - Connected to MetaTrader 5 with login: 51988090
+2024-12-16 06:04:03,981 - INFO - Killing any existing MetaTrader5 terminals.
+2024-12-16 15:12:02,153 - INFO - Processing pair: EURUSD for Buy and Sell
+2024-12-16 15:12:02,154 - INFO - Processing pair: GBPUSD for Buy and Sell
+2024-12-16 15:12:02,154 - INFO - Processing pair: USDCAD for Buy and Sell
+2024-12-16 15:12:02,154 - INFO - Processing pair: AUDUSD for Buy and Sell
+2024-12-16 15:12:02,154 - INFO - Processing pair: USDCHF for Buy and Sell
+2024-12-16 15:12:18,317 - INFO - Connected to MetaTrader 5 with login: 52024094
+2024-12-16 15:12:35,122 - INFO - Connected to MetaTrader 5 with login: 51988094
+2024-12-16 15:12:50,209 - INFO - Connected to MetaTrader 5 with login: 51988090
+2024-12-16 15:13:05,303 - INFO - Connected to MetaTrader 5 with login: 51988092
+2024-12-16 15:13:20,409 - INFO - Connected to MetaTrader 5 with login: 52013349
+2024-12-17 04:10:45,618 - INFO - Processing pair: EURUSD for Buy and Sell
+2024-12-17 04:10:45,618 - INFO - Processing pair: GBPUSD for Buy and Sell
+2024-12-17 04:10:45,618 - INFO - Processing pair: USDCAD for Buy and Sell
+2024-12-17 04:10:45,619 - INFO - Processing pair: AUDUSD for Buy and Sell
+2024-12-17 04:10:45,623 - INFO - Processing pair: USDCHF for Buy and Sell
+2024-12-17 04:11:01,187 - INFO - Connected to MetaTrader 5 with login: 52024094
+2024-12-17 04:11:16,195 - INFO - Connected to MetaTrader 5 with login: 51988094
+2024-12-17 04:11:31,215 - INFO - Connected to MetaTrader 5 with login: 51988092
+2024-12-17 04:11:46,237 - INFO - Connected to MetaTrader 5 with login: 51988090
+2024-12-17 04:12:01,253 - INFO - Connected to MetaTrader 5 with login: 52013349
+2024-12-17 04:14:01,190 - INFO - Fetching and processing data for USDCHF
+2024-12-17 04:14:01,265 - INFO - Fetching and processing data for AUDUSD
+2024-12-17 04:14:05,397 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-17 04:14:05,402 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-17 04:14:16,208 - INFO - Fetching and processing data for USDCAD
+2024-12-17 04:14:22,577 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-17 04:14:22,969 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-17 04:14:22,977 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-17 04:14:31,227 - INFO - Fetching and processing data for GBPUSD
+2024-12-17 04:14:39,239 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-17 04:14:45,048 - INFO - Fetching and processing data for USDCHF
+2024-12-17 04:14:45,107 - INFO - Fetching and processing data for AUDUSD
+2024-12-17 04:14:46,256 - INFO - Fetching and processing data for EURUSD
+2024-12-17 04:14:57,862 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-17 04:14:58,455 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-17 04:14:59,134 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-17 04:14:59,146 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-17 04:15:03,231 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-17 04:15:26,053 - INFO - Fetching and processing data for USDCAD
+2024-12-17 04:15:32,679 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-17 04:15:33,159 - INFO - Fetching and processing data for GBPUSD
+2024-12-17 04:15:41,315 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-17 04:15:44,378 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-17 04:15:46,810 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-17 04:15:46,998 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-17 04:16:08,856 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-17 04:16:17,340 - INFO - Finished trading for AUDUSD at 2024-12-17 03:14:01.265238+00:00 UTC
+2024-12-17 04:16:24,149 - INFO - Buy order placed successfully for USDCHF.
+2024-12-17 04:16:24,149 - INFO - Finished trading for USDCHF at 2024-12-17 03:14:01.190095+00:00 UTC
+2024-12-17 04:16:24,447 - INFO - Fetching and processing data for EURUSD
+2024-12-17 04:16:29,990 - INFO - Buy order placed successfully for USDCAD.
+2024-12-17 04:16:29,990 - INFO - Finished trading for USDCAD at 2024-12-17 03:14:16.208804+00:00 UTC
+2024-12-17 04:16:31,330 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-17 04:16:31,361 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-17 04:16:46,315 - INFO - Finished trading for GBPUSD at 2024-12-17 03:14:31.226002+00:00 UTC
+2024-12-17 04:16:50,079 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-17 04:17:00,289 - INFO - Buy order placed successfully for EURUSD.
+2024-12-17 04:17:00,289 - INFO - Finished trading for EURUSD at 2024-12-17 03:14:46.256337+00:00 UTC
+2024-12-17 17:45:22,637 - INFO - Processing pair: EURUSD for Buy and Sell
+2024-12-17 17:45:22,637 - INFO - Processing pair: GBPUSD for Buy and Sell
+2024-12-17 17:45:22,637 - INFO - Processing pair: USDCAD for Buy and Sell
+2024-12-17 17:45:22,637 - INFO - Processing pair: AUDUSD for Buy and Sell
+2024-12-17 17:45:22,637 - INFO - Processing pair: USDCHF for Buy and Sell
+2024-12-17 17:45:38,204 - INFO - Connected to MetaTrader 5 with login: 51988094
+2024-12-17 17:45:53,212 - INFO - Connected to MetaTrader 5 with login: 52024094
+2024-12-17 17:46:08,228 - INFO - Connected to MetaTrader 5 with login: 51988092
+2024-12-17 17:46:23,238 - INFO - Connected to MetaTrader 5 with login: 51988090
+2024-12-17 17:46:38,266 - INFO - Connected to MetaTrader 5 with login: 52013349
+2024-12-17 23:30:08,422 - INFO - Fetching and processing data for GBPUSD
+2024-12-17 23:30:11,451 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-17 23:30:20,946 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-17 23:30:23,445 - INFO - Fetching and processing data for EURUSD
+2024-12-17 23:30:27,851 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-17 23:30:31,137 - INFO - Fetching and processing data for GBPUSD
+2024-12-17 23:30:35,610 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-17 23:30:38,402 - INFO - Fetching and processing data for USDCAD
+2024-12-17 23:30:38,643 - INFO - Fetching and processing data for AUDUSD
+2024-12-17 23:30:48,962 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-17 23:30:50,002 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-17 23:30:50,014 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-17 23:30:53,422 - INFO - Fetching and processing data for USDCHF
+2024-12-17 23:30:58,404 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-17 23:31:05,678 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-17 23:31:15,611 - INFO - Fetching and processing data for EURUSD
+2024-12-17 23:31:25,240 - INFO - Finished trading for GBPUSD at 2024-12-17 22:30:08.422550+00:00 UTC
+2024-12-17 23:31:26,591 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-17 23:31:30,727 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-17 23:31:31,683 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-17 23:31:39,204 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-17 23:31:54,982 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-17 23:31:58,642 - INFO - Fetching and processing data for USDCAD
+2024-12-17 23:32:00,154 - INFO - Fetching and processing data for AUDUSD
+2024-12-17 23:32:03,632 - INFO - Fetching and processing data for USDCHF
+2024-12-17 23:32:09,321 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-17 23:32:14,654 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-17 23:32:15,668 - INFO - Buy order placed successfully for EURUSD.
+2024-12-17 23:32:15,684 - INFO - Finished trading for EURUSD at 2024-12-17 22:30:23.445988+00:00 UTC
+2024-12-17 23:32:15,790 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-17 23:32:34,905 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-17 23:32:44,740 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-17 23:32:44,754 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-17 23:32:52,416 - INFO - Buy order placed successfully for USDCAD.
+2024-12-17 23:32:52,431 - INFO - Finished trading for USDCAD at 2024-12-17 22:30:38.402093+00:00 UTC
+2024-12-17 23:33:02,049 - INFO - Buy order placed successfully for USDCHF.
+2024-12-17 23:33:02,049 - INFO - Finished trading for USDCHF at 2024-12-17 22:30:53.422461+00:00 UTC
+2024-12-17 23:33:02,049 - INFO - Finished trading for AUDUSD at 2024-12-17 22:30:38.643498+00:00 UTC
+2024-12-18 19:01:53,479 - INFO - Processing pair: EURUSD for Buy and Sell
+2024-12-18 19:01:53,479 - INFO - Processing pair: GBPUSD for Buy and Sell
+2024-12-18 19:01:53,479 - INFO - Processing pair: USDCAD for Buy and Sell
+2024-12-18 19:01:53,479 - INFO - Processing pair: AUDUSD for Buy and Sell
+2024-12-18 19:01:53,480 - INFO - Processing pair: USDCHF for Buy and Sell
+2024-12-18 19:02:09,570 - INFO - Connected to MetaTrader 5 with login: 51988094
+2024-12-18 19:02:24,649 - INFO - Connected to MetaTrader 5 with login: 52024094
+2024-12-18 19:02:39,730 - INFO - Connected to MetaTrader 5 with login: 51988092
+2024-12-18 19:02:54,794 - INFO - Connected to MetaTrader 5 with login: 51988090
+2024-12-18 19:03:10,944 - INFO - Connected to MetaTrader 5 with login: 52013349
+2024-12-18 23:30:09,733 - INFO - Fetching and processing data for USDCAD
+2024-12-18 23:30:11,101 - INFO - Fetching and processing data for AUDUSD
+2024-12-18 23:30:13,362 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-18 23:30:14,951 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-18 23:30:24,807 - INFO - Fetching and processing data for USDCHF
+2024-12-18 23:30:29,242 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-18 23:30:30,565 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-18 23:30:30,976 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-18 23:30:39,878 - INFO - Fetching and processing data for GBPUSD
+2024-12-18 23:30:45,775 - INFO - Fetching and processing data for USDCAD
+2024-12-18 23:30:49,198 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-18 23:30:50,028 - INFO - Fetching and processing data for AUDUSD
+2024-12-18 23:30:51,592 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-18 23:30:54,952 - INFO - Fetching and processing data for EURUSD
+2024-12-18 23:30:59,735 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-18 23:30:59,754 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-18 23:31:09,342 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-18 23:31:21,198 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-18 23:31:25,861 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-18 23:31:33,701 - INFO - Fetching and processing data for USDCHF
+2024-12-18 23:31:44,935 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-18 23:31:45,264 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-18 23:31:48,304 - INFO - Fetching and processing data for GBPUSD
+2024-12-18 23:31:51,963 - INFO - Buy order placed successfully for USDCAD.
+2024-12-18 23:31:51,963 - INFO - Finished trading for USDCAD at 2024-12-18 22:30:09.733124+00:00 UTC
+2024-12-18 23:31:52,116 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-18 23:31:58,534 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-18 23:32:12,980 - INFO - Sell order placed successfully for AUDUSD.
+2024-12-18 23:32:12,997 - INFO - Finished trading for AUDUSD at 2024-12-18 22:30:11.101092+00:00 UTC
+2024-12-18 23:32:16,317 - INFO - Fetching and processing data for EURUSD
+2024-12-18 23:32:19,174 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-18 23:32:23,036 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-18 23:32:26,914 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-18 23:32:37,391 - INFO - Sell order placed successfully for USDCHF.
+2024-12-18 23:32:37,391 - INFO - Finished trading for USDCHF at 2024-12-18 22:30:24.807656+00:00 UTC
+2024-12-18 23:32:44,578 - INFO - Finished trading for GBPUSD at 2024-12-18 22:30:39.878814+00:00 UTC
+2024-12-18 23:32:45,524 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-18 23:32:54,803 - INFO - Buy order placed successfully for EURUSD.
+2024-12-18 23:32:54,803 - INFO - Finished trading for EURUSD at 2024-12-18 22:30:54.952577+00:00 UTC
+2024-12-19 23:30:13,822 - INFO - Fetching and processing data for AUDUSD
+2024-12-19 23:30:16,883 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-19 23:30:26,257 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-19 23:30:32,865 - INFO - Fetching and processing data for AUDUSD
+2024-12-19 23:30:35,786 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-19 23:30:38,219 - INFO - Fetching and processing data for USDCHF
+2024-12-19 23:30:42,586 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-19 23:30:45,389 - INFO - Fetching and processing data for GBPUSD
+2024-12-19 23:30:51,937 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-19 23:30:52,780 - INFO - Fetching and processing data for USDCAD
+2024-12-19 23:30:55,643 - INFO - Fetching and processing data for EURUSD
+2024-12-19 23:30:56,894 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-19 23:31:00,557 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-19 23:31:09,906 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-19 23:31:10,820 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-19 23:31:21,752 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-19 23:31:22,945 - INFO - Sell order placed successfully for AUDUSD.
+2024-12-19 23:31:22,945 - INFO - Finished trading for AUDUSD at 2024-12-19 22:30:13.822732+00:00 UTC
+2024-12-19 23:31:36,585 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-19 23:31:37,041 - INFO - Fetching and processing data for USDCHF
+2024-12-19 23:31:43,382 - INFO - Fetching and processing data for GBPUSD
+2024-12-19 23:31:48,081 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-19 23:31:48,144 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-19 23:31:56,492 - INFO - Fetching and processing data for USDCAD
+2024-12-19 23:31:56,975 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-19 23:32:06,642 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-19 23:32:15,198 - INFO - Fetching and processing data for EURUSD
+2024-12-19 23:32:23,680 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-19 23:32:25,644 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-19 23:32:32,091 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-19 23:32:40,077 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-19 23:32:50,601 - INFO - Sell order placed successfully for USDCHF.
+2024-12-19 23:32:50,639 - INFO - Finished trading for USDCHF at 2024-12-19 22:30:38.219996+00:00 UTC
+2024-12-19 23:32:56,998 - INFO - Finished trading for GBPUSD at 2024-12-19 22:30:45.389779+00:00 UTC
+2024-12-19 23:32:58,936 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-19 23:33:01,360 - INFO - Buy order placed successfully for USDCAD.
+2024-12-19 23:33:01,360 - INFO - Finished trading for USDCAD at 2024-12-19 22:30:52.780364+00:00 UTC
+2024-12-19 23:33:09,183 - INFO - Buy order placed successfully for EURUSD.
+2024-12-19 23:33:09,183 - INFO - Finished trading for EURUSD at 2024-12-19 22:30:55.643390+00:00 UTC
+2024-12-20 23:30:02,195 - INFO - Fetching and processing data for USDCAD
+2024-12-20 23:30:05,105 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-20 23:30:10,010 - INFO - Fetching and processing data for EURUSD
+2024-12-20 23:30:13,701 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-20 23:30:16,828 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-20 23:30:23,773 - INFO - Fetching and processing data for AUDUSD
+2024-12-20 23:30:28,977 - INFO - Fetching and processing data for USDCAD
+2024-12-20 23:30:29,943 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-20 23:30:30,764 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-20 23:30:35,587 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-20 23:30:47,389 - INFO - Fetching and processing data for EURUSD
+2024-12-20 23:30:51,562 - INFO - Fetching and processing data for USDCHF
+2024-12-20 23:30:54,675 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-20 23:30:55,090 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-20 23:30:57,847 - INFO - Fetching and processing data for GBPUSD
+2024-12-20 23:31:01,033 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-20 23:31:01,663 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-20 23:31:09,893 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-20 23:31:22,855 - INFO - Fetching and processing data for AUDUSD
+2024-12-20 23:31:34,238 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-20 23:31:34,238 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-20 23:31:34,792 - ERROR - Order placement failed for USDCAD: 10018. Retrying...
+2024-12-20 23:31:37,035 - ERROR - Order placement failed for USDCAD: 10018. Retrying...
+2024-12-20 23:31:39,342 - ERROR - Order placement failed for USDCAD: 10018. Retrying...
+2024-12-20 23:31:41,344 - ERROR - Order failed after 3 attempts for USDCAD
+2024-12-20 23:31:41,344 - INFO - Finished trading for USDCAD at 2024-12-20 22:30:02.195785+00:00 UTC
+2024-12-20 23:31:43,826 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-20 23:31:49,335 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-20 23:32:00,614 - ERROR - Order placement failed for EURUSD: 10018. Retrying...
+2024-12-20 23:32:02,914 - ERROR - Order placement failed for EURUSD: 10018. Retrying...
+2024-12-20 23:32:05,119 - ERROR - Order placement failed for EURUSD: 10018. Retrying...
+2024-12-20 23:32:07,144 - ERROR - Order failed after 3 attempts for EURUSD
+2024-12-20 23:32:07,144 - INFO - Finished trading for EURUSD at 2024-12-20 22:30:10.010960+00:00 UTC
+2024-12-20 23:32:07,144 - INFO - Fetching and processing data for USDCHF
+2024-12-20 23:32:08,327 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-20 23:32:11,816 - INFO - Fetching and processing data for GBPUSD
+2024-12-20 23:32:14,623 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-20 23:32:21,277 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-20 23:32:25,491 - ERROR - Order placement failed for AUDUSD: 10018. Retrying...
+2024-12-20 23:32:27,700 - ERROR - Order placement failed for AUDUSD: 10018. Retrying...
+2024-12-20 23:32:29,909 - ERROR - Order placement failed for AUDUSD: 10018. Retrying...
+2024-12-20 23:32:31,923 - ERROR - Order failed after 3 attempts for AUDUSD
+2024-12-20 23:32:31,923 - INFO - Finished trading for AUDUSD at 2024-12-20 22:30:23.773544+00:00 UTC
+2024-12-20 23:32:38,336 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-20 23:32:42,377 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-20 23:32:53,316 - ERROR - Order placement failed for USDCHF: 10018. Retrying...
+2024-12-20 23:32:55,554 - ERROR - Order placement failed for USDCHF: 10018. Retrying...
+2024-12-20 23:32:55,648 - INFO - Finished trading for GBPUSD at 2024-12-20 22:30:57.847710+00:00 UTC
+2024-12-20 23:32:57,762 - ERROR - Order placement failed for USDCHF: 10018. Retrying...
+2024-12-20 23:32:59,768 - ERROR - Order failed after 3 attempts for USDCHF
+2024-12-20 23:32:59,768 - INFO - Finished trading for USDCHF at 2024-12-20 22:30:51.562042+00:00 UTC
+2024-12-24 18:35:35,477 - INFO - Processing pair: EURUSD for Buy and Sell
+2024-12-24 18:35:35,478 - INFO - Processing pair: GBPUSD for Buy and Sell
+2024-12-24 18:35:35,478 - INFO - Processing pair: USDCAD for Buy and Sell
+2024-12-24 18:35:35,478 - INFO - Processing pair: AUDUSD for Buy and Sell
+2024-12-24 18:35:35,479 - INFO - Processing pair: USDCHF for Buy and Sell
+2024-12-24 18:35:51,574 - INFO - Connected to MetaTrader 5 with login: 52024094
+2024-12-24 18:36:06,647 - INFO - Connected to MetaTrader 5 with login: 51988092
+2024-12-24 18:36:21,759 - INFO - Connected to MetaTrader 5 with login: 51988094
+2024-12-24 18:36:36,853 - INFO - Connected to MetaTrader 5 with login: 51988090
+2024-12-24 18:36:51,951 - INFO - Connected to MetaTrader 5 with login: 52013349
+2024-12-24 23:30:06,839 - INFO - Fetching and processing data for GBPUSD
+2024-12-24 23:30:09,938 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-24 23:30:19,588 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-24 23:30:21,941 - INFO - Fetching and processing data for USDCAD
+2024-12-24 23:30:26,287 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-24 23:30:29,345 - INFO - Fetching and processing data for GBPUSD
+2024-12-24 23:30:33,606 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-24 23:30:37,050 - INFO - Fetching and processing data for EURUSD
+2024-12-24 23:30:43,871 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-24 23:30:45,048 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-24 23:30:51,759 - INFO - Fetching and processing data for USDCHF
+2024-12-24 23:30:52,140 - INFO - Fetching and processing data for AUDUSD
+2024-12-24 23:30:52,688 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-24 23:31:02,013 - INFO - Fetching and processing data for USDCAD
+2024-12-24 23:31:05,068 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-24 23:31:05,481 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-24 23:31:13,838 - ERROR - Order placement failed for GBPUSD: 10018. Retrying...
+2024-12-24 23:31:13,945 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-24 23:31:16,069 - ERROR - Order placement failed for GBPUSD: 10018. Retrying...
+2024-12-24 23:31:16,967 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-24 23:31:18,330 - ERROR - Order placement failed for GBPUSD: 10018. Retrying...
+2024-12-24 23:31:20,334 - ERROR - Order failed after 3 attempts for GBPUSD
+2024-12-24 23:31:20,334 - INFO - Finished trading for GBPUSD at 2024-12-24 22:30:06.839513+00:00 UTC
+2024-12-24 23:31:39,565 - INFO - Fetching and processing data for EURUSD
+2024-12-24 23:31:41,797 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-24 23:31:41,812 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-24 23:31:44,593 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-24 23:31:49,464 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-24 23:32:09,198 - INFO - Fetching and processing data for AUDUSD
+2024-12-24 23:32:09,352 - INFO - Fetching and processing data for USDCHF
+2024-12-24 23:32:09,488 - INFO - Finished trading for USDCAD at 2024-12-24 22:30:21.941755+00:00 UTC
+2024-12-24 23:32:16,266 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-24 23:32:16,268 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-24 23:32:20,780 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-24 23:32:42,435 - ERROR - Order placement failed for EURUSD: 10018. Retrying...
+2024-12-24 23:32:43,456 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-24 23:32:43,690 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2024-12-24 23:32:44,672 - ERROR - Order placement failed for EURUSD: 10018. Retrying...
+2024-12-24 23:32:46,909 - ERROR - Order placement failed for EURUSD: 10018. Retrying...
+2024-12-24 23:32:48,910 - ERROR - Order failed after 3 attempts for EURUSD
+2024-12-24 23:32:48,910 - INFO - Finished trading for EURUSD at 2024-12-24 22:30:37.050547+00:00 UTC
+2024-12-24 23:32:57,763 - INFO - Finished trading for AUDUSD at 2024-12-24 22:30:52.140811+00:00 UTC
+2024-12-24 23:32:58,021 - ERROR - Order placement failed for USDCHF: 10018. Retrying...
+2024-12-24 23:33:00,261 - ERROR - Order placement failed for USDCHF: 10018. Retrying...
+2024-12-24 23:33:02,492 - ERROR - Order placement failed for USDCHF: 10018. Retrying...
+2024-12-24 23:33:04,508 - ERROR - Order failed after 3 attempts for USDCHF
+2024-12-24 23:33:04,508 - INFO - Finished trading for USDCHF at 2024-12-24 22:30:51.759120+00:00 UTC
+2025-01-07 01:52:31,371 - INFO - Processing pair: EURUSD for Buy and Sell
+2025-01-07 01:52:31,373 - INFO - Processing pair: GBPUSD for Buy and Sell
+2025-01-07 01:52:31,373 - INFO - Processing pair: USDCAD for Buy and Sell
+2025-01-07 01:52:31,374 - INFO - Processing pair: AUDUSD for Buy and Sell
+2025-01-07 01:52:31,374 - INFO - Processing pair: USDCHF for Buy and Sell
+2025-01-07 01:52:47,622 - INFO - Connected to MetaTrader 5 with login: 52024094
+2025-01-07 01:53:02,780 - INFO - Connected to MetaTrader 5 with login: 51988094
+2025-01-07 01:53:17,938 - INFO - Connected to MetaTrader 5 with login: 51988092
+2025-01-07 01:53:33,092 - INFO - Connected to MetaTrader 5 with login: 51988090
+2025-01-07 01:53:49,007 - INFO - Connected to MetaTrader 5 with login: 52013349
+2025-01-07 02:06:55,070 - INFO - Processing pair: EURUSD for Buy and Sell
+2025-01-07 02:06:55,070 - INFO - Processing pair: GBPUSD for Buy and Sell
+2025-01-07 02:06:55,070 - INFO - Processing pair: USDCAD for Buy and Sell
+2025-01-07 02:06:55,070 - INFO - Processing pair: AUDUSD for Buy and Sell
+2025-01-07 02:06:55,070 - INFO - Processing pair: USDCHF for Buy and Sell
+2025-01-07 02:07:12,711 - INFO - Connected to MetaTrader 5 with login: 52024094
+2025-01-07 02:07:22,482 - INFO - Processing pair: EURUSD for Buy and Sell
+2025-01-07 02:07:22,482 - INFO - Processing pair: GBPUSD for Buy and Sell
+2025-01-07 02:07:22,482 - INFO - Processing pair: USDCAD for Buy and Sell
+2025-01-07 02:07:22,482 - INFO - Processing pair: AUDUSD for Buy and Sell
+2025-01-07 02:07:22,482 - INFO - Processing pair: USDCHF for Buy and Sell
+2025-01-07 02:07:38,030 - INFO - Connected to MetaTrader 5 with login: 51988094
+2025-01-07 02:07:53,040 - INFO - Connected to MetaTrader 5 with login: 52024094
+2025-01-07 02:08:08,050 - INFO - Connected to MetaTrader 5 with login: 51988090
+2025-01-07 02:08:23,060 - INFO - Connected to MetaTrader 5 with login: 51988092
+2025-01-07 02:08:38,070 - INFO - Connected to MetaTrader 5 with login: 52013349
+2025-01-07 02:30:08,062 - INFO - Fetching and processing data for EURUSD
+2025-01-07 02:30:11,030 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2025-01-07 02:30:20,563 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2025-01-07 02:30:23,072 - INFO - Fetching and processing data for GBPUSD
+2025-01-07 02:30:27,660 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2025-01-07 02:30:30,705 - INFO - Fetching and processing data for EURUSD
+2025-01-07 02:30:35,580 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2025-01-07 02:30:38,042 - INFO - Fetching and processing data for USDCAD
+2025-01-07 02:30:38,112 - INFO - Fetching and processing data for AUDUSD
+2025-01-07 02:30:48,398 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2025-01-07 02:30:49,091 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2025-01-07 02:30:50,139 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2025-01-07 02:30:53,054 - INFO - Fetching and processing data for USDCHF
+2025-01-07 02:31:01,168 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2025-01-07 02:31:07,862 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2025-01-07 02:31:19,245 - INFO - Fetching and processing data for GBPUSD
+2025-01-07 02:31:34,897 - INFO - Buy order placed successfully for EURUSD.
+2025-01-07 02:31:34,903 - INFO - Finished trading for EURUSD at 2025-01-07 01:30:08.062199+00:00 UTC
+2025-01-07 02:31:35,970 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2025-01-07 02:31:36,117 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2025-01-07 02:31:36,866 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2025-01-07 02:31:48,840 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2025-01-07 02:32:00,886 - INFO - Fetching and processing data for AUDUSD
+2025-01-07 02:32:00,913 - INFO - Fetching and processing data for USDCAD
+2025-01-07 02:32:08,161 - INFO - Fetching and processing data for USDCHF
+2025-01-07 02:32:09,354 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2025-01-07 02:32:10,590 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2025-01-07 02:32:11,530 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2025-01-07 02:32:18,028 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2025-01-07 02:32:36,594 - INFO - Buy order placed successfully for GBPUSD.
+2025-01-07 02:32:36,610 - INFO - Finished trading for GBPUSD at 2025-01-07 01:30:23.072802+00:00 UTC
+2025-01-07 02:32:43,564 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2025-01-07 02:32:44,905 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2025-01-07 02:32:47,649 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2025-01-07 02:33:03,229 - INFO - Sell order placed successfully for USDCAD.
+2025-01-07 02:33:03,252 - INFO - Finished trading for USDCAD at 2025-01-07 01:30:38.042896+00:00 UTC
+2025-01-07 02:33:03,947 - INFO - Finished trading for AUDUSD at 2025-01-07 01:30:38.112363+00:00 UTC
+2025-01-07 02:33:05,647 - INFO - Sell order placed successfully for USDCHF.
+2025-01-07 02:33:05,647 - INFO - Finished trading for USDCHF at 2025-01-07 01:30:53.054057+00:00 UTC
+2025-01-07 23:31:52,977 - INFO - Processing pair: EURUSD for Buy and Sell
+2025-01-07 23:31:52,977 - INFO - Processing pair: GBPUSD for Buy and Sell
+2025-01-07 23:31:52,978 - INFO - Processing pair: USDCAD for Buy and Sell
+2025-01-07 23:31:52,979 - INFO - Processing pair: AUDUSD for Buy and Sell
+2025-01-07 23:31:52,980 - INFO - Processing pair: USDCHF for Buy and Sell
+2025-01-07 23:32:08,923 - INFO - Connected to MetaTrader 5 with login: 51988094
+2025-01-07 23:32:24,062 - INFO - Connected to MetaTrader 5 with login: 52024094
+2025-01-07 23:32:39,226 - INFO - Connected to MetaTrader 5 with login: 51988090
+2025-01-07 23:32:55,297 - INFO - Connected to MetaTrader 5 with login: 51988092
+2025-01-07 23:33:10,318 - INFO - Connected to MetaTrader 5 with login: 52013349
+2025-01-08 00:30:08,951 - INFO - Fetching and processing data for USDCAD
+2025-01-08 00:30:10,346 - INFO - Fetching and processing data for AUDUSD
+2025-01-08 00:30:12,961 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2025-01-08 00:30:14,709 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2025-01-08 00:30:24,090 - INFO - Fetching and processing data for USDCHF
+2025-01-08 00:30:29,725 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2025-01-08 00:30:30,756 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2025-01-08 00:30:35,347 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2025-01-08 00:30:39,288 - INFO - Fetching and processing data for EURUSD
+2025-01-08 00:30:49,070 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2025-01-08 00:30:53,146 - INFO - Fetching and processing data for USDCAD
+2025-01-08 00:30:55,328 - INFO - Fetching and processing data for GBPUSD
+2025-01-08 00:30:59,169 - INFO - Fetching and processing data for AUDUSD
+2025-01-08 00:31:07,777 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2025-01-08 00:31:08,594 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2025-01-08 00:31:09,543 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2025-01-08 00:31:11,603 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2025-01-08 00:31:17,740 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2025-01-08 00:31:45,504 - INFO - Fetching and processing data for USDCHF
+2025-01-08 00:31:46,072 - INFO - Fetching and processing data for EURUSD
+2025-01-08 00:31:48,703 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2025-01-08 00:31:56,545 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2025-01-08 00:31:57,520 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2025-01-08 00:31:58,867 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2025-01-08 00:32:00,040 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2025-01-08 00:32:09,256 - INFO - Sell order placed successfully for USDCAD.
+2025-01-08 00:32:09,256 - INFO - Finished trading for USDCAD at 2025-01-07 23:30:08.950515+00:00 UTC
+2025-01-08 00:32:28,846 - INFO - Buy order placed successfully for AUDUSD.
+2025-01-08 00:32:28,878 - INFO - Finished trading for AUDUSD at 2025-01-07 23:30:10.346402+00:00 UTC
+2025-01-08 00:32:30,509 - INFO - Fetching and processing data for GBPUSD
+2025-01-08 00:32:38,760 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2025-01-08 00:32:38,904 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2025-01-08 00:32:38,915 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2025-01-08 00:33:00,318 - INFO - Sell order placed successfully for USDCHF.
+2025-01-08 00:33:00,318 - INFO - Finished trading for USDCHF at 2025-01-07 23:30:24.090650+00:00 UTC
+2025-01-08 00:33:00,708 - INFO - Buy order placed successfully for EURUSD.
+2025-01-08 00:33:00,709 - INFO - Finished trading for EURUSD at 2025-01-07 23:30:39.288204+00:00 UTC
+2025-01-08 00:33:03,629 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2025-01-08 00:33:12,625 - INFO - Buy order placed successfully for GBPUSD.
+2025-01-08 00:33:12,625 - INFO - Finished trading for GBPUSD at 2025-01-07 23:30:55.328899+00:00 UTC
+2025-01-08 23:37:39,906 - INFO - Processing pair: EURUSD for Buy and Sell
+2025-01-08 23:37:39,906 - INFO - Processing pair: GBPUSD for Buy and Sell
+2025-01-08 23:37:39,906 - INFO - Processing pair: USDCAD for Buy and Sell
+2025-01-08 23:37:39,906 - INFO - Processing pair: AUDUSD for Buy and Sell
+2025-01-08 23:37:39,906 - INFO - Processing pair: USDCHF for Buy and Sell
+2025-01-08 23:37:55,475 - INFO - Connected to MetaTrader 5 with login: 52024094
+2025-01-08 23:38:10,491 - INFO - Connected to MetaTrader 5 with login: 51988094
+2025-01-08 23:38:25,506 - INFO - Connected to MetaTrader 5 with login: 51988092
+2025-01-08 23:38:40,526 - INFO - Connected to MetaTrader 5 with login: 51988090
+2025-01-08 23:38:56,597 - INFO - Connected to MetaTrader 5 with login: 52013349
+2025-01-09 00:11:29,382 - INFO - Processing pair: EURUSD for Buy and Sell
+2025-01-09 00:11:29,383 - INFO - Processing pair: GBPUSD for Buy and Sell
+2025-01-09 00:11:29,384 - INFO - Processing pair: USDCAD for Buy and Sell
+2025-01-09 00:11:29,384 - INFO - Processing pair: AUDUSD for Buy and Sell
+2025-01-09 00:11:29,384 - INFO - Processing pair: USDCHF for Buy and Sell
+2025-01-09 00:11:44,934 - INFO - Connected to MetaTrader 5 with login: 52024094
+2025-01-09 00:11:59,957 - INFO - Connected to MetaTrader 5 with login: 51988094
+2025-01-09 00:12:14,982 - INFO - Connected to MetaTrader 5 with login: 51988092
+2025-01-09 00:12:30,007 - INFO - Connected to MetaTrader 5 with login: 51988090
+2025-01-09 00:12:45,025 - INFO - Connected to MetaTrader 5 with login: 52013349
+2025-01-09 00:30:01,099 - INFO - Fetching and processing data for USDCAD
+2025-01-09 00:30:04,328 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2025-01-09 00:30:14,878 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2025-01-09 00:30:16,121 - INFO - Fetching and processing data for GBPUSD
+2025-01-09 00:30:21,119 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2025-01-09 00:30:26,542 - INFO - Fetching and processing data for USDCAD
+2025-01-09 00:30:31,145 - INFO - Fetching and processing data for EURUSD
+2025-01-09 00:30:32,309 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2025-01-09 00:30:37,219 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2025-01-09 00:30:43,114 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2025-01-09 00:30:46,116 - INFO - Fetching and processing data for USDCHF
+2025-01-09 00:30:46,166 - INFO - Fetching and processing data for AUDUSD
+2025-01-09 00:31:06,018 - INFO - Fetching and processing data for GBPUSD
+2025-01-09 00:31:06,352 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2025-01-09 00:31:06,361 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2025-01-09 00:31:07,188 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2025-01-09 00:31:07,846 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2025-01-09 00:31:19,932 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2025-01-09 00:31:42,645 - INFO - Fetching and processing data for EURUSD
+2025-01-09 00:31:43,276 - INFO - Buy order placed successfully for USDCAD.
+2025-01-09 00:31:43,277 - INFO - Finished trading for USDCAD at 2025-01-08 23:30:01.099262+00:00 UTC
+2025-01-09 00:31:53,083 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2025-01-09 00:31:53,307 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2025-01-09 00:31:56,238 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2025-01-09 00:31:57,752 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2025-01-09 00:32:16,128 - INFO - Fetching and processing data for USDCHF
+2025-01-09 00:32:16,249 - INFO - Fetching and processing data for AUDUSD
+2025-01-09 00:32:25,316 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2025-01-09 00:32:25,468 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2025-01-09 00:32:26,134 - INFO - Sell order placed successfully for GBPUSD.
+2025-01-09 00:32:26,135 - INFO - Finished trading for GBPUSD at 2025-01-08 23:30:16.121015+00:00 UTC
+2025-01-09 00:32:33,777 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2025-01-09 00:32:53,194 - INFO - Finished trading for EURUSD at 2025-01-08 23:30:31.145969+00:00 UTC
+2025-01-09 00:32:54,100 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2025-01-09 00:32:54,142 - WARNING - Dependency not available for matrix_profile, this feature will be disabled!
+2025-01-09 00:33:08,699 - INFO - Buy order placed successfully for USDCHF.
+2025-01-09 00:33:08,699 - INFO - Finished trading for USDCHF at 2025-01-08 23:30:46.116187+00:00 UTC
+2025-01-09 00:33:09,205 - INFO - Sell order placed successfully for AUDUSD.
+2025-01-09 00:33:09,206 - INFO - Finished trading for AUDUSD at 2025-01-08 23:30:46.166822+00:00 UTC

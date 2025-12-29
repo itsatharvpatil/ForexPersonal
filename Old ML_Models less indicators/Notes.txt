@@ -1,0 +1,22 @@
+parameters 1
+
+StopLoss = 1
+TakeProfit = 3
+
+    # Hyperparameters
+    n_estimators = 80
+    class_weight = {0: 5, 1: 6}
+    max_features = None
+    random_state = 5
+
+
+parameters 1
+
+StopLoss = 1
+TakeProfit = 2
+
+    # Hyperparameters
+    n_estimators = 120
+    class_weight = {0: 5, 1: 10}
+    max_features = 'log2'
+    random_state = 42
